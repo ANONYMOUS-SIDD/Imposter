@@ -1,0 +1,365 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "culture_001",
+      "english": "Dashain",
+      "nepali": "दशैं",
+      "hints": {
+        "easy": { "english": "Tika", "nepali": "टीका" },
+        "medium": { "english": "Jamara", "nepali": "जमरा" },
+        "hard": { "english": "Fulpati", "nepali": "फूलपाती" }
+      }
+    },
+    {
+      "id": "culture_002",
+      "english": "Tihar",
+      "nepali": "तिहार",
+      "hints": {
+        "easy": { "english": "Lights", "nepali": "बत्ती" },
+        "medium": { "english": "Bhaitika", "nepali": "भाइटिका" },
+        "hard": { "english": "Rangoli", "nepali": "रङ्गोली" }
+      }
+    },
+    {
+      "id": "culture_003",
+      "english": "Holi",
+      "nepali": "होली",
+      "hints": {
+        "easy": { "english": "Colors", "nepali": "रङ" },
+        "medium": { "english": "Gulal", "nepali": "अबिर" },
+        "hard": { "english": "Pichkari", "nepali": "पिचकारी" }
+      }
+    },
+    {
+      "id": "culture_004",
+      "english": "Teej",
+      "nepali": "तीज",
+      "hints": {
+        "easy": { "english": "Women", "nepali": "महिला" },
+        "medium": { "english": "Dar", "nepali": "दर" },
+        "hard": { "english": "Fasting", "nepali": "व्रत" }
+      }
+    },
+    {
+      "id": "culture_005",
+      "english": "Chhath",
+      "nepali": "छठ",
+      "hints": {
+        "easy": { "english": "Sun", "nepali": "घाम" },
+        "medium": { "english": "River", "nepali": "नदी" },
+        "hard": { "english": "Offering", "nepali": "अर्घ्य" }
+      }
+    },
+    {
+      "id": "culture_006",
+      "english": "Maghe Sankranti",
+      "nepali": "माघे सङ्क्रान्ति",
+      "hints": {
+        "easy": { "english": "Sesame", "nepali": "तिल" },
+        "medium": { "english": "Chaku", "nepali": "चाकु" },
+        "hard": { "english": "Tarul", "nepali": "तरुल" }
+      }
+    },
+    {
+      "id": "culture_010",
+      "english": "Lhosar",
+      "nepali": "ल्होसार",
+      "hints": {
+        "easy": { "english": "New Year", "nepali": "नयाँ वर्ष" },
+        "medium": { "english": "Tamang", "nepali": "तामाङ" },
+        "hard": { "english": "Gumba", "nepali": "गुम्बा" }
+      }
+    },
+    {
+      "id": "culture_011",
+      "english": "Buddha Jayanti",
+      "nepali": "बुद्ध जयन्ती",
+      "hints": {
+        "easy": { "english": "Buddha", "nepali": "बुद्ध" },
+        "medium": { "english": "Lumbini", "nepali": "लुम्बिनी" },
+        "hard": { "english": "Peace", "nepali": "शान्ति" }
+      }
+    },
+    {
+      "id": "culture_012",
+      "english": "Janai Purnima",
+      "nepali": "जनै पूर्णिमा",
+      "hints": {
+        "easy": { "english": "Thread", "nepali": "धागो" },
+        "medium": { "english": "Wrist", "nepali": "नाडी" },
+        "hard": { "english": "Kwati", "nepali": "क्वाँटी" }
+      }
+    },
+    {
+      "id": "culture_013",
+      "english": "Maha Shivaratri",
+      "nepali": "महाशिवरात्रि",
+      "hints": {
+        "easy": { "english": "Shiva", "nepali": "शिव" },
+        "medium": { "english": "Pashupati", "nepali": "पशुपति" },
+        "hard": { "english": "Belpatra", "nepali": "बेलपत्र" }
+      }
+    },
+    {
+      "id": "culture_014",
+      "english": "Krishna Janmashtami",
+      "nepali": "कृष्ण जन्माष्टमी",
+      "hints": {
+        "easy": { "english": "Krishna", "nepali": "कृष्ण" },
+        "medium": { "english": "Flute", "nepali": "बाँसुरी" },
+        "hard": { "english": "Makhan", "nepali": "मक्खन" }
+      }
+    },
+    {
+      "id": "culture_015",
+      "english": "Christmas",
+      "nepali": "क्रिसमस",
+      "hints": {
+        "easy": { "english": "Santa", "nepali": "सान्टा" },
+        "medium": { "english": "Tree", "nepali": "क्रिसमस रूख" },
+        "hard": { "english": "Reindeer", "nepali": "रेनडियर" }
+      }
+    },
+    {
+      "id": "culture_016",
+      "english": "Eid al-Fitr",
+      "nepali": "ईद उल फित्र",
+      "hints": {
+        "easy": { "english": "Ramadan", "nepali": "रमजान" },
+        "medium": { "english": "Moon", "nepali": "चन्द्रमा" },
+        "hard": { "english": "Prayer", "nepali": "प्रार्थना" }
+      }
+    },
+    {
+      "id": "culture_022",
+      "english": "Chinese New Year",
+      "nepali": "चिनियाँ नयाँ वर्ष",
+      "hints": {
+        "easy": { "english": "Dragon", "nepali": "ड्रागन" },
+        "medium": { "english": "Lantern", "nepali": "चिनियाँ लालटिन" },
+        "hard": { "english": "Zodiac", "nepali": "राशिचक्र" }
+      }
+    },
+    {
+      "id": "culture_023",
+      "english": "Halloween",
+      "nepali": "हेलोविन",
+      "hints": {
+        "easy": { "english": "Pumpkin", "nepali": "फर्सी" },
+        "medium": { "english": "Costume", "nepali": "पहिरन" },
+        "hard": { "english": "Haunted", "nepali": "भूत लागेको" }
+      }
+    },
+    {
+      "id": "culture_025",
+      "english": "Valentine's Day",
+      "nepali": "भ्यालेन्टाइन डे",
+      "hints": {
+        "easy": { "english": "Love", "nepali": "माया" },
+        "medium": { "english": "Rose", "nepali": "गुलाब" },
+        "hard": { "english": "Cupid", "nepali": "कामदेव" }
+      }
+    },
+    {
+      "id": "culture_031",
+      "english": "Mehendi",
+      "nepali": "मेहन्दी",
+      "hints": {
+        "easy": { "english": "Hands", "nepali": "हात" },
+        "medium": { "english": "Patterns", "nepali": "बुट्टा" },
+        "hard": { "english": "Bridal", "nepali": "दुलहीको" }
+      }
+    },
+    {
+      "id": "culture_032",
+      "english": "Wedding",
+      "nepali": "विवाह",
+      "hints": {
+        "easy": { "english": "Bride", "nepali": "दुलही" },
+        "medium": { "english": "Groom", "nepali": "दुलाहा" },
+        "hard": { "english": "Vows", "nepali": "कसम" }
+      }
+    },
+    {
+      "id": "culture_033",
+      "english": "Bratabandha",
+      "nepali": "व्रतबन्ध",
+      "hints": {
+        "easy": { "english": "Janai", "nepali": "जनै" },
+        "medium": { "english": "Ceremony", "nepali": "संस्कार" },
+        "hard": { "english": "Gayatri", "nepali": "गायत्री" }
+      }
+    },
+    {
+      "id": "culture_034",
+      "english": "Pasni",
+      "nepali": "पास्नी",
+      "hints": {
+        "easy": { "english": "Baby", "nepali": "बच्चा" },
+        "medium": { "english": "Rice", "nepali": "भात" },
+        "hard": { "english": "Feeding", "nepali": "खुवाउने" }
+      }
+    },
+    {
+      "id": "culture_035",
+      "english": "Newari Feast",
+      "nepali": "नेवारी भोज",
+      "hints": {
+        "easy": { "english": "Newar", "nepali": "नेवार" },
+        "medium": { "english": "Samaybaji", "nepali": "समयबजी" },
+        "hard": { "english": "Bara", "nepali": "बारा" }
+      }
+    },
+    {
+      "id": "culture_036",
+      "english": "Lakhe Dance",
+      "nepali": "लाखे नाच",
+      "hints": {
+        "easy": { "english": "Mask", "nepali": "मुखुण्डो" },
+        "medium": { "english": "Newar", "nepali": "नेवार" },
+        "hard": { "english": "Demon", "nepali": "राक्षस" }
+      }
+    },
+    {
+      "id": "culture_037",
+      "english": "Deusi Bhailo",
+      "nepali": "देउसी भैलो",
+      "hints": {
+        "easy": { "english": "Tihar", "nepali": "तिहार" },
+        "medium": { "english": "Singing", "nepali": "गीत गाउने" },
+        "hard": { "english": "Dakshina", "nepali": "दक्षिणा" }
+      }
+    },
+    {
+      "id": "culture_038",
+      "english": "Panche Baja",
+      "nepali": "पञ्चेबाजा",
+      "hints": {
+        "easy": { "english": "Music", "nepali": "सङ्गीत" },
+        "medium": { "english": "Wedding", "nepali": "विवाह" },
+        "hard": { "english": "Damaha", "nepali": "दमाहा" }
+      }
+    },
+    {
+      "id": "culture_039",
+      "english": "Dhime",
+      "nepali": "धिमे",
+      "hints": {
+        "easy": { "english": "Drum", "nepali": "ढोल" },
+        "medium": { "english": "Newar", "nepali": "नेवार" },
+        "hard": { "english": "Jatra", "nepali": "जात्रा" }
+      }
+    },
+    {
+      "id": "culture_041",
+      "english": "Mithila Art",
+      "nepali": "मिथिला कला",
+      "hints": {
+        "easy": { "english": "Painting", "nepali": "चित्रकला" },
+        "medium": { "english": "Fish", "nepali": "माछा" },
+        "hard": { "english": "Madhubani", "nepali": "मधुबनी" }
+      }
+    },
+    {
+      "id": "culture_043",
+      "english": "Mandala",
+      "nepali": "मण्डला",
+      "hints": {
+        "easy": { "english": "Circle", "nepali": "गोलो" },
+        "medium": { "english": "Pattern", "nepali": "बुट्टा" },
+        "hard": { "english": "Meditation", "nepali": "ध्यान" }
+      }
+    },
+    {
+      "id": "culture_044",
+      "english": "Yoga",
+      "nepali": "योग",
+      "hints": {
+        "easy": { "english": "Exercise", "nepali": "व्यायाम" },
+        "medium": { "english": "Stretching", "nepali": "अङ्ग तन्काउने" },
+        "hard": { "english": "Asana", "nepali": "आसन" }
+      }
+    },
+    {
+      "id": "culture_045",
+      "english": "Meditation",
+      "nepali": "ध्यान",
+      "hints": {
+        "easy": { "english": "Peace", "nepali": "शान्ति" },
+        "medium": { "english": "Silence", "nepali": "मौन" },
+        "hard": { "english": "Focus", "nepali": "एकाग्रता" }
+      }
+    },
+    {
+      "id": "culture_046",
+      "english": "Namaste",
+      "nepali": "नमस्ते",
+      "hints": {
+        "easy": { "english": "Greeting", "nepali": "अभिवादन" },
+        "medium": { "english": "Palms", "nepali": "हत्केला" },
+        "hard": { "english": "Respect", "nepali": "आदर" }
+      }
+    },
+    {
+      "id": "culture_048",
+      "english": "Guru Purnima",
+      "nepali": "गुरु पूर्णिमा",
+      "hints": {
+        "easy": { "english": "Teacher", "nepali": "शिक्षक" },
+        "medium": { "english": "Student", "nepali": "विद्यार्थी" },
+        "hard": { "english": "Blessing", "nepali": "आशीर्वाद" }
+      }
+    },
+    {
+      "id": "culture_049",
+      "english": "Rakhi",
+      "nepali": "राखी",
+      "hints": {
+        "easy": { "english": "Brother", "nepali": "दाजुभाइ" },
+        "medium": { "english": "Wrist", "nepali": "नाडी" },
+        "hard": { "english": "Sibling", "nepali": "सहोदर" }
+      }
+    },
+    {
+      "id": "culture_052",
+      "english": "Baraat",
+      "nepali": "जन्ती",
+      "hints": {
+        "easy": { "english": "Groom", "nepali": "दुलाहा" },
+        "medium": { "english": "Procession", "nepali": "जन्ती" },
+        "hard": { "english": "Band", "nepali": "बाजा" }
+      }
+    },
+    {
+      "id": "culture_053",
+      "english": "Swayambar",
+      "nepali": "स्वयंवर",
+      "hints": {
+        "easy": { "english": "Marriage", "nepali": "विवाह" },
+        "medium": { "english": "Garland", "nepali": "माला" },
+        "hard": { "english": "Archer", "nepali": "धनुर्धर" }
+      }
+    },
+    {
+      "id": "culture_054",
+      "english": "Bhoj",
+      "nepali": "भोज",
+      "hints": {
+        "easy": { "english": "Guests", "nepali": "पाहुना" },
+        "medium": { "english": "Banana leaf", "nepali": "केराको पात" },
+        "hard": { "english": "Invitation", "nepali": "निम्तो" }
+      }
+    },
+    {
+      "id": "culture_055",
+      "english": "Jatra",
+      "nepali": "जात्रा",
+      "hints": {
+        "easy": { "english": "Festival", "nepali": "चाडपर्व" },
+        "medium": { "english": "Crowd", "nepali": "भीड" },
+        "hard": { "english": "Chariot", "nepali": "रथ" }
+      }
+    }
+  ]
+}

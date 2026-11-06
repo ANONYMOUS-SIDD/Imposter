@@ -1,0 +1,285 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "places_001",
+      "english": "Japan",
+      "nepali": "जापान",
+      "hints": {
+        "easy": { "english": "Sushi", "nepali": "सुशी" },
+        "medium": { "english": "Anime", "nepali": "एनिमे" },
+        "hard": { "english": "Samurai", "nepali": "समुराई" }
+      }
+    },
+    {
+      "id": "places_004",
+      "english": "Nepal",
+      "nepali": "नेपाल",
+      "hints": {
+        "easy": { "english": "Momo", "nepali": "मोमो" },
+        "medium": { "english": "Gurkha", "nepali": "गोर्खाली" },
+        "hard": { "english": "Rhino", "nepali": "गैँडा" }
+      }
+    },
+    {
+      "id": "places_005",
+      "english": "India",
+      "nepali": "भारत",
+      "hints": {
+        "easy": { "english": "Bollywood", "nepali": "बलिउड" },
+        "medium": { "english": "Cricket", "nepali": "क्रिकेट" },
+        "hard": { "english": "Taj Mahal", "nepali": "ताजमहल" }
+      }
+    },
+    {
+      "id": "places_006",
+      "english": "China",
+      "nepali": "चीन",
+      "hints": {
+        "easy": { "english": "Pandas", "nepali": "पाण्डा" },
+        "medium": { "english": "Noodles", "nepali": "चाउचाउ" },
+        "hard": { "english": "Silk", "nepali": "रेशम" }
+      }
+    },
+    {
+      "id": "places_007",
+      "english": "United States",
+      "nepali": "संयुक्त राज्य अमेरिका",
+      "hints": {
+        "easy": { "english": "Hollywood", "nepali": "हलिउड" },
+        "medium": { "english": "Burgers", "nepali": "बर्गर" },
+        "hard": { "english": "Statue of Liberty", "nepali": "स्वतन्त्रताको मूर्ति" }
+      }
+    },
+    {
+      "id": "places_008",
+      "english": "United Kingdom",
+      "nepali": "बेलायत",
+      "hints": {
+        "easy": { "english": "Royalty", "nepali": "राजपरिवार" },
+        "medium": { "english": "Big Ben", "nepali": "बिग बेन" },
+        "hard": { "english": "Shakespeare", "nepali": "शेक्सपियर" }
+      }
+    },
+    {
+      "id": "places_009",
+      "english": "Australia",
+      "nepali": "अस्ट्रेलिया",
+      "hints": {
+        "easy": { "english": "Kangaroo", "nepali": "कङ्गारु" },
+        "medium": { "english": "Koala", "nepali": "कोआला" },
+        "hard": { "english": "Outback", "nepali": "दुर्गम भित्री भूभाग" }
+      }
+    },
+    {
+      "id": "places_010",
+      "english": "Brazil",
+      "nepali": "ब्राजिल",
+      "hints": {
+        "easy": { "english": "Football", "nepali": "फुटबल" },
+        "medium": { "english": "Carnival", "nepali": "कार्निभल" },
+        "hard": { "english": "Amazon", "nepali": "अमेजन" }
+      }
+    },
+    {
+      "id": "places_011",
+      "english": "Egypt",
+      "nepali": "इजिप्ट",
+      "hints": {
+        "easy": { "english": "Pyramids", "nepali": "पिरामिड" },
+        "medium": { "english": "Mummies", "nepali": "ममी" },
+        "hard": { "english": "Pharaoh", "nepali": "फारो" }
+      }
+    },
+    {
+      "id": "places_012",
+      "english": "Thailand",
+      "nepali": "थाइल्यान्ड",
+      "hints": {
+        "easy": { "english": "Elephants", "nepali": "हात्ती" },
+        "medium": { "english": "Pad Thai", "nepali": "प्याड थाई" },
+        "hard": { "english": "Tuk-tuk", "nepali": "टुकटुक" }
+      }
+    },
+    {
+      "id": "places_013",
+      "english": "South Korea",
+      "nepali": "दक्षिण कोरिया",
+      "hints": {
+        "easy": { "english": "K-pop", "nepali": "के-पप" },
+        "medium": { "english": "Kimchi", "nepali": "किम्ची" },
+        "hard": { "english": "Taekwondo", "nepali": "ताइक्वान्दो" }
+      }
+    },
+    {
+      "id": "places_014",
+      "english": "Italy",
+      "nepali": "इटाली",
+      "hints": {
+        "easy": { "english": "Pizza", "nepali": "पिज्जा" },
+        "medium": { "english": "Pasta", "nepali": "पास्ता" },
+        "hard": { "english": "Colosseum", "nepali": "कोलोसियम" }
+      }
+    },
+    {
+      "id": "places_015",
+      "english": "France",
+      "nepali": "फ्रान्स",
+      "hints": {
+        "easy": { "english": "Eiffel Tower", "nepali": "आइफेल टावर" },
+        "medium": { "english": "Perfume", "nepali": "अत्तर" },
+        "hard": { "english": "Croissant", "nepali": "क्रोइसाँ" }
+      }
+    },
+    {
+      "id": "places_016",
+      "english": "Germany",
+      "nepali": "जर्मनी",
+      "hints": {
+        "easy": { "english": "Cars", "nepali": "गाडी" },
+        "medium": { "english": "Benz", "nepali": "बेन्ज" },
+        "hard": { "english": "Oktoberfest", "nepali": "अक्टोबरफेस्ट" }
+      }
+    },
+    {
+      "id": "places_017",
+      "english": "Switzerland",
+      "nepali": "स्विट्जरल्यान्ड",
+      "hints": {
+        "easy": { "english": "Chocolate", "nepali": "चकलेट" },
+        "medium": { "english": "Watches", "nepali": "घडी" },
+        "hard": { "english": "Alps", "nepali": "आल्प्स पर्वत" }
+      }
+    },
+    {
+      "id": "places_018",
+      "english": "Dubai",
+      "nepali": "दुबई",
+      "hints": {
+        "easy": { "english": "Burj Khalifa", "nepali": "बुर्ज खलिफा" },
+        "medium": { "english": "Luxury", "nepali": "विलासिता" },
+        "hard": { "english": "Desert", "nepali": "मरुभूमि" }
+      }
+    },
+    {
+      "id": "places_019",
+      "english": "Singapore",
+      "nepali": "सिंगापुर",
+      "hints": {
+        "easy": { "english": "Merlion", "nepali": "मर्लायन" },
+        "medium": { "english": "Orchids", "nepali": "सुनाखरी" },
+        "hard": { "english": "Hawker", "nepali": "खाना बजार" }
+      }
+    },
+    {
+      "id": "places_020",
+      "english": "Maldives",
+      "nepali": "माल्दिभ्स",
+      "hints": {
+        "easy": { "english": "Beaches", "nepali": "समुद्री तट" },
+        "medium": { "english": "Resorts", "nepali": "रिसोर्ट" },
+        "hard": { "english": "Atolls", "nepali": "प्रवालद्वीप" }
+      }
+    },
+    {
+      "id": "places_091",
+      "english": "Iceland",
+      "nepali": "आइसल्यान्ड",
+      "hints": {
+        "easy": { "english": "Glaciers", "nepali": "हिमनदी" },
+        "medium": { "english": "Volcanoes", "nepali": "ज्वालामुखी" },
+        "hard": { "english": "Geysers", "nepali": "तातोपानीका फोहरा" }
+      }
+    },
+    {
+      "id": "places_092",
+      "english": "New Zealand",
+      "nepali": "न्युजिल्यान्ड",
+      "hints": {
+        "easy": { "english": "Kiwi", "nepali": "किवी चरा" },
+        "medium": { "english": "Rugby", "nepali": "रग्बी" },
+        "hard": { "english": "Hobbits", "nepali": "हबिट" }
+      }
+    },
+    {
+      "id": "places_093",
+      "english": "Russia",
+      "nepali": "रुस",
+      "hints": {
+        "easy": { "english": "Snow", "nepali": "हिउँ" },
+        "medium": { "english": "Ballet", "nepali": "ब्याले" },
+        "hard": { "english": "Moscow", "nepali": "मस्को" }
+      }
+    },
+    {
+      "id": "places_094",
+      "english": "Greece",
+      "nepali": "ग्रीस",
+      "hints": {
+        "easy": { "english": "Mythology", "nepali": "पौराणिक कथा" },
+        "medium": { "english": "Olives", "nepali": "जैतुन" },
+        "hard": { "english": "Olympics", "nepali": "ओलम्पिक" }
+      }
+    },
+    {
+      "id": "places_095",
+      "english": "Spain",
+      "nepali": "स्पेन",
+      "hints": {
+        "easy": { "english": "Football", "nepali": "फुटबल" },
+        "medium": { "english": "Flamenco", "nepali": "फ्लामेन्को" },
+        "hard": { "english": "Paella", "nepali": "पाएया" }
+      }
+    },
+    {
+      "id": "places_096",
+      "english": "Mexico",
+      "nepali": "मेक्सिको",
+      "hints": {
+        "easy": { "english": "Tacos", "nepali": "टाकोस" },
+        "medium": { "english": "Mariachi", "nepali": "मारियाची" },
+        "hard": { "english": "Sombrero", "nepali": "सोम्ब्रेरो" }
+      }
+    },
+    {
+      "id": "places_097",
+      "english": "Canada",
+      "nepali": "क्यानडा",
+      "hints": {
+        "easy": { "english": "Maple", "nepali": "मेपल" },
+        "medium": { "english": "Hockey", "nepali": "हक्की" },
+        "hard": { "english": "Moose", "nepali": "मुस" }
+      }
+    },
+    {
+      "id": "places_098",
+      "english": "Argentina",
+      "nepali": "अर्जेन्टिना",
+      "hints": {
+        "easy": { "english": "Messi", "nepali": "मेसी" },
+        "medium": { "english": "Football", "nepali": "फुटबल" },
+        "hard": { "english": "Tango", "nepali": "ट्याङ्गो" }
+      }
+    },
+    {
+      "id": "places_099",
+      "english": "Kenya",
+      "nepali": "केन्या",
+      "hints": {
+        "easy": { "english": "Safari", "nepali": "सफारी" },
+        "medium": { "english": "Lions", "nepali": "सिंह" },
+        "hard": { "english": "Marathon", "nepali": "म्याराथन" }
+      }
+    },
+    {
+      "id": "places_100",
+      "english": "Saudi Arabia",
+      "nepali": "साउदी अरब",
+      "hints": {
+        "easy": { "english": "Desert", "nepali": "मरुभूमि" },
+        "medium": { "english": "Dates", "nepali": "खजुर" },
+        "hard": { "english": "Mecca", "nepali": "मक्का" }
+      }
+    }
+  ]
+}

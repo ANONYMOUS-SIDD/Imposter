@@ -1,0 +1,765 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "school_001",
+      "english": "Book",
+      "nepali": "किताब",
+      "hints": {
+        "easy": {"english": "Reading", "nepali": "पढाइ"},
+        "medium": {"english": "Pages", "nepali": "पानाहरू"},
+        "hard": {"english": "Bookmark", "nepali": "पाना चिनो"}
+      }
+    },
+    {
+      "id": "school_002",
+      "english": "Pencil",
+      "nepali": "पेन्सिल",
+      "hints": {
+        "easy": {"english": "Writing", "nepali": "लेखाइ"},
+        "medium": {"english": "Eraser", "nepali": "रबर"},
+        "hard": {"english": "Graphite", "nepali": "ग्रेफाइट"}
+      }
+    },
+    {
+      "id": "school_003",
+      "english": "Chalkboard",
+      "nepali": "कालोपाटी",
+      "hints": {
+        "easy": {"english": "Classroom", "nepali": "कक्षाकोठा"},
+        "medium": {"english": "Chalk", "nepali": "चक"},
+        "hard": {"english": "Duster", "nepali": "डस्टर"}
+      }
+    },
+    {
+      "id": "school_004",
+      "english": "Notebook",
+      "nepali": "कापी",
+      "hints": {
+        "easy": {"english": "Writing", "nepali": "लेखाइ"},
+        "medium": {"english": "Homework", "nepali": "गृहकार्य"},
+        "hard": {"english": "Spiral", "nepali": "घुमाउरो बाँधाइ"}
+      }
+    },
+    {
+      "id": "school_005",
+      "english": "Pen",
+      "nepali": "कलम",
+      "hints": {
+        "easy": {"english": "Ink", "nepali": "मसी"},
+        "medium": {"english": "Ballpoint", "nepali": "बलपोइन्ट"},
+        "hard": {"english": "Refill", "nepali": "रिफिल"}
+      }
+    },
+    {
+      "id": "school_006",
+      "english": "Eraser",
+      "nepali": "रबर",
+      "hints": {
+        "easy": {"english": "Pencil", "nepali": "पेन्सिल"},
+        "medium": {"english": "Mistake", "nepali": "गल्ती"},
+        "hard": {"english": "Rubber", "nepali": "रबर"}
+      }
+    },
+    {
+      "id": "school_007",
+      "english": "Ruler",
+      "nepali": "स्केल",
+      "hints": {
+        "easy": {"english": "Measurement", "nepali": "नाप"},
+        "medium": {"english": "Centimetre", "nepali": "सेन्टिमिटर"},
+        "hard": {"english": "Straightedge", "nepali": "सीधा किनारा"}
+      }
+    },
+    {
+      "id": "school_008",
+      "english": "Sharpener",
+      "nepali": "पेन्सिल छिल्ने साधन",
+      "hints": {
+        "easy": {"english": "Pencil", "nepali": "पेन्सिल"},
+        "medium": {"english": "Blade", "nepali": "धार"},
+        "hard": {"english": "Shavings", "nepali": "छिल्का"}
+      }
+    },
+    {
+      "id": "school_009",
+      "english": "School Bag",
+      "nepali": "विद्यालयको झोला",
+      "hints": {
+        "easy": {"english": "Books", "nepali": "किताब"},
+        "medium": {"english": "Shoulder", "nepali": "काँध"},
+        "hard": {"english": "Zipper", "nepali": "जिप"}
+      }
+    },
+    {
+      "id": "school_010",
+      "english": "Geometry Box",
+      "nepali": "ज्यामितीय बाकस",
+      "hints": {
+        "easy": {"english": "Mathematics", "nepali": "गणित"},
+        "medium": {"english": "Compass", "nepali": "कम्पास"},
+        "hard": {"english": "Protractor", "nepali": "कोणमापक"}
+      }
+    },
+    {
+      "id": "school_011",
+      "english": "School Uniform",
+      "nepali": "विद्यालय पोशाक",
+      "hints": {
+        "easy": {"english": "Students", "nepali": "विद्यार्थी"},
+        "medium": {"english": "Tie", "nepali": "टाई"},
+        "hard": {"english": "Emblem", "nepali": "चिह्न"}
+      }
+    },
+    {
+      "id": "school_012",
+      "english": "Desk",
+      "nepali": "डेस्क",
+      "hints": {
+        "easy": {"english": "Classroom", "nepali": "कक्षाकोठा"},
+        "medium": {"english": "Writing", "nepali": "लेखाइ"},
+        "hard": {"english": "Drawer", "nepali": "दराज"}
+      }
+    },
+    {
+      "id": "school_013",
+      "english": "Chair",
+      "nepali": "कुर्सी",
+      "hints": {
+        "easy": {"english": "Sitting", "nepali": "बसाइ"},
+        "medium": {"english": "Furniture", "nepali": "फर्निचर"},
+        "hard": {"english": "Backrest", "nepali": "ढाड अड्याउने भाग"}
+      }
+    },
+    {
+      "id": "school_014",
+      "english": "Blackboard Duster",
+      "nepali": "डस्टर",
+      "hints": {
+        "easy": {"english": "Chalk", "nepali": "चक"},
+        "medium": {"english": "Erasing", "nepali": "मेटाउने काम"},
+        "hard": {"english": "Felt", "nepali": "मोटो कपडा"}
+      }
+    },
+    {
+      "id": "school_015",
+      "english": "Whiteboard",
+      "nepali": "सेतोपाटी",
+      "hints": {
+        "easy": {"english": "Marker", "nepali": "मार्कर"},
+        "medium": {"english": "Classroom", "nepali": "कक्षाकोठा"},
+        "hard": {"english": "Melamine", "nepali": "मेलामाइन"}
+      }
+    },
+    {
+      "id": "school_016",
+      "english": "Marker",
+      "nepali": "मार्कर",
+      "hints": {
+        "easy": {"english": "Writing", "nepali": "लेखाइ"},
+        "medium": {"english": "Whiteboard", "nepali": "सेतोपाटी"},
+        "hard": {"english": "Cap", "nepali": "बिर्को"}
+      }
+    },
+    {
+      "id": "school_017",
+      "english": "School Bus",
+      "nepali": "विद्यालय बस",
+      "hints": {
+        "easy": {"english": "Students", "nepali": "विद्यार्थी"},
+        "medium": {"english": "Transport", "nepali": "यातायात"},
+        "hard": {"english": "Route", "nepali": "मार्ग"}
+      }
+    },
+    {
+      "id": "school_018",
+      "english": "Bell",
+      "nepali": "घण्टी",
+      "hints": {
+        "easy": {"english": "Sound", "nepali": "आवाज"},
+        "medium": {"english": "Break", "nepali": "विश्राम"},
+        "hard": {"english": "Period", "nepali": "पिरियड"}
+      }
+    },
+    {
+      "id": "school_019",
+      "english": "Clock",
+      "nepali": "घडी",
+      "hints": {
+        "easy": {"english": "Time", "nepali": "समय"},
+        "medium": {"english": "Punctuality", "nepali": "समयनिष्ठा"},
+        "hard": {"english": "Pendulum", "nepali": "लोलक"}
+      }
+    },
+    {
+      "id": "school_020",
+      "english": "Globe",
+      "nepali": "ग्लोब",
+      "hints": {
+        "easy": {"english": "Earth", "nepali": "पृथ्वी"},
+        "medium": {"english": "Countries", "nepali": "देशहरू"},
+        "hard": {"english": "Latitude", "nepali": "अक्षांश"}
+      }
+    },
+    {
+      "id": "school_021",
+      "english": "Map",
+      "nepali": "नक्सा",
+      "hints": {
+        "easy": {"english": "Geography", "nepali": "भूगोल"},
+        "medium": {"english": "Directions", "nepali": "दिशाहरू"},
+        "hard": {"english": "Legend", "nepali": "नक्साका सङ्केत"}
+      }
+    },
+    {
+      "id": "school_022",
+      "english": "Calculator",
+      "nepali": "क्याल्कुलेटर",
+      "hints": {
+        "easy": {"english": "Mathematics", "nepali": "गणित"},
+        "medium": {"english": "Numbers", "nepali": "अङ्क"},
+        "hard": {"english": "Equation", "nepali": "समीकरण"}
+      }
+    },
+    {
+      "id": "school_023",
+      "english": "Scissors",
+      "nepali": "कैंची",
+      "hints": {
+        "easy": {"english": "Cutting", "nepali": "काट्ने काम"},
+        "medium": {"english": "Paper", "nepali": "कागज"},
+        "hard": {"english": "Blades", "nepali": "धारहरू"}
+      }
+    },
+    {
+      "id": "school_024",
+      "english": "Glue",
+      "nepali": "गोंद",
+      "hints": {
+        "easy": {"english": "Sticking", "nepali": "टाँस्ने काम"},
+        "medium": {"english": "Paper", "nepali": "कागज"},
+        "hard": {"english": "Adhesive", "nepali": "टाँस्ने पदार्थ"}
+      }
+    },
+    {
+      "id": "school_025",
+      "english": "Stapler",
+      "nepali": "स्टेपलर",
+      "hints": {
+        "easy": {"english": "Paper", "nepali": "कागज"},
+        "medium": {"english": "Staples", "nepali": "स्टेपल पिन"},
+        "hard": {"english": "Binding", "nepali": "बाँध्ने काम"}
+      }
+    },
+    {
+      "id": "school_026",
+      "english": "Paper Clip",
+      "nepali": "पेपर क्लिप",
+      "hints": {
+        "easy": {"english": "Paper", "nepali": "कागज"},
+        "medium": {"english": "Holding", "nepali": "समात्ने काम"},
+        "hard": {"english": "Wire", "nepali": "तार"}
+      }
+    },
+    {
+      "id": "school_027",
+      "english": "Lunchbox",
+      "nepali": "खाजा बाकस",
+      "hints": {
+        "easy": {"english": "Food", "nepali": "खाना"},
+        "medium": {"english": "Breaktime", "nepali": "खाजा समय"},
+        "hard": {"english": "Tiffin", "nepali": "टिफिन"}
+      }
+    },
+    {
+      "id": "school_028",
+      "english": "Water Bottle",
+      "nepali": "पानीको बोतल",
+      "hints": {
+        "easy": {"english": "Water", "nepali": "पानी"},
+        "medium": {"english": "Thirst", "nepali": "तिर्खा"},
+        "hard": {"english": "Refill", "nepali": "फेरि भर्ने"}
+      }
+    },
+    {
+      "id": "school_029",
+      "english": "Dictionary",
+      "nepali": "शब्दकोश",
+      "hints": {
+        "easy": {"english": "Words", "nepali": "शब्द"},
+        "medium": {"english": "Meaning", "nepali": "अर्थ"},
+        "hard": {"english": "Alphabetical", "nepali": "वर्णानुक्रम"}
+      }
+    },
+    {
+      "id": "school_030",
+      "english": "Storybook",
+      "nepali": "कथापुस्तक",
+      "hints": {
+        "easy": {"english": "Stories", "nepali": "कथाहरू"},
+        "medium": {"english": "Characters", "nepali": "पात्रहरू"},
+        "hard": {"english": "Fiction", "nepali": "काल्पनिक कथा"}
+      }
+    },
+    {
+      "id": "school_031",
+      "english": "Homework",
+      "nepali": "गृहकार्य",
+      "hints": {
+        "easy": {"english": "Assignment", "nepali": "काम"},
+        "medium": {"english": "Notebook", "nepali": "कापी"},
+        "hard": {"english": "Deadline", "nepali": "अन्तिम मिति"}
+      }
+    },
+    {
+      "id": "school_032",
+      "english": "Examination",
+      "nepali": "परीक्षा",
+      "hints": {
+        "easy": {"english": "Questions", "nepali": "प्रश्नहरू"},
+        "medium": {"english": "Answer", "nepali": "उत्तर"},
+        "hard": {"english": "Results", "nepali": "नतिजा"}
+      }
+    },
+    {
+      "id": "school_033",
+      "english": "Question Paper",
+      "nepali": "प्रश्नपत्र",
+      "hints": {
+        "easy": {"english": "Exam", "nepali": "परीक्षा"},
+        "medium": {"english": "Questions", "nepali": "प्रश्नहरू"},
+        "hard": {"english": "Marks", "nepali": "अङ्क"}
+      }
+    },
+    {
+      "id": "school_034",
+      "english": "Answer Sheet",
+      "nepali": "उत्तरपुस्तिका",
+      "hints": {
+        "easy": {"english": "Exam", "nepali": "परीक्षा"},
+        "medium": {"english": "Writing", "nepali": "लेखाइ"},
+        "hard": {"english": "Evaluation", "nepali": "मूल्याङ्कन"}
+      }
+    },
+    {
+      "id": "school_035",
+      "english": "Report Card",
+      "nepali": "लब्धाङ्कपत्र",
+      "hints": {
+        "easy": {"english": "Results", "nepali": "नतिजा"},
+        "medium": {"english": "Grades", "nepali": "श्रेणी"},
+        "hard": {"english": "Performance", "nepali": "कार्यसम्पादन"}
+      }
+    },
+    {
+      "id": "school_036",
+      "english": "Homework Diary",
+      "nepali": "गृहकार्य डायरी",
+      "hints": {
+        "easy": {"english": "Assignments", "nepali": "कार्यहरू"},
+        "medium": {"english": "Schedule", "nepali": "तालिका"},
+        "hard": {"english": "Reminder", "nepali": "सम्झना"}
+      }
+    },
+    {
+      "id": "school_037",
+      "english": "Timetable",
+      "nepali": "समयतालिका",
+      "hints": {
+        "easy": {"english": "Periods", "nepali": "पिरियडहरू"},
+        "medium": {"english": "Subjects", "nepali": "विषयहरू"},
+        "hard": {"english": "Schedule", "nepali": "कार्यतालिका"}
+      }
+    },
+    {
+      "id": "school_038",
+      "english": "Attendance",
+      "nepali": "हाजिरी",
+      "hints": {
+        "easy": {"english": "Present", "nepali": "उपस्थित"},
+        "medium": {"english": "Absence", "nepali": "अनुपस्थिति"},
+        "hard": {"english": "Register", "nepali": "हाजिरी किताब"}
+      }
+    },
+    {
+      "id": "school_039",
+      "english": "Certificate",
+      "nepali": "प्रमाणपत्र",
+      "hints": {
+        "easy": {"english": "Achievement", "nepali": "उपलब्धि"},
+        "medium": {"english": "Award", "nepali": "पुरस्कार"},
+        "hard": {"english": "Qualification", "nepali": "योग्यता"}
+      }
+    },
+    {
+      "id": "school_040",
+      "english": "Medal",
+      "nepali": "पदक",
+      "hints": {
+        "easy": {"english": "Winner", "nepali": "विजेता"},
+        "medium": {"english": "Competition", "nepali": "प्रतियोगिता"},
+        "hard": {"english": "Podium", "nepali": "विजेता मञ्च"}
+      }
+    },
+    {
+      "id": "school_041",
+      "english": "Principal",
+      "nepali": "प्रधानाध्यापक",
+      "hints": {
+        "easy": {"english": "School", "nepali": "विद्यालय"},
+        "medium": {"english": "Assembly", "nepali": "प्रार्थना सभा"},
+        "hard": {"english": "Administration", "nepali": "प्रशासन"}
+      }
+    },
+    {
+      "id": "school_042",
+      "english": "Teacher",
+      "nepali": "शिक्षक",
+      "hints": {
+        "easy": {"english": "Students", "nepali": "विद्यार्थी"},
+        "medium": {"english": "Lesson", "nepali": "पाठ"},
+        "hard": {"english": "Grading", "nepali": "अङ्क निर्धारण"}
+      }
+    },
+    {
+      "id": "school_043",
+      "english": "Student",
+      "nepali": "विद्यार्थी",
+      "hints": {
+        "easy": {"english": "School", "nepali": "विद्यालय"},
+        "medium": {"english": "Homework", "nepali": "गृहकार्य"},
+        "hard": {"english": "Scholarship", "nepali": "छात्रवृत्ति"}
+      }
+    },
+    {
+      "id": "school_044",
+      "english": "Classmate",
+      "nepali": "सहपाठी",
+      "hints": {
+        "easy": {"english": "Friend", "nepali": "साथी"},
+        "medium": {"english": "Classroom", "nepali": "कक्षाकोठा"},
+        "hard": {"english": "Benchmate", "nepali": "बेन्च साथी"}
+      }
+    },
+    {
+      "id": "school_045",
+      "english": "Monitor",
+      "nepali": "कक्षा प्रतिनिधि",
+      "hints": {
+        "easy": {"english": "Leader", "nepali": "नेता"},
+        "medium": {"english": "Classroom", "nepali": "कक्षाकोठा"},
+        "hard": {"english": "Responsibility", "nepali": "जिम्मेवारी"}
+      }
+    },
+    {
+      "id": "school_046",
+      "english": "Librarian",
+      "nepali": "पुस्तकालयाध्यक्ष",
+      "hints": {
+        "easy": {"english": "Books", "nepali": "किताबहरू"},
+        "medium": {"english": "Library", "nepali": "पुस्तकालय"},
+        "hard": {"english": "Catalogue", "nepali": "पुस्तक सूची"}
+      }
+    },
+    {
+      "id": "school_047",
+      "english": "School Guard",
+      "nepali": "विद्यालय सुरक्षाकर्मी",
+      "hints": {
+        "easy": {"english": "Gate", "nepali": "ढोका"},
+        "medium": {"english": "Security", "nepali": "सुरक्षा"},
+        "hard": {"english": "Visitor", "nepali": "आगन्तुक"}
+      }
+    },
+    {
+      "id": "school_048",
+      "english": "School Bus Driver",
+      "nepali": "विद्यालय बस चालक",
+      "hints": {
+        "easy": {"english": "Students", "nepali": "विद्यार्थी"},
+        "medium": {"english": "Bus", "nepali": "बस"},
+        "hard": {"english": "Transport", "nepali": "यातायात"}
+      }
+    },
+    {
+      "id": "school_049",
+      "english": "Janitor",
+      "nepali": "विद्यालय सफाइकर्मी",
+      "hints": {
+        "easy": {"english": "Cleaning", "nepali": "सफाइ"},
+        "medium": {"english": "Broom", "nepali": "कुचो"},
+        "hard": {"english": "Maintenance", "nepali": "मर्मतसम्भार"}
+      }
+    },
+    {
+      "id": "school_050",
+      "english": "Mathematics",
+      "nepali": "गणित",
+      "hints": {
+        "easy": {"english": "Numbers", "nepali": "अङ्क"},
+        "medium": {"english": "Addition", "nepali": "जोड"},
+        "hard": {"english": "Algebra", "nepali": "बीजगणित"}
+      }
+    },
+    {
+      "id": "school_051",
+      "english": "Science",
+      "nepali": "विज्ञान",
+      "hints": {
+        "easy": {"english": "Experiments", "nepali": "प्रयोगहरू"},
+        "medium": {"english": "Laboratory", "nepali": "प्रयोगशाला"},
+        "hard": {"english": "Hypothesis", "nepali": "परिकल्पना"}
+      }
+    },
+    {
+      "id": "school_052",
+      "english": "English",
+      "nepali": "अङ्ग्रेजी",
+      "hints": {
+        "easy": {"english": "Alphabet", "nepali": "वर्णमाला"},
+        "medium": {"english": "Grammar", "nepali": "व्याकरण"},
+        "hard": {"english": "Vocabulary", "nepali": "शब्दभण्डार"}
+      }
+    },
+    {
+      "id": "school_053",
+      "english": "Nepali",
+      "nepali": "नेपाली",
+      "hints": {
+        "easy": {"english": "Language", "nepali": "भाषा"},
+        "medium": {"english": "Devanagari", "nepali": "देवनागरी"},
+        "hard": {"english": "Literature", "nepali": "साहित्य"}
+      }
+    },
+    {
+      "id": "school_054",
+      "english": "Social Studies",
+      "nepali": "सामाजिक अध्ययन",
+      "hints": {
+        "easy": {"english": "Society", "nepali": "समाज"},
+        "medium": {"english": "History", "nepali": "इतिहास"},
+        "hard": {"english": "Citizenship", "nepali": "नागरिकता"}
+      }
+    },
+    {
+      "id": "school_055",
+      "english": "Geography",
+      "nepali": "भूगोल",
+      "hints": {
+        "easy": {"english": "Earth", "nepali": "पृथ्वी"},
+        "medium": {"english": "Mountains", "nepali": "पहाडहरू"},
+        "hard": {"english": "Climate", "nepali": "जलवायु"}
+      }
+    },
+    {
+      "id": "school_056",
+      "english": "History",
+      "nepali": "इतिहास",
+      "hints": {
+        "easy": {"english": "Past", "nepali": "विगत"},
+        "medium": {"english": "Kings", "nepali": "राजाहरू"},
+        "hard": {"english": "Civilization", "nepali": "सभ्यता"}
+      }
+    },
+    {
+      "id": "school_057",
+      "english": "Computer",
+      "nepali": "कम्प्युटर",
+      "hints": {
+        "easy": {"english": "Technology", "nepali": "प्रविधि"},
+        "medium": {"english": "Keyboard", "nepali": "किबोर्ड"},
+        "hard": {"english": "Processor", "nepali": "प्रोसेसर"}
+      }
+    },
+    {
+      "id": "school_058",
+      "english": "Computer Lab",
+      "nepali": "कम्प्युटर प्रयोगशाला",
+      "hints": {
+        "easy": {"english": "Computers", "nepali": "कम्प्युटरहरू"},
+        "medium": {"english": "Internet", "nepali": "इन्टरनेट"},
+        "hard": {"english": "Practical", "nepali": "व्यावहारिक अभ्यास"}
+      }
+    },
+    {
+      "id": "school_059",
+      "english": "Physical Education",
+      "nepali": "शारीरिक शिक्षा",
+      "hints": {
+        "easy": {"english": "Exercise", "nepali": "व्यायाम"},
+        "medium": {"english": "Sports", "nepali": "खेलकुद"},
+        "hard": {"english": "Fitness", "nepali": "तन्दुरुस्ती"}
+      }
+    },
+    {
+      "id": "school_060",
+      "english": "Drawing",
+      "nepali": "चित्रकला",
+      "hints": {
+        "easy": {"english": "Colours", "nepali": "रङहरू"},
+        "medium": {"english": "Sketch", "nepali": "रेखाचित्र"},
+        "hard": {"english": "Shading", "nepali": "छायाङ्कन"}
+      }
+    },
+    {
+      "id": "school_061",
+      "english": "Music Class",
+      "nepali": "सङ्गीत कक्षा",
+      "hints": {
+        "easy": {"english": "Singing", "nepali": "गायन"},
+        "medium": {"english": "Instruments", "nepali": "वाद्ययन्त्र"},
+        "hard": {"english": "Melody", "nepali": "धुन"}
+      }
+    },
+    {
+      "id": "school_062",
+      "english": "Assembly",
+      "nepali": "प्रार्थना सभा",
+      "hints": {
+        "easy": {"english": "Morning", "nepali": "बिहान"},
+        "medium": {"english": "Prayer", "nepali": "प्रार्थना"},
+        "hard": {"english": "Pledge", "nepali": "प्रतिज्ञा"}
+      }
+    },
+    {
+      "id": "school_063",
+      "english": "Recess",
+      "nepali": "विश्राम समय",
+      "hints": {
+        "easy": {"english": "Break", "nepali": "विश्राम"},
+        "medium": {"english": "Playground", "nepali": "खेलमैदान"},
+        "hard": {"english": "Refreshment", "nepali": "ताजगी"}
+      }
+    },
+    {
+      "id": "school_064",
+      "english": "Homework Assignment",
+      "nepali": "गृहकार्य",
+      "hints": {
+        "easy": {"english": "Teacher", "nepali": "शिक्षक"},
+        "medium": {"english": "Deadline", "nepali": "अन्तिम मिति"},
+        "hard": {"english": "Submission", "nepali": "बुझाउने काम"}
+      }
+    },
+    {
+      "id": "school_065",
+      "english": "Quiz",
+      "nepali": "हाजिरीजवाफ",
+      "hints": {
+        "easy": {"english": "Questions", "nepali": "प्रश्नहरू"},
+        "medium": {"english": "Answers", "nepali": "उत्तरहरू"},
+        "hard": {"english": "Buzzer", "nepali": "बजर"}
+      }
+    },
+    {
+      "id": "school_066",
+      "english": "Debate",
+      "nepali": "वादविवाद",
+      "hints": {
+        "easy": {"english": "Arguments", "nepali": "तर्कहरू"},
+        "medium": {"english": "Opinion", "nepali": "विचार"},
+        "hard": {"english": "Rebuttal", "nepali": "प्रत्युत्तर"}
+      }
+    },
+    {
+      "id": "school_067",
+      "english": "Speech",
+      "nepali": "भाषण",
+      "hints": {
+        "easy": {"english": "Stage", "nepali": "मञ्च"},
+        "medium": {"english": "Audience", "nepali": "श्रोता"},
+        "hard": {"english": "Oratory", "nepali": "वक्तृत्वकला"}
+      }
+    },
+    {
+      "id": "school_068",
+      "english": "Annual Function",
+      "nepali": "वार्षिक समारोह",
+      "hints": {
+        "easy": {"english": "Celebration", "nepali": "उत्सव"},
+        "medium": {"english": "Performance", "nepali": "प्रस्तुति"},
+        "hard": {"english": "Awards", "nepali": "पुरस्कारहरू"}
+      }
+    },
+    {
+      "id": "school_069",
+      "english": "Sports Day",
+      "nepali": "खेलकुद दिवस",
+      "hints": {
+        "easy": {"english": "Games", "nepali": "खेलहरू"},
+        "medium": {"english": "Race", "nepali": "दौड"},
+        "hard": {"english": "Medals", "nepali": "पदकहरू"}
+      }
+    },
+    {
+      "id": "school_070",
+      "english": "Field Trip",
+      "nepali": "शैक्षिक भ्रमण",
+      "hints": {
+        "easy": {"english": "Travel", "nepali": "यात्रा"},
+        "medium": {"english": "Museum", "nepali": "सङ्ग्रहालय"},
+        "hard": {"english": "Excursion", "nepali": "शैक्षिक भ्रमण"}
+      }
+    },
+    {
+      "id": "school_073",
+      "english": "Laboratory",
+      "nepali": "प्रयोगशाला",
+      "hints": {
+        "easy": {"english": "Science", "nepali": "विज्ञान"},
+        "medium": {"english": "Experiments", "nepali": "प्रयोगहरू"},
+        "hard": {"english": "Microscope", "nepali": "सूक्ष्मदर्शक"}
+      }
+    },
+    {
+      "id": "school_074",
+      "english": "Microscope",
+      "nepali": "सूक्ष्मदर्शक",
+      "hints": {
+        "easy": {"english": "Science", "nepali": "विज्ञान"},
+        "medium": {"english": "Magnification", "nepali": "ठूलो देखाउने प्रक्रिया"},
+        "hard": {"english": "Specimen", "nepali": "नमुना"}
+      }
+    },
+    {
+      "id": "school_075",
+      "english": "School Project",
+      "nepali": "विद्यालय परियोजना",
+      "hints": {
+        "easy": {"english": "Assignment", "nepali": "कार्य"},
+        "medium": {"english": "Model", "nepali": "नमुना"},
+        "hard": {"english": "Presentation", "nepali": "प्रस्तुति"}
+      }
+    },
+    {
+      "id": "school_077",
+      "english": "Notice Board",
+      "nepali": "सूचनापाटी",
+      "hints": {
+        "easy": {"english": "Announcements", "nepali": "सूचनाहरू"},
+        "medium": {"english": "Results", "nepali": "नतिजा"},
+        "hard": {"english": "Pinboard", "nepali": "पिन लगाउने पाटी"}
+      }
+    },
+    {
+      "id": "school_078",
+      "english": "School Canteen",
+      "nepali": "विद्यालय क्यान्टिन",
+      "hints": {
+        "easy": {"english": "Snacks", "nepali": "खाजा"},
+        "medium": {"english": "Lunch", "nepali": "दिउँसोको खाना"},
+        "hard": {"english": "Queue", "nepali": "लाम"}
+      }
+    },
+    {
+      "id": "school_080",
+      "english": "Graduation",
+      "nepali": "दीक्षान्त",
+      "hints": {
+        "easy": {"english": "Diploma", "nepali": "उपाधि"},
+        "medium": {"english": "Gown", "nepali": "दीक्षान्त पोशाक"},
+        "hard": {"english": "Ceremony", "nepali": "समारोह"}
+      }
+    }
+  ]
+}

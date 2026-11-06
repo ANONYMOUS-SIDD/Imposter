@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "vehicles_001",
+      "english": "Car",
+      "nepali": "कार",
+      "hints": {
+        "easy": { "english": "Driving", "nepali": "ड्राइभिङ" },
+        "medium": { "english": "Steering", "nepali": "स्टेयरिङ" },
+        "hard": { "english": "Highway", "nepali": "राजमार्ग" }
+      }
+    },
+    {
+      "id": "vehicles_002",
+      "english": "Bicycle",
+      "nepali": "साइकल",
+      "hints": {
+        "easy": { "english": "Pedals", "nepali": "प्याडल" },
+        "medium": { "english": "Bell", "nepali": "घण्टी" },
+        "hard": { "english": "Chain", "nepali": "चेन" }
+      }
+    },
+    {
+      "id": "vehicles_003",
+      "english": "Airplane",
+      "nepali": "हवाईजहाज",
+      "hints": {
+        "easy": { "english": "Flying", "nepali": "उडान" },
+        "medium": { "english": "Airport", "nepali": "विमानस्थल" },
+        "hard": { "english": "Pilot", "nepali": "पाइलट" }
+      }
+    },
+    {
+      "id": "vehicles_004",
+      "english": "Motorcycle",
+      "nepali": "मोटरसाइकल",
+      "hints": {
+        "easy": { "english": "Helmet", "nepali": "हेल्मेट" },
+        "medium": { "english": "Petrol", "nepali": "पेट्रोल" },
+        "hard": { "english": "Kickstart", "nepali": "किकस्टार्ट" }
+      }
+    },
+    {
+      "id": "vehicles_005",
+      "english": "Scooter",
+      "nepali": "स्कुटर",
+      "hints": {
+        "easy": { "english": "Two-wheeler", "nepali": "दुईपाङ्ग्रे" },
+        "medium": { "english": "Footboard", "nepali": "खुट्टा राख्ने भाग" },
+        "hard": { "english": "Gearless", "nepali": "गियररहित" }
+      }
+    },
+    {
+      "id": "vehicles_006",
+      "english": "Bus",
+      "nepali": "बस",
+      "hints": {
+        "easy": { "english": "Passengers", "nepali": "यात्रु" },
+        "medium": { "english": "Stop", "nepali": "स्टप" },
+        "hard": { "english": "Conductor", "nepali": "परिचालक" }
+      }
+    },
+    {
+      "id": "vehicles_007",
+      "english": "Truck",
+      "nepali": "ट्रक",
+      "hints": {
+        "easy": { "english": "Cargo", "nepali": "मालसामान" },
+        "medium": { "english": "Goods", "nepali": "सामान" },
+        "hard": { "english": "Highway", "nepali": "राजमार्ग" }
+      }
+    },
+    {
+      "id": "vehicles_008",
+      "english": "Train",
+      "nepali": "रेल",
+      "hints": {
+        "easy": { "english": "Railway", "nepali": "रेलमार्ग" },
+        "medium": { "english": "Station", "nepali": "स्टेसन" },
+        "hard": { "english": "Tracks", "nepali": "रेलको लिक" }
+      }
+    },
+    {
+      "id": "vehicles_009",
+      "english": "Helicopter",
+      "nepali": "हेलिकप्टर",
+      "hints": {
+        "easy": { "english": "Flying", "nepali": "उडान" },
+        "medium": { "english": "Rescue", "nepali": "उद्धार" },
+        "hard": { "english": "Rotor", "nepali": "घुम्ने पङ्खा" }
+      }
+    },
+    {
+      "id": "vehicles_010",
+      "english": "Boat",
+      "nepali": "डुङ्गा",
+      "hints": {
+        "easy": { "english": "Water", "nepali": "पानी" },
+        "medium": { "english": "Oars", "nepali": "चप्पु" },
+        "hard": { "english": "Paddling", "nepali": "खियाउने" }
+      }
+    },
+    {
+      "id": "vehicles_011",
+      "english": "Ship",
+      "nepali": "जहाज",
+      "hints": {
+        "easy": { "english": "Ocean", "nepali": "महासागर" },
+        "medium": { "english": "Port", "nepali": "बन्दरगाह" },
+        "hard": { "english": "Captain", "nepali": "कप्तान" }
+      }
+    },
+    {
+      "id": "vehicles_012",
+      "english": "Taxi",
+      "nepali": "ट्याक्सी",
+      "hints": {
+        "easy": { "english": "Fare", "nepali": "भाडा" },
+        "medium": { "english": "Meter", "nepali": "मिटर" },
+        "hard": { "english": "Passenger", "nepali": "यात्रु" }
+      }
+    },
+    {
+      "id": "vehicles_013",
+      "english": "Auto Rickshaw",
+      "nepali": "अटो रिक्सा",
+      "hints": {
+        "easy": { "english": "Three-wheeler", "nepali": "तीनपाङ्ग्रे" },
+        "medium": { "english": "Tuk-tuk", "nepali": "टुकटुक" },
+        "hard": { "english": "Meter", "nepali": "मिटर" }
+      }
+    },
+    {
+      "id": "vehicles_014",
+      "english": "Rickshaw",
+      "nepali": "रिक्सा",
+      "hints": {
+        "easy": { "english": "Pedals", "nepali": "प्याडल" },
+        "medium": { "english": "Passenger", "nepali": "यात्रु" },
+        "hard": { "english": "Pulling", "nepali": "तान्ने" }
+      }
+    },
+    {
+      "id": "vehicles_015",
+      "english": "Van",
+      "nepali": "भ्यान",
+      "hints": {
+        "easy": { "english": "Family", "nepali": "परिवार" },
+        "medium": { "english": "Seats", "nepali": "सिट" },
+        "hard": { "english": "Minibus", "nepali": "मिनीबस" }
+      }
+    },
+    {
+      "id": "vehicles_016",
+      "english": "Jeep",
+      "nepali": "जिप",
+      "hints": {
+        "easy": { "english": "Offroad", "nepali": "कच्चीबाटो" },
+        "medium": { "english": "Four-wheel", "nepali": "चारपाङ्ग्रे" },
+        "hard": { "english": "Safari", "nepali": "सफारी" }
+      }
+    },
+    {
+      "id": "vehicles_017",
+      "english": "Ambulance",
+      "nepali": "एम्बुलेन्स",
+      "hints": {
+        "easy": { "english": "Hospital", "nepali": "अस्पताल" },
+        "medium": { "english": "Emergency", "nepali": "आपत्काल" },
+        "hard": { "english": "Siren", "nepali": "साइरन" }
+      }
+    },
+    {
+      "id": "vehicles_018",
+      "english": "Fire Engine",
+      "nepali": "दमकल",
+      "hints": {
+        "easy": { "english": "Fire", "nepali": "आगो" },
+        "medium": { "english": "Hose", "nepali": "पानीको पाइप" },
+        "hard": { "english": "Ladder", "nepali": "भर्‍याङ" }
+      }
+    },
+    {
+      "id": "vehicles_019",
+      "english": "Police Car",
+      "nepali": "प्रहरी गाडी",
+      "hints": {
+        "easy": { "english": "Police", "nepali": "प्रहरी" },
+        "medium": { "english": "Siren", "nepali": "साइरन" },
+        "hard": { "english": "Patrol", "nepali": "गस्ती" }
+      }
+    },
+    {
+      "id": "vehicles_020",
+      "english": "School Bus",
+      "nepali": "स्कुल बस",
+      "hints": {
+        "easy": { "english": "Students", "nepali": "विद्यार्थी" },
+        "medium": { "english": "Uniform", "nepali": "पोशाक" },
+        "hard": { "english": "Yellow", "nepali": "पहेंलो" }
+      }
+    },
+    {
+      "id": "vehicles_021",
+      "english": "Tractor",
+      "nepali": "ट्र्याक्टर",
+      "hints": {
+        "easy": { "english": "Farmer", "nepali": "किसान" },
+        "medium": { "english": "Field", "nepali": "खेत" },
+        "hard": { "english": "Plough", "nepali": "हल" }
+      }
+    },
+    {
+      "id": "vehicles_022",
+      "english": "Bulldozer",
+      "nepali": "बुलडोजर",
+      "hints": {
+        "easy": { "english": "Construction", "nepali": "निर्माण" },
+        "medium": { "english": "Blade", "nepali": "फलामे पाता" },
+        "hard": { "english": "Earth", "nepali": "माटो" }
+      }
+    },
+    {
+      "id": "vehicles_023",
+      "english": "Crane",
+      "nepali": "क्रेन",
+      "hints": {
+        "easy": { "english": "Building", "nepali": "भवन" },
+        "medium": { "english": "Lifting", "nepali": "उचाल्ने" },
+        "hard": { "english": "Hook", "nepali": "हुक" }
+      }
+    },
+    {
+      "id": "vehicles_024",
+      "english": "Excavator",
+      "nepali": "एक्साभेटर",
+      "hints": {
+        "easy": { "english": "Digging", "nepali": "खन्ने" },
+        "medium": { "english": "Bucket", "nepali": "बकेट" },
+        "hard": { "english": "Digger", "nepali": "खन्ने मेसिन" }
+      }
+    },
+    {
+      "id": "vehicles_025",
+      "english": "Electric Car",
+      "nepali": "विद्युतीय कार",
+      "hints": {
+        "easy": { "english": "Battery", "nepali": "ब्याट्री" },
+        "medium": { "english": "Charging", "nepali": "चार्जिङ" },
+        "hard": { "english": "Tesla", "nepali": "टेस्ला" }
+      }
+    },
+    {
+      "id": "vehicles_026",
+      "english": "Electric Scooter",
+      "nepali": "विद्युतीय स्कुटर",
+      "hints": {
+        "easy": { "english": "Battery", "nepali": "ब्याट्री" },
+        "medium": { "english": "Charging", "nepali": "चार्जिङ" },
+        "hard": { "english": "Silent", "nepali": "निःशब्द" }
+      }
+    },
+    {
+      "id": "vehicles_027",
+      "english": "Pickup Truck",
+      "nepali": "पिकअप गाडी",
+      "hints": {
+        "easy": { "english": "Cargo", "nepali": "मालसामान" },
+        "medium": { "english": "Open", "nepali": "खुला" },
+        "hard": { "english": "Tailgate", "nepali": "पछाडिको ढोका" }
+      }
+    },
+    {
+      "id": "vehicles_028",
+      "english": "Sports Car",
+      "nepali": "स्पोर्ट्स कार",
+      "hints": {
+        "easy": { "english": "Speed", "nepali": "गति" },
+        "medium": { "english": "Race", "nepali": "दौड" },
+        "hard": { "english": "Ferrari", "nepali": "फेरारी" }
+      }
+    },
+    {
+      "id": "vehicles_029",
+      "english": "Race Car",
+      "nepali": "रेसिङ कार",
+      "hints": {
+        "easy": { "english": "Racing", "nepali": "रेसिङ" },
+        "medium": { "english": "Track", "nepali": "रेसिङ ट्र्याक" },
+        "hard": { "english": "Pitstop", "nepali": "पिटस्टप" }
+      }
+    },
+    {
+      "id": "vehicles_030",
+      "english": "Go-kart",
+      "nepali": "गोकार्ट",
+      "hints": {
+        "easy": { "english": "Racing", "nepali": "रेसिङ" },
+        "medium": { "english": "Track", "nepali": "ट्र्याक" },
+        "hard": { "english": "Small", "nepali": "सानो" }
+      }
+    },
+    {
+      "id": "vehicles_031",
+      "english": "Ferry",
+      "nepali": "फेरी",
+      "hints": {
+        "easy": { "english": "Water", "nepali": "पानी" },
+        "medium": { "english": "Passengers", "nepali": "यात्रु" },
+        "hard": { "english": "Crossing", "nepali": "वारपार" }
+      }
+    },
+    {
+      "id": "vehicles_032",
+      "english": "Submarine",
+      "nepali": "पनडुब्बी",
+      "hints": {
+        "easy": { "english": "Underwater", "nepali": "पानीमुनि" },
+        "medium": { "english": "Ocean", "nepali": "महासागर" },
+        "hard": { "english": "Periscope", "nepali": "पेरिस्कोप" }
+      }
+    },
+    {
+      "id": "vehicles_033",
+      "english": "Hot Air Balloon",
+      "nepali": "तातो हावाको बेलुन",
+      "hints": {
+        "easy": { "english": "Sky", "nepali": "आकाश" },
+        "medium": { "english": "Basket", "nepali": "टोकरी" },
+        "hard": { "english": "Flame", "nepali": "ज्वाला" }
+      }
+    },
+    {
+      "id": "vehicles_034",
+      "english": "Dirt Bike",
+      "nepali": "डर्ट बाइक",
+      "hints": {
+        "easy": { "english": "Motorcycle", "nepali": "मोटरसाइकल" },
+        "medium": { "english": "Mud", "nepali": "हिलो" },
+        "hard": { "english": "Offroad", "nepali": "कच्चीबाटो" }
+      }
+    },
+    {
+      "id": "vehicles_035",
+      "english": "Tank",
+      "nepali": "ट्याङ्क",
+      "hints": {
+        "easy": { "english": "Army", "nepali": "सेना" },
+        "medium": { "english": "Tracks", "nepali": "चेन पाङ्ग्रा" },
+        "hard": { "english": "Armour", "nepali": "कवच" }
+      }
+    },
+    {
+      "id": "vehicles_037",
+      "english": "Motorhome",
+      "nepali": "मोटरहोम",
+      "hints": {
+        "easy": { "english": "Travel", "nepali": "यात्रा" },
+        "medium": { "english": "House", "nepali": "घर" },
+        "hard": { "english": "Camping", "nepali": "क्याम्पिङ" }
+      }
+    },
+    {
+      "id": "vehicles_038",
+      "english": "Horse Cart",
+      "nepali": "घोडागाडी",
+      "hints": {
+        "easy": { "english": "Horse", "nepali": "घोडा" },
+        "medium": { "english": "Wheels", "nepali": "पाङ्ग्रा" },
+        "hard": { "english": "Carriage", "nepali": "बग्गी" }
+      }
+    },
+    {
+      "id": "vehicles_039",
+      "english": "Bullock Cart",
+      "nepali": "गोरुगाडा",
+      "hints": {
+        "easy": { "english": "Ox", "nepali": "गोरु" },
+        "medium": { "english": "Village", "nepali": "गाउँ" },
+        "hard": { "english": "Wooden", "nepali": "काठको" }
+      }
+    },
+    {
+      "id": "vehicles_040",
+      "english": "Skateboard",
+      "nepali": "स्केटबोर्ड",
+      "hints": {
+        "easy": { "english": "Wheels", "nepali": "पाङ्ग्रा" },
+        "medium": { "english": "Board", "nepali": "बोर्ड" },
+        "hard": { "english": "Tricks", "nepali": "कलाबाजी" }
+      }
+    },
+    {
+      "id": "vehicles_041",
+      "english": "Electric Bicycle",
+      "nepali": "विद्युतीय साइकल",
+      "hints": {
+        "easy": { "english": "Pedals", "nepali": "प्याडल" },
+        "medium": { "english": "Battery", "nepali": "ब्याट्री" },
+        "hard": { "english": "Motor", "nepali": "मोटर" }
+      }
+    },
+    {
+      "id": "vehicles_042",
+      "english": "Jet Ski",
+      "nepali": "जेट स्की",
+      "hints": {
+        "easy": { "english": "Water", "nepali": "पानी" },
+        "medium": { "english": "Speed", "nepali": "गति" },
+        "hard": { "english": "Handlebars", "nepali": "ह्यान्डल" }
+      }
+    },
+    {
+      "id": "vehicles_043",
+      "english": "Speedboat",
+      "nepali": "स्पिडबोट",
+      "hints": {
+        "easy": { "english": "Fast", "nepali": "छिटो" },
+        "medium": { "english": "Water", "nepali": "पानी" },
+        "hard": { "english": "Engine", "nepali": "इन्जिन" }
+      }
+    },
+    {
+      "id": "vehicles_044",
+      "english": "Cruise Ship",
+      "nepali": "क्रुज जहाज",
+      "hints": {
+        "easy": { "english": "Holiday", "nepali": "बिदा" },
+        "medium": { "english": "Ocean", "nepali": "महासागर" },
+        "hard": { "english": "Luxury", "nepali": "विलासिता" }
+      }
+    },
+    {
+      "id": "vehicles_045",
+      "english": "Fighter Jet",
+      "nepali": "लडाकु विमान",
+      "hints": {
+        "easy": { "english": "Air Force", "nepali": "वायुसेना" },
+        "medium": { "english": "Pilot", "nepali": "पाइलट" },
+        "hard": { "english": "Supersonic", "nepali": "ध्वनिभन्दा छिटो" }
+      }
+    },
+    {
+      "id": "vehicles_047",
+      "english": "Delivery Van",
+      "nepali": "सामान पुर्‍याउने भ्यान",
+      "hints": {
+        "easy": { "english": "Package", "nepali": "पार्सल" },
+        "medium": { "english": "Courier", "nepali": "कुरियर" },
+        "hard": { "english": "Doorstep", "nepali": "घरको ढोका" }
+      }
+    },
+    {
+      "id": "vehicles_048",
+      "english": "Garbage Truck",
+      "nepali": "फोहोर बोक्ने गाडी",
+      "hints": {
+        "easy": { "english": "Waste", "nepali": "फोहोर" },
+        "medium": { "english": "Dustbin", "nepali": "डस्टबिन" },
+        "hard": { "english": "Collection", "nepali": "सङ्कलन" }
+      }
+    },
+    {
+      "id": "vehicles_049",
+      "english": "Cement Mixer",
+      "nepali": "सिमेन्ट मिक्सर",
+      "hints": {
+        "easy": { "english": "Construction", "nepali": "निर्माण" },
+        "medium": { "english": "Concrete", "nepali": "कङ्क्रिट" },
+        "hard": { "english": "Drum", "nepali": "ड्रम" }
+      }
+    },
+    {
+      "id": "vehicles_050",
+      "english": "Road Roller",
+      "nepali": "रोड रोलर",
+      "hints": {
+        "easy": { "english": "Road", "nepali": "सडक" },
+        "medium": { "english": "Heavy", "nepali": "भारी" },
+        "hard": { "english": "Flatten", "nepali": "सम्याउने" }
+      }
+    },
+    {
+      "id": "vehicles_051",
+      "english": "Double-Decker Bus",
+      "nepali": "दुईतले बस",
+      "hints": {
+        "easy": { "english": "Bus", "nepali": "बस" },
+        "medium": { "english": "Two", "nepali": "दुई" },
+        "hard": { "english": "Upper", "nepali": "माथिल्लो" }
+      }
+    },
+    {
+      "id": "vehicles_054",
+      "english": "Metro",
+      "nepali": "मेट्रो रेल",
+      "hints": {
+        "easy": { "english": "City", "nepali": "सहर" },
+        "medium": { "english": "Underground", "nepali": "भूमिगत" },
+        "hard": { "english": "Platform", "nepali": "प्लेटफर्म" }
+      }
+    },
+    {
+      "id": "vehicles_055",
+      "english": "Cable Car",
+      "nepali": "केबलकार",
+      "hints": {
+        "easy": { "english": "Mountain", "nepali": "पहाड" },
+        "medium": { "english": "Chandragiri", "nepali": "चन्द्रागिरि" },
+        "hard": { "english": "Gondola", "nepali": "केबलकारको डब्बा" }
+      }
+    }
+  ]
+}

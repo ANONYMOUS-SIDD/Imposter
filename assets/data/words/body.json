@@ -1,0 +1,495 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "body_001",
+      "english": "Head",
+      "nepali": "टाउको",
+      "hints": {
+        "easy": { "english": "Helmet", "nepali": "हेलमेट" },
+        "medium": { "english": "Pillow", "nepali": "सिरानी" },
+        "hard": { "english": "Thought", "nepali": "सोच" }
+      }
+    },
+    {
+      "id": "body_002",
+      "english": "Hair",
+      "nepali": "कपाल",
+      "hints": {
+        "easy": { "english": "Comb", "nepali": "काइँयो" },
+        "medium": { "english": "Shampoo", "nepali": "स्याम्पु" },
+        "hard": { "english": "Bald", "nepali": "तालु" }
+      }
+    },
+    {
+      "id": "body_003",
+      "english": "Face",
+      "nepali": "अनुहार",
+      "hints": {
+        "easy": { "english": "Mirror", "nepali": "ऐना" },
+        "medium": { "english": "Expression", "nepali": "भाव" },
+        "hard": { "english": "Identity", "nepali": "पहिचान" }
+      }
+    },
+    {
+      "id": "body_004",
+      "english": "Forehead",
+      "nepali": "निधार",
+      "hints": {
+        "easy": { "english": "Bindi", "nepali": "टीका" },
+        "medium": { "english": "Sweat", "nepali": "पसिना" },
+        "hard": { "english": "Frown", "nepali": "निधार खुम्च्याउनु" }
+      }
+    },
+    {
+      "id": "body_005",
+      "english": "Eyebrow",
+      "nepali": "भौं",
+      "hints": {
+        "easy": { "english": "Expression", "nepali": "भाव" },
+        "medium": { "english": "Threading", "nepali": "थ्रेडिङ" },
+        "hard": { "english": "Arch", "nepali": "धनुष" }
+      }
+    },
+    {
+      "id": "body_006",
+      "english": "Eyelash",
+      "nepali": "परेला",
+      "hints": {
+        "easy": { "english": "Mascara", "nepali": "मस्कारा" },
+        "medium": { "english": "Blink", "nepali": "झिम्काइ" },
+        "hard": { "english": "Flutter", "nepali": "फर्फराहट" }
+      }
+    },
+    {
+      "id": "body_007",
+      "english": "Eye",
+      "nepali": "आँखा",
+      "hints": {
+        "easy": { "english": "Vision", "nepali": "दृष्टि" },
+        "medium": { "english": "Glasses", "nepali": "चस्मा" },
+        "hard": { "english": "Wink", "nepali": "आँखा झिम्क्याउनु" }
+      }
+    },
+    {
+      "id": "body_008",
+      "english": "Ear",
+      "nepali": "कान",
+      "hints": {
+        "easy": { "english": "Hearing", "nepali": "सुनाइ" },
+        "medium": { "english": "Earring", "nepali": "मुन्द्रा" },
+        "hard": { "english": "Whisper", "nepali": "कानेखुसी" }
+      }
+    },
+    {
+      "id": "body_009",
+      "english": "Nose",
+      "nepali": "नाक",
+      "hints": {
+        "easy": { "english": "Smell", "nepali": "गन्ध" },
+        "medium": { "english": "Perfume", "nepali": "अत्तर" },
+        "hard": { "english": "Sneeze", "nepali": "हाच्छिउँ" }
+      }
+    },
+    {
+      "id": "body_010",
+      "english": "Cheek",
+      "nepali": "गाला",
+      "hints": {
+        "easy": { "english": "Blush", "nepali": "लाली" },
+        "medium": { "english": "Dimple", "nepali": "खोपिल्टो" },
+        "hard": { "english": "Slap", "nepali": "थप्पड" }
+      }
+    },
+    {
+      "id": "body_011",
+      "english": "Mouth",
+      "nepali": "मुख",
+      "hints": {
+        "easy": { "english": "Food", "nepali": "खाना" },
+        "medium": { "english": "Speech", "nepali": "बोली" },
+        "hard": { "english": "Yawn", "nepali": "हाइ" }
+      }
+    },
+    {
+      "id": "body_012",
+      "english": "Lip",
+      "nepali": "ओठ",
+      "hints": {
+        "easy": { "english": "Lipstick", "nepali": "लिपस्टिक" },
+        "medium": { "english": "Whistle", "nepali": "सिट्टी" },
+        "hard": { "english": "Pout", "nepali": "मुख बिगार्नु" }
+      }
+    },
+    {
+      "id": "body_013",
+      "english": "Teeth",
+      "nepali": "दाँत",
+      "hints": {
+        "easy": { "english": "Toothbrush", "nepali": "दाँत माझ्ने ब्रस" },
+        "medium": { "english": "Dentist", "nepali": "दाँतको डाक्टर" },
+        "hard": { "english": "Cavity", "nepali": "दाँतको खाल्डो" }
+      }
+    },
+    {
+      "id": "body_014",
+      "english": "Tongue",
+      "nepali": "जिब्रो",
+      "hints": {
+        "easy": { "english": "Taste", "nepali": "स्वाद" },
+        "medium": { "english": "Lollipop", "nepali": "ललिपप" },
+        "hard": { "english": "Twister", "nepali": "जिब्रो घुमाउने" }
+      }
+    },
+    {
+      "id": "body_015",
+      "english": "Chin",
+      "nepali": "चिउँडो",
+      "hints": {
+        "easy": { "english": "Beard", "nepali": "दाह्री" },
+        "medium": { "english": "Dimple", "nepali": "खोपिल्टो" },
+        "hard": { "english": "Jawline", "nepali": "अनुहारको किनार" }
+      }
+    },
+    {
+      "id": "body_016",
+      "english": "Jaw",
+      "nepali": "बङ्गारा",
+      "hints": {
+        "easy": { "english": "Chewing", "nepali": "चपाइ" },
+        "medium": { "english": "Bite", "nepali": "टोकाइ" },
+        "hard": { "english": "Clench", "nepali": "कस्नु" }
+      }
+    },
+    {
+      "id": "body_017",
+      "english": "Neck",
+      "nepali": "गर्दन",
+      "hints": {
+        "easy": { "english": "Necklace", "nepali": "हार" },
+        "medium": { "english": "Collar", "nepali": "कलर" },
+        "hard": { "english": "Nod", "nepali": "टाउको हल्लाउनु" }
+      }
+    },
+    {
+      "id": "body_018",
+      "english": "Throat",
+      "nepali": "घाँटी",
+      "hints": {
+        "easy": { "english": "Voice", "nepali": "आवाज" },
+        "medium": { "english": "Swallow", "nepali": "निल्नु" },
+        "hard": { "english": "Sore", "nepali": "दुखाइ" }
+      }
+    },
+    {
+      "id": "body_019",
+      "english": "Shoulder",
+      "nepali": "काँध",
+      "hints": {
+        "easy": { "english": "Backpack", "nepali": "झोला" },
+        "medium": { "english": "Carry", "nepali": "बोक्नु" },
+        "hard": { "english": "Shrug", "nepali": "काँध उचाल्नु" }
+      }
+    },
+    {
+      "id": "body_020",
+      "english": "Arm",
+      "nepali": "पाखुरा",
+      "hints": {
+        "easy": { "english": "Hug", "nepali": "अँगालो" },
+        "medium": { "english": "Reach", "nepali": "पुग्नु" },
+        "hard": { "english": "Armpit", "nepali": "काखी" }
+      }
+    },
+    {
+      "id": "body_021",
+      "english": "Elbow",
+      "nepali": "कुहिनो",
+      "hints": {
+        "easy": { "english": "Bend", "nepali": "मोड्नु" },
+        "medium": { "english": "Joint", "nepali": "जोर्नी" },
+        "hard": { "english": "Sleeve", "nepali": "बाहुला" }
+      }
+    },
+    {
+      "id": "body_022",
+      "english": "Wrist",
+      "nepali": "नाडी",
+      "hints": {
+        "easy": { "english": "Watch", "nepali": "घडी" },
+        "medium": { "english": "Bracelet", "nepali": "बाला" },
+        "hard": { "english": "Pulse", "nepali": "नाडीको चाल" }
+      }
+    },
+    {
+      "id": "body_023",
+      "english": "Hand",
+      "nepali": "हात",
+      "hints": {
+        "easy": { "english": "Handshake", "nepali": "हात मिलाउनु" },
+        "medium": { "english": "Clap", "nepali": "ताली" },
+        "hard": { "english": "Glove", "nepali": "पञ्जा" }
+      }
+    },
+    {
+      "id": "body_024",
+      "english": "Palm",
+      "nepali": "हत्केला",
+      "hints": {
+        "easy": { "english": "Handprint", "nepali": "हातको छाप" },
+        "medium": { "english": "Lines", "nepali": "रेखा" },
+        "hard": { "english": "Fortune", "nepali": "भाग्य" }
+      }
+    },
+    {
+      "id": "body_025",
+      "english": "Finger",
+      "nepali": "औँला",
+      "hints": {
+        "easy": { "english": "Ring", "nepali": "औँठी" },
+        "medium": { "english": "Point", "nepali": "देखाउनु" },
+        "hard": { "english": "Count", "nepali": "गन्नु" }
+      }
+    },
+    {
+      "id": "body_026",
+      "english": "Thumb",
+      "nepali": "बुढी औँला",
+      "hints": {
+        "easy": { "english": "Like", "nepali": "लाइक" },
+        "medium": { "english": "Fingerprint", "nepali": "औँठाछाप" },
+        "hard": { "english": "Approval", "nepali": "मञ्जुरी" }
+      }
+    },
+    {
+      "id": "body_027",
+      "english": "Fingernail",
+      "nepali": "नङ",
+      "hints": {
+        "easy": { "english": "Polish", "nepali": "पालिस" },
+        "medium": { "english": "Manicure", "nepali": "म्यानिक्योर" },
+        "hard": { "english": "Scratch", "nepali": "कोतर्नु" }
+      }
+    },
+    {
+      "id": "body_028",
+      "english": "Chest",
+      "nepali": "छाती",
+      "hints": {
+        "easy": { "english": "Heart", "nepali": "मुटु" },
+        "medium": { "english": "Breathing", "nepali": "सास" },
+        "hard": { "english": "Medal", "nepali": "पदक" }
+      }
+    },
+    {
+      "id": "body_029",
+      "english": "Back",
+      "nepali": "ढाड",
+      "hints": {
+        "easy": { "english": "Backpack", "nepali": "झोला" },
+        "medium": { "english": "Posture", "nepali": "बसाइ" },
+        "hard": { "english": "Massage", "nepali": "मालिस" }
+      }
+    },
+    {
+      "id": "body_030",
+      "english": "Waist",
+      "nepali": "कम्मर",
+      "hints": {
+        "easy": { "english": "Belt", "nepali": "पेटी" },
+        "medium": { "english": "Jeans", "nepali": "जिन्स" },
+        "hard": { "english": "Twist", "nepali": "मर्काउनु" }
+      }
+    },
+    {
+      "id": "body_031",
+      "english": "Navel",
+      "nepali": "नाइटो",
+      "hints": {
+        "easy": { "english": "Belly", "nepali": "पेट" },
+        "medium": { "english": "Birth", "nepali": "जन्म" },
+        "hard": { "english": "Cord", "nepali": "नाल" }
+      }
+    },
+    {
+      "id": "body_032",
+      "english": "Spine",
+      "nepali": "मेरुदण्ड",
+      "hints": {
+        "easy": { "english": "Backbone", "nepali": "ढाडको हड्डी" },
+        "medium": { "english": "Posture", "nepali": "बसाइ" },
+        "hard": { "english": "Straight", "nepali": "सीधा" }
+      }
+    },
+    {
+      "id": "body_033",
+      "english": "Heart",
+      "nepali": "मुटु",
+      "hints": {
+        "easy": { "english": "Beats", "nepali": "ढुकढुक" },
+        "medium": { "english": "Love", "nepali": "माया" },
+        "hard": { "english": "Valentine", "nepali": "भ्यालेन्टाइन" }
+      }
+    },
+    {
+      "id": "body_034",
+      "english": "Brain",
+      "nepali": "दिमाग",
+      "hints": {
+        "easy": { "english": "Thinking", "nepali": "सोचाइ" },
+        "medium": { "english": "Memory", "nepali": "सम्झना" },
+        "hard": { "english": "Puzzle", "nepali": "पहेली" }
+      }
+    },
+    {
+      "id": "body_035",
+      "english": "Lungs",
+      "nepali": "फोक्सो",
+      "hints": {
+        "easy": { "english": "Breathing", "nepali": "सास" },
+        "medium": { "english": "Oxygen", "nepali": "अक्सिजन" },
+        "hard": { "english": "Balloon", "nepali": "बेलुन" }
+      }
+    },
+    {
+      "id": "body_036",
+      "english": "Stomach",
+      "nepali": "पेट",
+      "hints": {
+        "easy": { "english": "Hunger", "nepali": "भोक" },
+        "medium": { "english": "Digestion", "nepali": "पाचन" },
+        "hard": { "english": "Butterflies", "nepali": "गुदगुदी" }
+      }
+    },
+    {
+      "id": "body_037",
+      "english": "Bone",
+      "nepali": "हड्डी",
+      "hints": {
+        "easy": { "english": "Skeleton", "nepali": "कङ्काल" },
+        "medium": { "english": "Calcium", "nepali": "क्याल्सियम" },
+        "hard": { "english": "Xray", "nepali": "एक्सरे" }
+      }
+    },
+    {
+      "id": "body_038",
+      "english": "Muscle",
+      "nepali": "मांसपेशी",
+      "hints": {
+        "easy": { "english": "Gym", "nepali": "जिम" },
+        "medium": { "english": "Strength", "nepali": "बल" },
+        "hard": { "english": "Flex", "nepali": "मांसपेशी देखाउनु" }
+      }
+    },
+    {
+      "id": "body_039",
+      "english": "Skin",
+      "nepali": "छाला",
+      "hints": {
+        "easy": { "english": "Touch", "nepali": "स्पर्श" },
+        "medium": { "english": "Sunburn", "nepali": "घामको डढाइ" },
+        "hard": { "english": "Peel", "nepali": "उक्किनु" }
+      }
+    },
+    {
+      "id": "body_040",
+      "english": "Blood",
+      "nepali": "रगत",
+      "hints": {
+        "easy": { "english": "Red", "nepali": "रातो" },
+        "medium": { "english": "Donation", "nepali": "दान" },
+        "hard": { "english": "Vein", "nepali": "नसा" }
+      }
+    },
+    {
+      "id": "body_041",
+      "english": "Leg",
+      "nepali": "खुट्टा",
+      "hints": {
+        "easy": { "english": "Walking", "nepali": "हिँडाइ" },
+        "medium": { "english": "Football", "nepali": "फुटबल" },
+        "hard": { "english": "Kick", "nepali": "लात" }
+      }
+    },
+    {
+      "id": "body_042",
+      "english": "Thigh",
+      "nepali": "तिघ्रा",
+      "hints": {
+        "easy": { "english": "Jeans", "nepali": "जिन्स" },
+        "medium": { "english": "Sprint", "nepali": "छिटो दौड" },
+        "hard": { "english": "Lap", "nepali": "काख" }
+      }
+    },
+    {
+      "id": "body_043",
+      "english": "Knee",
+      "nepali": "घुँडा",
+      "hints": {
+        "easy": { "english": "Kneel", "nepali": "घुँडा टेक्नु" },
+        "medium": { "english": "Cap", "nepali": "ढकनी" },
+        "hard": { "english": "Crawl", "nepali": "घस्रिनु" }
+      }
+    },
+    {
+      "id": "body_044",
+      "english": "Calf",
+      "nepali": "पिँडुला",
+      "hints": {
+        "easy": { "english": "Running", "nepali": "दौड" },
+        "medium": { "english": "Cramp", "nepali": "बाउँडिनु" },
+        "hard": { "english": "Tiptoe", "nepali": "औँलामा हिँड्नु" }
+      }
+    },
+    {
+      "id": "body_045",
+      "english": "Ankle",
+      "nepali": "गोलीगाँठो",
+      "hints": {
+        "easy": { "english": "Anklet", "nepali": "पाउजेब" },
+        "medium": { "english": "Twist", "nepali": "मर्किनु" },
+        "hard": { "english": "Boot", "nepali": "बुट" }
+      }
+    },
+    {
+      "id": "body_046",
+      "english": "Foot",
+      "nepali": "पाउ",
+      "hints": {
+        "easy": { "english": "Shoe", "nepali": "जुत्ता" },
+        "medium": { "english": "Footprint", "nepali": "पाइलाको छाप" },
+        "hard": { "english": "Barefoot", "nepali": "नाङ्गो खुट्टा" }
+      }
+    },
+    {
+      "id": "body_047",
+      "english": "Heel",
+      "nepali": "कुर्कुच्चा",
+      "hints": {
+        "easy": { "english": "Shoe", "nepali": "जुत्ता" },
+        "medium": { "english": "Stiletto", "nepali": "पातलो हिल" },
+        "hard": { "english": "Achilles", "nepali": "एकिलिस" }
+      }
+    },
+    {
+      "id": "body_048",
+      "english": "Sole",
+      "nepali": "पैताला",
+      "hints": {
+        "easy": { "english": "Shoe", "nepali": "जुत्ता" },
+        "medium": { "english": "Footprint", "nepali": "पाइलाको छाप" },
+        "hard": { "english": "Floor", "nepali": "भुइँ" }
+      }
+    },
+    {
+      "id": "body_049",
+      "english": "Toe",
+      "nepali": "खुट्टाको औँला",
+      "hints": {
+        "easy": { "english": "Sandal", "nepali": "चप्पल" },
+        "medium": { "english": "Balance", "nepali": "सन्तुलन" },
+        "hard": { "english": "Pedicure", "nepali": "पेडिक्योर" }
+      }
+    }
+  ]
+}

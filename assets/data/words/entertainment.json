@@ -1,0 +1,595 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "entertainment_001",
+      "english": "Titanic",
+      "nepali": "टाइटानिक",
+      "hints": {
+        "easy": { "english": "Ship", "nepali": "जहाज" },
+        "medium": { "english": "Iceberg", "nepali": "हिमशिला" },
+        "hard": { "english": "Atlantic", "nepali": "एटलान्टिक" }
+      }
+    },
+    {
+      "id": "entertainment_002",
+      "english": "Circus",
+      "nepali": "सर्कस",
+      "hints": {
+        "easy": { "english": "Clowns", "nepali": "जोकर" },
+        "medium": { "english": "Acrobat", "nepali": "कलाबाज" },
+        "hard": { "english": "Tent", "nepali": "पाल" }
+      }
+    },
+    {
+      "id": "entertainment_003",
+      "english": "Concert",
+      "nepali": "सङ्गीत कार्यक्रम",
+      "hints": {
+        "easy": { "english": "Singing", "nepali": "गायन" },
+        "medium": { "english": "Stage", "nepali": "मञ्च" },
+        "hard": { "english": "Audience", "nepali": "दर्शक" }
+      }
+    },
+    {
+      "id": "entertainment_004",
+      "english": "Cinema",
+      "nepali": "सिनेमा",
+      "hints": {
+        "easy": { "english": "Movies", "nepali": "चलचित्र" },
+        "medium": { "english": "Screen", "nepali": "पर्दा" },
+        "hard": { "english": "Tickets", "nepali": "टिकट" }
+      }
+    },
+    {
+      "id": "entertainment_005",
+      "english": "Stand-up Comedy",
+      "nepali": "स्ट्यान्डअप कमेडी",
+      "hints": {
+        "easy": { "english": "Jokes", "nepali": "ठट्टा" },
+        "medium": { "english": "Mic", "nepali": "माइक" },
+        "hard": { "english": "Punchline", "nepali": "हास्यपूर्ण वाक्य" }
+      }
+    },
+    {
+      "id": "entertainment_006",
+      "english": "Magic Show",
+      "nepali": "जादुको खेल",
+      "hints": {
+        "easy": { "english": "Magician", "nepali": "जादुगर" },
+        "medium": { "english": "Rabbit", "nepali": "खरायो" },
+        "hard": { "english": "Trick", "nepali": "चटक" }
+      }
+    },
+    {
+      "id": "entertainment_007",
+      "english": "Talent Show",
+      "nepali": "प्रतिभा प्रदर्शन",
+      "hints": {
+        "easy": { "english": "Singing", "nepali": "गायन" },
+        "medium": { "english": "Judges", "nepali": "निर्णायक" },
+        "hard": { "english": "Audition", "nepali": "अडिसन" }
+      }
+    },
+    {
+      "id": "entertainment_008",
+      "english": "Reality Show",
+      "nepali": "रियालिटी शो",
+      "hints": {
+        "easy": { "english": "Contestants", "nepali": "प्रतिस्पर्धी" },
+        "medium": { "english": "Elimination", "nepali": "बाहिरिने चरण" },
+        "hard": { "english": "Camera", "nepali": "क्यामेरा" }
+      }
+    },
+    {
+      "id": "entertainment_009",
+      "english": "Talk Show",
+      "nepali": "टक शो",
+      "hints": {
+        "easy": { "english": "Guests", "nepali": "पाहुना" },
+        "medium": { "english": "Interview", "nepali": "अन्तर्वार्ता" },
+        "hard": { "english": "Host", "nepali": "सञ्चालक" }
+      }
+    },
+    {
+      "id": "entertainment_010",
+      "english": "Game Show",
+      "nepali": "गेम शो",
+      "hints": {
+        "easy": { "english": "Quiz", "nepali": "हाजिरीजवाफ" },
+        "medium": { "english": "Prize", "nepali": "पुरस्कार" },
+        "hard": { "english": "Buzzer", "nepali": "घण्टी" }
+      }
+    },
+    {
+      "id": "entertainment_011",
+      "english": "Documentary",
+      "nepali": "वृत्तचित्र",
+      "hints": {
+        "easy": { "english": "Facts", "nepali": "तथ्य" },
+        "medium": { "english": "Wildlife", "nepali": "वन्यजन्तु" },
+        "hard": { "english": "Real", "nepali": "वास्तविक" }
+      }
+    },
+    {
+      "id": "entertainment_012",
+      "english": "Horror Movie",
+      "nepali": "डर लाग्ने चलचित्र",
+      "hints": {
+        "easy": { "english": "Ghost", "nepali": "भूत" },
+        "medium": { "english": "Darkness", "nepali": "अँध्यारो" },
+        "hard": { "english": "Scream", "nepali": "चिच्याहट" }
+      }
+    },
+    {
+      "id": "entertainment_013",
+      "english": "Romantic Movie",
+      "nepali": "प्रेमकथा चलचित्र",
+      "hints": {
+        "easy": { "english": "Love", "nepali": "माया" },
+        "medium": { "english": "Couple", "nepali": "जोडी" },
+        "hard": { "english": "Proposal", "nepali": "प्रेम प्रस्ताव" }
+      }
+    },
+    {
+      "id": "entertainment_014",
+      "english": "Action Movie",
+      "nepali": "एक्सन चलचित्र",
+      "hints": {
+        "easy": { "english": "Fight", "nepali": "लडाइँ" },
+        "medium": { "english": "Stunts", "nepali": "जोखिमपूर्ण दृश्य" },
+        "hard": { "english": "Chase", "nepali": "पछ्याइँ" }
+      }
+    },
+    {
+      "id": "entertainment_015",
+      "english": "Science Fiction",
+      "nepali": "विज्ञान कथा",
+      "hints": {
+        "easy": { "english": "Aliens", "nepali": "अन्तरिक्षवासी" },
+        "medium": { "english": "Robots", "nepali": "यन्त्रमानव" },
+        "hard": { "english": "Future", "nepali": "भविष्य" }
+      }
+    },
+    {
+      "id": "entertainment_016",
+      "english": "Fantasy",
+      "nepali": "काल्पनिक कथा",
+      "hints": {
+        "easy": { "english": "Magic", "nepali": "जादु" },
+        "medium": { "english": "Dragons", "nepali": "ड्रागन" },
+        "hard": { "english": "Kingdom", "nepali": "राज्य" }
+      }
+    },
+    {
+      "id": "entertainment_017",
+      "english": "Musical",
+      "nepali": "सङ्गीतमय नाटक",
+      "hints": {
+        "easy": { "english": "Songs", "nepali": "गीत" },
+        "medium": { "english": "Dance", "nepali": "नाच" },
+        "hard": { "english": "Stage", "nepali": "मञ्च" }
+      }
+    },
+    {
+      "id": "entertainment_018",
+      "english": "Animation",
+      "nepali": "एनिमेसन",
+      "hints": {
+        "easy": { "english": "Cartoon", "nepali": "कार्टुन" },
+        "medium": { "english": "Drawing", "nepali": "चित्र" },
+        "hard": { "english": "Frames", "nepali": "फ्रेम" }
+      }
+    },
+    {
+      "id": "entertainment_019",
+      "english": "Harry Potter",
+      "nepali": "ह्यारी पोटर",
+      "hints": {
+        "easy": { "english": "Wizard", "nepali": "जादुगर" },
+        "medium": { "english": "Hogwarts", "nepali": "हगवर्ट्स" },
+        "hard": { "english": "Voldemort", "nepali": "भोल्डेमोर्ट" }
+      }
+    },
+    {
+      "id": "entertainment_020",
+      "english": "The Avengers",
+      "nepali": "द एभेन्जर्स",
+      "hints": {
+        "easy": { "english": "Superheroes", "nepali": "सुपरहिरोहरू" },
+        "medium": { "english": "Thanos", "nepali": "थानोस" },
+        "hard": { "english": "Infinity", "nepali": "अनन्त" }
+      }
+    },
+    {
+      "id": "entertainment_021",
+      "english": "Jurassic Park",
+      "nepali": "जुरासिक पार्क",
+      "hints": {
+        "easy": { "english": "Dinosaurs", "nepali": "डायनासोर" },
+        "medium": { "english": "Fossils", "nepali": "जीवाश्म" },
+        "hard": { "english": "Amber", "nepali": "अम्बर" }
+      }
+    },
+    {
+      "id": "entertainment_022",
+      "english": "The Lion King",
+      "nepali": "द लायन किङ",
+      "hints": {
+        "easy": { "english": "Simba", "nepali": "सिम्बा" },
+        "medium": { "english": "Savannah", "nepali": "घाँसे मैदान" },
+        "hard": { "english": "Mufasa", "nepali": "मुफासा" }
+      }
+    },
+    {
+      "id": "entertainment_023",
+      "english": "Frozen",
+      "nepali": "फ्रोजन",
+      "hints": {
+        "easy": { "english": "Elsa", "nepali": "एल्सा" },
+        "medium": { "english": "Snowman", "nepali": "हिउँमानव" },
+        "hard": { "english": "Arendelle", "nepali": "एरेन्डेल" }
+      }
+    },
+    {
+      "id": "entertainment_024",
+      "english": "Avatar",
+      "nepali": "अवतार",
+      "hints": {
+        "easy": { "english": "Blue", "nepali": "नीलो" },
+        "medium": { "english": "Pandora", "nepali": "प्यान्डोरा" },
+        "hard": { "english": "Na'vi", "nepali": "नाभी" }
+      }
+    },
+    {
+      "id": "entertainment_026",
+      "english": "Home Alone",
+      "nepali": "होम अलोन",
+      "hints": {
+        "easy": { "english": "Kevin", "nepali": "केभिन" },
+        "medium": { "english": "Christmas", "nepali": "क्रिसमस" },
+        "hard": { "english": "Traps", "nepali": "पासो" }
+      }
+    },
+    {
+      "id": "entertainment_027",
+      "english": "Mission Impossible",
+      "nepali": "मिसन इम्पोसिबल",
+      "hints": {
+        "easy": { "english": "Tom Cruise", "nepali": "टम क्रुज" },
+        "medium": { "english": "Spy", "nepali": "गुप्तचर" },
+        "hard": { "english": "Ethan", "nepali": "इथन" }
+      }
+    },
+    {
+      "id": "entertainment_028",
+      "english": "Fast and Furious",
+      "nepali": "फास्ट एन्ड फ्युरियस",
+      "hints": {
+        "easy": { "english": "Cars", "nepali": "गाडी" },
+        "medium": { "english": "Racing", "nepali": "दौड" },
+        "hard": { "english": "Dom", "nepali": "डोम" }
+      }
+    },
+    {
+      "id": "entertainment_029",
+      "english": "Spider-Man",
+      "nepali": "स्पाइडरम्यान",
+      "hints": {
+        "easy": { "english": "Web", "nepali": "माकुराको जालो" },
+        "medium": { "english": "Peter Parker", "nepali": "पिटर पार्कर" },
+        "hard": { "english": "Queens", "nepali": "क्वीन्स" }
+      }
+    },
+    {
+      "id": "entertainment_030",
+      "english": "Batman",
+      "nepali": "ब्याटम्यान",
+      "hints": {
+        "easy": { "english": "Gotham", "nepali": "गोथम" },
+        "medium": { "english": "Joker", "nepali": "जोकर" },
+        "hard": { "english": "Batmobile", "nepali": "ब्याटमोबाइल" }
+      }
+    },
+    {
+      "id": "entertainment_031",
+      "english": "Superman",
+      "nepali": "सुपरम्यान",
+      "hints": {
+        "easy": { "english": "Krypton", "nepali": "क्रिप्टन" },
+        "medium": { "english": "Lois", "nepali": "लोइस" },
+        "hard": { "english": "Metropolis", "nepali": "मेट्रोपोलिस" }
+      }
+    },
+    {
+      "id": "entertainment_032",
+      "english": "Iron Man",
+      "nepali": "आइरन म्यान",
+      "hints": {
+        "easy": { "english": "Tony Stark", "nepali": "टोनी स्टार्क" },
+        "medium": { "english": "Arc Reactor", "nepali": "आर्क रिएक्टर" },
+        "hard": { "english": "Jarvis", "nepali": "जार्भिस" }
+      }
+    },
+    {
+      "id": "entertainment_033",
+      "english": "Doraemon",
+      "nepali": "डोरेमोन",
+      "hints": {
+        "easy": { "english": "Nobita", "nepali": "नोबिता" },
+        "medium": { "english": "Gadgets", "nepali": "ग्याजेट" },
+        "hard": { "english": "Anywhere Door", "nepali": "जता पनि पुग्ने ढोका" }
+      }
+    },
+    {
+      "id": "entertainment_034",
+      "english": "Shinchan",
+      "nepali": "शिन्च्यान",
+      "hints": {
+        "easy": { "english": "Mischief", "nepali": "उट्पट्याङ" },
+        "medium": { "english": "Kasukabe", "nepali": "कासुकाबे" },
+        "hard": { "english": "Himawari", "nepali": "हिमावारी" }
+      }
+    },
+    {
+      "id": "entertainment_035",
+      "english": "Tom and Jerry",
+      "nepali": "टम एन्ड जेरी",
+      "hints": {
+        "easy": { "english": "Cat", "nepali": "बिरालो" },
+        "medium": { "english": "Mouse", "nepali": "मुसा" },
+        "hard": { "english": "Chase", "nepali": "लखेटालखेट" }
+      }
+    },
+    {
+      "id": "entertainment_036",
+      "english": "Mickey Mouse",
+      "nepali": "मिक्की माउस",
+      "hints": {
+        "easy": { "english": "Disney", "nepali": "डिज्नी" },
+        "medium": { "english": "Ears", "nepali": "कान" },
+        "hard": { "english": "Minnie", "nepali": "मिन्नी" }
+      }
+    },
+    {
+      "id": "entertainment_037",
+      "english": "Pokemon",
+      "nepali": "पोकेमोन",
+      "hints": {
+        "easy": { "english": "Pikachu", "nepali": "पिकाचु" },
+        "medium": { "english": "Pokeball", "nepali": "पोकेबल" },
+        "hard": { "english": "Ash", "nepali": "एश" }
+      }
+    },
+    {
+      "id": "entertainment_038",
+      "english": "SpongeBob SquarePants",
+      "nepali": "स्पन्जबब स्क्वायरप्यान्ट्स",
+      "hints": {
+        "easy": { "english": "Pineapple", "nepali": "भुइँकटहर" },
+        "medium": { "english": "Bikini Bottom", "nepali": "बिकिनी बटम" },
+        "hard": { "english": "Patrick", "nepali": "प्याट्रिक" }
+      }
+    },
+    {
+      "id": "entertainment_039",
+      "english": "Mr. Bean",
+      "nepali": "मिस्टर बिन",
+      "hints": {
+        "easy": { "english": "Teddy", "nepali": "टेडी" },
+        "medium": { "english": "Mini", "nepali": "मिनी" },
+        "hard": { "english": "Rowan", "nepali": "रोवन" }
+      }
+    },
+    {
+      "id": "entertainment_041",
+      "english": "Squid Game",
+      "nepali": "स्क्विड गेम",
+      "hints": {
+        "easy": { "english": "Korea", "nepali": "कोरिया" },
+        "medium": { "english": "Dalgona", "nepali": "डालगोना" },
+        "hard": { "english": "456", "nepali": "४५६" }
+      }
+    },
+    {
+      "id": "entertainment_042",
+      "english": "Wednesday",
+      "nepali": "वेन्सडे",
+      "hints": {
+        "easy": { "english": "Addams", "nepali": "एडम्स" },
+        "medium": { "english": "Braids", "nepali": "चुल्ठो" },
+        "hard": { "english": "Nevermore", "nepali": "नेभरमोर" }
+      }
+    },
+    {
+      "id": "entertainment_043",
+      "english": "Stranger Things",
+      "nepali": "स्ट्रेन्जर थिङ्स",
+      "hints": {
+        "easy": { "english": "Eleven", "nepali": "इलेभेन" },
+        "medium": { "english": "Upside Down", "nepali": "उल्टो संसार" },
+        "hard": { "english": "Demogorgon", "nepali": "डेमोगोर्गन" }
+      }
+    },
+    {
+      "id": "entertainment_044",
+      "english": "Money Heist",
+      "nepali": "मनी हाइस्ट",
+      "hints": {
+        "easy": { "english": "Professor", "nepali": "प्रोफेसर" },
+        "medium": { "english": "Red Jumpsuit", "nepali": "रातो पोसाक" },
+        "hard": { "english": "Bella Ciao", "nepali": "बेला चाओ" }
+      }
+    },
+    {
+      "id": "entertainment_045",
+      "english": "Game of Thrones",
+      "nepali": "गेम अफ थ्रोन्स",
+      "hints": {
+        "easy": { "english": "Dragons", "nepali": "ड्रागन" },
+        "medium": { "english": "Westeros", "nepali": "वेस्टेरोस" },
+        "hard": { "english": "Winterfell", "nepali": "विन्टरफेल" }
+      }
+    },
+    {
+      "id": "entertainment_046",
+      "english": "Friends",
+      "nepali": "फ्रेन्ड्स",
+      "hints": {
+        "easy": { "english": "Central Perk", "nepali": "सेन्ट्रल पर्क" },
+        "medium": { "english": "Chandler", "nepali": "च्यान्डलर" },
+        "hard": { "english": "Pivot", "nepali": "घुमाउ" }
+      }
+    },
+    {
+      "id": "entertainment_049",
+      "english": "Naruto",
+      "nepali": "नारुतो",
+      "hints": {
+        "easy": { "english": "Ninja", "nepali": "निन्जा" },
+        "medium": { "english": "Sasuke", "nepali": "सासुके" },
+        "hard": { "english": "Rasengan", "nepali": "रासेन्गन" }
+      }
+    },
+    {
+      "id": "entertainment_050",
+      "english": "Dragon Ball",
+      "nepali": "ड्रागन बल",
+      "hints": {
+        "easy": { "english": "Goku", "nepali": "गोकु" },
+        "medium": { "english": "Saiyan", "nepali": "सैयान" },
+        "hard": { "english": "Kamehameha", "nepali": "कामेहामेहा" }
+      }
+    },
+    {
+      "id": "entertainment_051",
+      "english": "One Piece",
+      "nepali": "वन पिस",
+      "hints": {
+        "easy": { "english": "Pirates", "nepali": "समुद्री डाकु" },
+        "medium": { "english": "Luffy", "nepali": "लुफी" },
+        "hard": { "english": "Grand Line", "nepali": "ग्रान्ड लाइन" }
+      }
+    },
+    {
+      "id": "entertainment_052",
+      "english": "WWE",
+      "nepali": "डब्लुडब्लुई",
+      "hints": {
+        "easy": { "english": "Wrestling", "nepali": "कुस्ती" },
+        "medium": { "english": "Undertaker", "nepali": "अन्डरटेकर" },
+        "hard": { "english": "WrestleMania", "nepali": "रेसलमेनिया" }
+      }
+    },
+    {
+      "id": "entertainment_061",
+      "english": "Chhakka Panja",
+      "nepali": "छक्का पञ्जा",
+      "hints": {
+        "easy": { "english": "Deepak Raj", "nepali": "दीपकराज" },
+        "medium": { "english": "Village", "nepali": "गाउँ" },
+        "hard": { "english": "Comedy", "nepali": "हास्य" }
+      }
+    },
+    {
+      "id": "entertainment_062",
+      "english": "Kabaddi",
+      "nepali": "कबड्डी",
+      "hints": {
+        "easy": { "english": "Dayahang", "nepali": "दयाहाङ" },
+        "medium": { "english": "Kaji", "nepali": "काजी" },
+        "hard": { "english": "Mustang", "nepali": "मुस्ताङ" }
+      }
+    },
+    {
+      "id": "entertainment_063",
+      "english": "Loot",
+      "nepali": "लुट",
+      "hints": {
+        "easy": { "english": "Haku", "nepali": "हाकु" },
+        "medium": { "english": "Gang", "nepali": "टोली" },
+        "hard": { "english": "Bank", "nepali": "बैंक" }
+      }
+    },
+    {
+      "id": "entertainment_064",
+      "english": "Mahajodi",
+      "nepali": "मह जोडी",
+      "hints": {
+        "easy": { "english": "Madan", "nepali": "मदन" },
+        "medium": { "english": "Hari Bansha", "nepali": "हरिवंश" },
+        "hard": { "english": "Comedy", "nepali": "हास्य" }
+      }
+    },
+    {
+      "id": "entertainment_066",
+      "english": "Motu Patlu",
+      "nepali": "मोटु पतलु",
+      "hints": {
+        "easy": { "english": "Samosa", "nepali": "समोसा" },
+        "medium": { "english": "Furfuri Nagar", "nepali": "फुरफुरी नगर" },
+        "hard": { "english": "John", "nepali": "जोन" }
+      }
+    },
+    {
+      "id": "entertainment_067",
+      "english": "Ninja Hattori",
+      "nepali": "निन्जा हात्तोरी",
+      "hints": {
+        "easy": { "english": "Ninja", "nepali": "निन्जा" },
+        "medium": { "english": "Kenichi", "nepali": "केनिची" },
+        "hard": { "english": "Shinzo", "nepali": "शिन्जो" }
+      }
+    },
+    {
+      "id": "entertainment_069",
+      "english": "Oggy and the Cockroaches",
+      "nepali": "ओगी एन्ड द ककरोचेज",
+      "hints": {
+        "easy": { "english": "Cockroaches", "nepali": "साङ्ला" },
+        "medium": { "english": "Jack", "nepali": "ज्याक" },
+        "hard": { "english": "Dee Dee", "nepali": "डी डी" }
+      }
+    },
+    {
+      "id": "entertainment_070",
+      "english": "Chhota Bheem",
+      "nepali": "छोटा भीम",
+      "hints": {
+        "easy": { "english": "Laddu", "nepali": "लड्डु" },
+        "medium": { "english": "Dholakpur", "nepali": "ढोलकपुर" },
+        "hard": { "english": "Chutki", "nepali": "चुट्की" }
+      }
+    },
+    {
+      "id": "entertainment_074",
+      "english": "Ben 10",
+      "nepali": "बेन १०",
+      "hints": {
+        "easy": { "english": "Aliens", "nepali": "अन्तरिक्षवासी" },
+        "medium": { "english": "Omnitrix", "nepali": "ओम्निट्रिक्स" },
+        "hard": { "english": "Grandpa Max", "nepali": "हजुरबा म्याक्स" }
+      }
+    },
+    {
+      "id": "entertainment_078",
+      "english": "The Jungle Book",
+      "nepali": "द जंगल बुक",
+      "hints": {
+        "easy": { "english": "Mowgli", "nepali": "मोगली" },
+        "medium": { "english": "Baloo", "nepali": "बलू" },
+        "hard": { "english": "Bagheera", "nepali": "बघिरा" }
+      }
+    },
+    {
+      "id": "entertainment_079",
+      "english": "Dora the Explorer",
+      "nepali": "डोरा द एक्सप्लोरर",
+      "hints": {
+        "easy": { "english": "Backpack", "nepali": "झोला" },
+        "medium": { "english": "Boots", "nepali": "बुट" },
+        "hard": { "english": "Swiper", "nepali": "स्वाइपर" }
+      }
+    }
+  ]
+}

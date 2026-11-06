@@ -1,0 +1,735 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "food_001",
+      "english": "Pizza",
+      "nepali": "पिज्जा",
+      "hints": {
+        "easy": { "english": "Italy", "nepali": "इटाली" },
+        "medium": { "english": "Cheese", "nepali": "चिज" },
+        "hard": { "english": "Crust", "nepali": "किनारा" }
+      }
+    },
+    {
+      "id": "food_002",
+      "english": "Rice",
+      "nepali": "भात",
+      "hints": {
+        "easy": { "english": "Meal", "nepali": "खाना" },
+        "medium": { "english": "Paddy", "nepali": "धान" },
+        "hard": { "english": "Steamed", "nepali": "बाफ" }
+      }
+    },
+    {
+      "id": "food_003",
+      "english": "Apple",
+      "nepali": "स्याउ",
+      "hints": {
+        "easy": { "english": "Fruit", "nepali": "फल" },
+        "medium": { "english": "Orchard", "nepali": "फलफूल बगैँचा" },
+        "hard": { "english": "Cider", "nepali": "स्याउको पेय" }
+      }
+    },
+    {
+      "id": "food_004",
+      "english": "Banana",
+      "nepali": "केरा",
+      "hints": {
+        "easy": { "english": "Yellow", "nepali": "पहेंलो" },
+        "medium": { "english": "Peel", "nepali": "बोक्रा" },
+        "hard": { "english": "Bunch", "nepali": "घरी" }
+      }
+    },
+    {
+      "id": "food_005",
+      "english": "Momo",
+      "nepali": "मोमो",
+      "hints": {
+        "easy": { "english": "Jhol", "nepali": "झोल" },
+        "medium": { "english": "Filling", "nepali": "पुराइ" },
+        "hard": { "english": "Steamer", "nepali": "बाफे भाँडो" }
+      }
+    },
+    {
+      "id": "food_006",
+      "english": "Dal Bhat",
+      "nepali": "दालभात",
+      "hints": {
+        "easy": { "english": "Nepali", "nepali": "नेपाली" },
+        "medium": { "english": "Lentils", "nepali": "दाल" },
+        "hard": { "english": "Tarkari", "nepali": "तरकारी" }
+      }
+    },
+    {
+      "id": "food_007",
+      "english": "Sel Roti",
+      "nepali": "सेल रोटी",
+      "hints": {
+        "easy": { "english": "Tihar", "nepali": "तिहार" },
+        "medium": { "english": "Rice", "nepali": "चामल" },
+        "hard": { "english": "Ring", "nepali": "घेरा" }
+      }
+    },
+    {
+      "id": "food_008",
+      "english": "Chatamari",
+      "nepali": "चटामरी",
+      "hints": {
+        "easy": { "english": "Newari", "nepali": "नेवारी" },
+        "medium": { "english": "Rice Flour", "nepali": "चामलको पिठो" },
+        "hard": { "english": "Toppings", "nepali": "माथिको सामग्री" }
+      }
+    },
+    {
+      "id": "food_009",
+      "english": "Yomari",
+      "nepali": "योमरी",
+      "hints": {
+        "easy": { "english": "Newari", "nepali": "नेवारी" },
+        "medium": { "english": "Chaku", "nepali": "चाकु" },
+        "hard": { "english": "Purnima", "nepali": "पूर्णिमा" }
+      }
+    },
+    {
+      "id": "food_010",
+      "english": "Gundruk",
+      "nepali": "गुन्द्रुक",
+      "hints": {
+        "easy": { "english": "Nepali", "nepali": "नेपाली" },
+        "medium": { "english": "Fermented", "nepali": "किण्वित" },
+        "hard": { "english": "Dried Greens", "nepali": "सुकाएको साग" }
+      }
+    },
+    {
+      "id": "food_011",
+      "english": "Dhido",
+      "nepali": "ढिँडो",
+      "hints": {
+        "easy": { "english": "Traditional", "nepali": "परम्परागत" },
+        "medium": { "english": "Millet", "nepali": "कोदो" },
+        "hard": { "english": "Stirring", "nepali": "चलाउने" }
+      }
+    },
+    {
+      "id": "food_012",
+      "english": "Thukpa",
+      "nepali": "थुक्पा",
+      "hints": {
+        "easy": { "english": "Tibet", "nepali": "तिब्बत" },
+        "medium": { "english": "Noodles", "nepali": "चाउचाउ" },
+        "hard": { "english": "Broth", "nepali": "झोल" }
+      }
+    },
+    {
+      "id": "food_013",
+      "english": "Chowmein",
+      "nepali": "चाउमिन",
+      "hints": {
+        "easy": { "english": "Noodles", "nepali": "चाउचाउ" },
+        "medium": { "english": "Stir-fry", "nepali": "भुटेको" },
+        "hard": { "english": "Cabbage", "nepali": "बन्दाकोबी" }
+      }
+    },
+    {
+      "id": "food_014",
+      "english": "Chatpate",
+      "nepali": "चटपटे",
+      "hints": {
+        "easy": { "english": "Street Food", "nepali": "सडक खाना" },
+        "medium": { "english": "Puffed Rice", "nepali": "मुरमुरा" },
+        "hard": { "english": "Sour", "nepali": "अमिलो" }
+      }
+    },
+    {
+      "id": "food_015",
+      "english": "Pani Puri",
+      "nepali": "पानीपुरी",
+      "hints": {
+        "easy": { "english": "Street Food", "nepali": "सडक खाना" },
+        "medium": { "english": "Tamarind", "nepali": "इमली" },
+        "hard": { "english": "Hollow", "nepali": "खोक्रो" }
+      }
+    },
+    {
+      "id": "food_016",
+      "english": "Samosa",
+      "nepali": "समोसा",
+      "hints": {
+        "easy": { "english": "Triangle", "nepali": "त्रिकोण" },
+        "medium": { "english": "Potato", "nepali": "आलु" },
+        "hard": { "english": "Chutney", "nepali": "चटनी" }
+      }
+    },
+    {
+      "id": "food_017",
+      "english": "Pakora",
+      "nepali": "पकौडा",
+      "hints": {
+        "easy": { "english": "Rainy", "nepali": "वर्षा" },
+        "medium": { "english": "Besan", "nepali": "बेसन" },
+        "hard": { "english": "Fried", "nepali": "तारेको" }
+      }
+    },
+    {
+      "id": "food_019",
+      "english": "Biryani",
+      "nepali": "बिरयानी",
+      "hints": {
+        "easy": { "english": "Rice", "nepali": "चामल" },
+        "medium": { "english": "Spices", "nepali": "मसला" },
+        "hard": { "english": "Saffron", "nepali": "केसर" }
+      }
+    },
+    {
+      "id": "food_020",
+      "english": "Butter Chicken",
+      "nepali": "बटर चिकेन",
+      "hints": {
+        "easy": { "english": "India", "nepali": "भारत" },
+        "medium": { "english": "Tomato", "nepali": "गोलभेँडा" },
+        "hard": { "english": "Cream", "nepali": "मलाई" }
+      }
+    },
+    {
+      "id": "food_021",
+      "english": "Dosa",
+      "nepali": "दोसा",
+      "hints": {
+        "easy": { "english": "South India", "nepali": "दक्षिण भारत" },
+        "medium": { "english": "Crispy", "nepali": "कुरकुरे" },
+        "hard": { "english": "Fermented", "nepali": "किण्वित" }
+      }
+    },
+    {
+      "id": "food_022",
+      "english": "Idli",
+      "nepali": "इडली",
+      "hints": {
+        "easy": { "english": "South India", "nepali": "दक्षिण भारत" },
+        "medium": { "english": "Steamed", "nepali": "बाफ" },
+        "hard": { "english": "Sambar", "nepali": "साम्बर" }
+      }
+    },
+    {
+      "id": "food_023",
+      "english": "Naan",
+      "nepali": "नान",
+      "hints": {
+        "easy": { "english": "Bread", "nepali": "रोटी" },
+        "medium": { "english": "Tandoor", "nepali": "तन्दुर" },
+        "hard": { "english": "Butter", "nepali": "मक्खन" }
+      }
+    },
+    {
+      "id": "food_024",
+      "english": "Paratha",
+      "nepali": "पराठा",
+      "hints": {
+        "easy": { "english": "Breakfast", "nepali": "बिहानको खाना" },
+        "medium": { "english": "Stuffed", "nepali": "भरिएको" },
+        "hard": { "english": "Flatbread", "nepali": "पातलो रोटी" }
+      }
+    },
+    {
+      "id": "food_025",
+      "english": "Pasta",
+      "nepali": "पास्ता",
+      "hints": {
+        "easy": { "english": "Italy", "nepali": "इटाली" },
+        "medium": { "english": "Sauce", "nepali": "सस" },
+        "hard": { "english": "Macaroni", "nepali": "म्याकरोनी" }
+      }
+    },
+    {
+      "id": "food_026",
+      "english": "Burger",
+      "nepali": "बर्गर",
+      "hints": {
+        "easy": { "english": "Fast Food", "nepali": "छिटो खाना" },
+        "medium": { "english": "Patty", "nepali": "कटलेट" },
+        "hard": { "english": "Sesame", "nepali": "तिल" }
+      }
+    },
+    {
+      "id": "food_027",
+      "english": "Sandwich",
+      "nepali": "स्यान्डविच",
+      "hints": {
+        "easy": { "english": "Bread", "nepali": "पाउरोटी" },
+        "medium": { "english": "Filling", "nepali": "पुराइ" },
+        "hard": { "english": "Toasted", "nepali": "सेकेको" }
+      }
+    },
+    {
+      "id": "food_028",
+      "english": "Hot Dog",
+      "nepali": "हट डग",
+      "hints": {
+        "easy": { "english": "Sausage", "nepali": "ससेज" },
+        "medium": { "english": "Bun", "nepali": "पाउरोटी" },
+        "hard": { "english": "Mustard", "nepali": "तोरीको सस" }
+      }
+    },
+    {
+      "id": "food_029",
+      "english": "French Fries",
+      "nepali": "फ्रेन्च फ्राइज",
+      "hints": {
+        "easy": { "english": "Potato", "nepali": "आलु" },
+        "medium": { "english": "Ketchup", "nepali": "केचप" },
+        "hard": { "english": "Crispy", "nepali": "कुरकुरे" }
+      }
+    },
+    {
+      "id": "food_030",
+      "english": "Fried Chicken",
+      "nepali": "फ्राइड चिकेन",
+      "hints": {
+        "easy": { "english": "KFC", "nepali": "केएफसी" },
+        "medium": { "english": "Crispy", "nepali": "कुरकुरे" },
+        "hard": { "english": "Drumstick", "nepali": "खुट्टाको भाग" }
+      }
+    },
+    {
+      "id": "food_033",
+      "english": "Pancake",
+      "nepali": "प्यानकेक",
+      "hints": {
+        "easy": { "english": "Breakfast", "nepali": "बिहानको खाना" },
+        "medium": { "english": "Syrup", "nepali": "सिरप" },
+        "hard": { "english": "Batter", "nepali": "घोल" }
+      }
+    },
+    {
+      "id": "food_034",
+      "english": "Waffle",
+      "nepali": "वाफल",
+      "hints": {
+        "easy": { "english": "Breakfast", "nepali": "बिहानको खाना" },
+        "medium": { "english": "Grid", "nepali": "जाली" },
+        "hard": { "english": "Syrup", "nepali": "सिरप" }
+      }
+    },
+    {
+      "id": "food_035",
+      "english": "Donut",
+      "nepali": "डोनट",
+      "hints": {
+        "easy": { "english": "Sweet", "nepali": "मिठाई" },
+        "medium": { "english": "Glaze", "nepali": "चिनीको तह" },
+        "hard": { "english": "Hole", "nepali": "प्वाल" }
+      }
+    },
+    {
+      "id": "food_036",
+      "english": "Cake",
+      "nepali": "केक",
+      "hints": {
+        "easy": { "english": "Birthday", "nepali": "जन्मदिन" },
+        "medium": { "english": "Frosting", "nepali": "क्रिम" },
+        "hard": { "english": "Candles", "nepali": "मैनबत्ती" }
+      }
+    },
+    {
+      "id": "food_037",
+      "english": "Ice Cream",
+      "nepali": "आइसक्रिम",
+      "hints": {
+        "easy": { "english": "Cold", "nepali": "चिसो" },
+        "medium": { "english": "Cone", "nepali": "कोन" },
+        "hard": { "english": "Scoop", "nepali": "डल्लो" }
+      }
+    },
+    {
+      "id": "food_038",
+      "english": "Chocolate",
+      "nepali": "चकलेट",
+      "hints": {
+        "easy": { "english": "Sweet", "nepali": "मिठो" },
+        "medium": { "english": "Cocoa", "nepali": "कोको" },
+        "hard": { "english": "Wrapper", "nepali": "खोल" }
+      }
+    },
+    {
+      "id": "food_039",
+      "english": "Ladoo",
+      "nepali": "लड्डु",
+      "hints": {
+        "easy": { "english": "Festival", "nepali": "चाडपर्व" },
+        "medium": { "english": "Besan", "nepali": "बेसन" },
+        "hard": { "english": "Round", "nepali": "गोलो" }
+      }
+    },
+    {
+      "id": "food_040",
+      "english": "Jalebi",
+      "nepali": "जलेबी",
+      "hints": {
+        "easy": { "english": "Sweet", "nepali": "मिठाई" },
+        "medium": { "english": "Syrup", "nepali": "चास्नी" },
+        "hard": { "english": "Swirl", "nepali": "घुमाउरो" }
+      }
+    },
+    {
+      "id": "food_041",
+      "english": "Gulab Jamun",
+      "nepali": "गुलाब जामुन",
+      "hints": {
+        "easy": { "english": "Dessert", "nepali": "मिठाई" },
+        "medium": { "english": "Syrup", "nepali": "चास्नी" },
+        "hard": { "english": "Khoya", "nepali": "खुवा" }
+      }
+    },
+    {
+      "id": "food_043",
+      "english": "Popcorn",
+      "nepali": "पपकर्न",
+      "hints": {
+        "easy": { "english": "Cinema", "nepali": "सिनेमा" },
+        "medium": { "english": "Corn", "nepali": "मकै" },
+        "hard": { "english": "Kernels", "nepali": "दाना" }
+      }
+    },
+    {
+      "id": "food_044",
+      "english": "Chips",
+      "nepali": "चिप्स",
+      "hints": {
+        "easy": { "english": "Snack", "nepali": "खाजा" },
+        "medium": { "english": "Crunchy", "nepali": "कुरकुरे" },
+        "hard": { "english": "Packet", "nepali": "पोका" }
+      }
+    },
+    {
+      "id": "food_045",
+      "english": "Biscuit",
+      "nepali": "बिस्कुट",
+      "hints": {
+        "easy": { "english": "Tea", "nepali": "चिया" },
+        "medium": { "english": "Crunchy", "nepali": "कुरकुरे" },
+        "hard": { "english": "Crumbs", "nepali": "चुराचुरा" }
+      }
+    },
+    {
+      "id": "food_046",
+      "english": "Noodles",
+      "nepali": "चाउचाउ",
+      "hints": {
+        "easy": { "english": "Wai Wai", "nepali": "वाई वाई" },
+        "medium": { "english": "Masala", "nepali": "मसला" },
+        "hard": { "english": "Boiling", "nepali": "उमाल्ने" }
+      }
+    },
+    {
+      "id": "food_047",
+      "english": "Dumplings",
+      "nepali": "डम्प्लिङ",
+      "hints": {
+        "easy": { "english": "Momo", "nepali": "मोमो" },
+        "medium": { "english": "Filling", "nepali": "पुराइ" },
+        "hard": { "english": "Steamer", "nepali": "बाफे भाँडो" }
+      }
+    },
+    {
+      "id": "food_048",
+      "english": "Sausage",
+      "nepali": "ससेज",
+      "hints": {
+        "easy": { "english": "Meat", "nepali": "मासु" },
+        "medium": { "english": "Grill", "nepali": "सेक्ने" },
+        "hard": { "english": "Casing", "nepali": "बाहिरी खोल" }
+      }
+    },
+    {
+      "id": "food_049",
+      "english": "Egg",
+      "nepali": "अण्डा",
+      "hints": {
+        "easy": { "english": "Chicken", "nepali": "कुखुरा" },
+        "medium": { "english": "Yolk", "nepali": "पहेंलो भाग" },
+        "hard": { "english": "Shell", "nepali": "बोक्रा" }
+      }
+    },
+    {
+      "id": "food_050",
+      "english": "Omelette",
+      "nepali": "अमलेट",
+      "hints": {
+        "easy": { "english": "Breakfast", "nepali": "बिहानको खाना" },
+        "medium": { "english": "Whisk", "nepali": "फेट्ने" },
+        "hard": { "english": "Pan", "nepali": "तावा" }
+      }
+    },
+    {
+      "id": "food_051",
+      "english": "Chicken Curry",
+      "nepali": "कुखुराको मासुको झोल",
+      "hints": {
+        "easy": { "english": "Chicken", "nepali": "कुखुरा" },
+        "medium": { "english": "Gravy", "nepali": "झोल" },
+        "hard": { "english": "Spices", "nepali": "मसला" }
+      }
+    },
+    {
+      "id": "food_052",
+      "english": "Fish",
+      "nepali": "माछा",
+      "hints": {
+        "easy": { "english": "Water", "nepali": "पानी" },
+        "medium": { "english": "River", "nepali": "नदी" },
+        "hard": { "english": "Gills", "nepali": "गलफ्रे" }
+      }
+    },
+    {
+      "id": "food_054",
+      "english": "Sukuti",
+      "nepali": "सुकुटी",
+      "hints": {
+        "easy": { "english": "Dried Meat", "nepali": "सुकाएको मासु" },
+        "medium": { "english": "Smoke", "nepali": "धुवाँ" },
+        "hard": { "english": "Spicy", "nepali": "पिरो" }
+      }
+    },
+    {
+      "id": "food_055",
+      "english": "Choila",
+      "nepali": "छोयला",
+      "hints": {
+        "easy": { "english": "Newari", "nepali": "नेवारी" },
+        "medium": { "english": "Grilled", "nepali": "पोलेको" },
+        "hard": { "english": "Mustard Oil", "nepali": "तोरीको तेल" }
+      }
+    },
+    {
+      "id": "food_056",
+      "english": "Sekuwa",
+      "nepali": "सेकुवा",
+      "hints": {
+        "easy": { "english": "Barbecue", "nepali": "बार्बेक्यु" },
+        "medium": { "english": "Skewer", "nepali": "सींक" },
+        "hard": { "english": "Charcoal", "nepali": "कोइला" }
+      }
+    },
+    {
+      "id": "food_057",
+      "english": "Aloo Tama",
+      "nepali": "आलु तामा",
+      "hints": {
+        "easy": { "english": "Potato", "nepali": "आलु" },
+        "medium": { "english": "Bamboo", "nepali": "बाँस" },
+        "hard": { "english": "Sour", "nepali": "अमिलो" }
+      }
+    },
+    {
+      "id": "food_058",
+      "english": "Kwati",
+      "nepali": "क्वाँटी",
+      "hints": {
+        "easy": { "english": "Janai Purnima", "nepali": "जनै पूर्णिमा" },
+        "medium": { "english": "Beans", "nepali": "गेडागुडी" },
+        "hard": { "english": "Sprouted", "nepali": "अंकुरित" }
+      }
+    },
+    {
+      "id": "food_059",
+      "english": "Achar",
+      "nepali": "अचार",
+      "hints": {
+        "easy": { "english": "Spicy", "nepali": "पिरो" },
+        "medium": { "english": "Pickle", "nepali": "मसिनो अचार" },
+        "hard": { "english": "Preserved", "nepali": "जोगाएर राखेको" }
+      }
+    },
+    {
+      "id": "food_062",
+      "english": "Mango",
+      "nepali": "आँप",
+      "hints": {
+        "easy": { "english": "Summer", "nepali": "गर्मी" },
+        "medium": { "english": "Juicy", "nepali": "रसिलो" },
+        "hard": { "english": "Orchard", "nepali": "फलफूल बगैँचा" }
+      }
+    },
+    {
+      "id": "food_063",
+      "english": "Orange",
+      "nepali": "सुन्तला",
+      "hints": {
+        "easy": { "english": "Vitamin C", "nepali": "भिटामिन सी" },
+        "medium": { "english": "Citrus", "nepali": "अमिलो फल" },
+        "hard": { "english": "Peel", "nepali": "बोक्रा" }
+      }
+    },
+    {
+      "id": "food_064",
+      "english": "Watermelon",
+      "nepali": "तरबुजा",
+      "hints": {
+        "easy": { "english": "Summer", "nepali": "गर्मी" },
+        "medium": { "english": "Seeds", "nepali": "बियाँ" },
+        "hard": { "english": "Rind", "nepali": "बाहिरी बोक्रा" }
+      }
+    },
+    {
+      "id": "food_065",
+      "english": "Grapes",
+      "nepali": "अंगुर",
+      "hints": {
+        "easy": { "english": "Fruit", "nepali": "फल" },
+        "medium": { "english": "Vine", "nepali": "लहरा" },
+        "hard": { "english": "Raisins", "nepali": "किसमिस" }
+      }
+    },
+    {
+      "id": "food_066",
+      "english": "Pineapple",
+      "nepali": "भुइँकटहर",
+      "hints": {
+        "easy": { "english": "Tropical", "nepali": "उष्णकटिबन्धीय" },
+        "medium": { "english": "Spiky", "nepali": "काँडेदार" },
+        "hard": { "english": "Crown", "nepali": "माथिल्लो भाग" }
+      }
+    },
+    {
+      "id": "food_067",
+      "english": "Papaya",
+      "nepali": "मेवा",
+      "hints": {
+        "easy": { "english": "Fruit", "nepali": "फल" },
+        "medium": { "english": "Seeds", "nepali": "बियाँ" },
+        "hard": { "english": "Ripe", "nepali": "पाकेको" }
+      }
+    },
+    {
+      "id": "food_068",
+      "english": "Pomegranate",
+      "nepali": "अनार",
+      "hints": {
+        "easy": { "english": "Red", "nepali": "रातो" },
+        "medium": { "english": "Seeds", "nepali": "दाना" },
+        "hard": { "english": "Juice", "nepali": "रस" }
+      }
+    },
+    {
+      "id": "food_069",
+      "english": "Strawberry",
+      "nepali": "स्ट्रबेरी",
+      "hints": {
+        "easy": { "english": "Red", "nepali": "रातो" },
+        "medium": { "english": "Seeds", "nepali": "बियाँ" },
+        "hard": { "english": "Cream", "nepali": "क्रिम" }
+      }
+    },
+    {
+      "id": "food_070",
+      "english": "Coconut",
+      "nepali": "नरिवल",
+      "hints": {
+        "easy": { "english": "Palm", "nepali": "ताड" },
+        "medium": { "english": "Milk", "nepali": "दूध" },
+        "hard": { "english": "Husk", "nepali": "बोक्रा" }
+      }
+    },
+    {
+      "id": "food_071",
+      "english": "Potato",
+      "nepali": "आलु",
+      "hints": {
+        "easy": { "english": "Vegetable", "nepali": "तरकारी" },
+        "medium": { "english": "French Fries", "nepali": "फ्रेन्च फ्राइज" },
+        "hard": { "english": "Starch", "nepali": "माड" }
+      }
+    },
+    {
+      "id": "food_072",
+      "english": "Tomato",
+      "nepali": "गोलभेँडा",
+      "hints": {
+        "easy": { "english": "Red", "nepali": "रातो" },
+        "medium": { "english": "Ketchup", "nepali": "केचप" },
+        "hard": { "english": "Juicy", "nepali": "रसिलो" }
+      }
+    },
+    {
+      "id": "food_073",
+      "english": "Onion",
+      "nepali": "प्याज",
+      "hints": {
+        "easy": { "english": "Vegetable", "nepali": "तरकारी" },
+        "medium": { "english": "Tears", "nepali": "आँसु" },
+        "hard": { "english": "Layers", "nepali": "पत्र" }
+      }
+    },
+    {
+      "id": "food_074",
+      "english": "Carrot",
+      "nepali": "गाजर",
+      "hints": {
+        "easy": { "english": "Orange", "nepali": "सुन्तला रङ" },
+        "medium": { "english": "Rabbit", "nepali": "खरायो" },
+        "hard": { "english": "Halwa", "nepali": "हलुवा" }
+      }
+    },
+    {
+      "id": "food_075",
+      "english": "Cabbage",
+      "nepali": "बन्दाकोबी",
+      "hints": {
+        "easy": { "english": "Vegetable", "nepali": "तरकारी" },
+        "medium": { "english": "Leaves", "nepali": "पात" },
+        "hard": { "english": "Salad", "nepali": "सलाद" }
+      }
+    },
+    {
+      "id": "food_076",
+      "english": "Cauliflower",
+      "nepali": "काउली",
+      "hints": {
+        "easy": { "english": "White", "nepali": "सेतो" },
+        "medium": { "english": "Florets", "nepali": "फूलका भाग" },
+        "hard": { "english": "Gobi", "nepali": "गोभी" }
+      }
+    },
+    {
+      "id": "food_077",
+      "english": "Cucumber",
+      "nepali": "काँक्रो",
+      "hints": {
+        "easy": { "english": "Salad", "nepali": "सलाद" },
+        "medium": { "english": "Green", "nepali": "हरियो" },
+        "hard": { "english": "Pickle", "nepali": "अचार" }
+      }
+    },
+    {
+      "id": "food_078",
+      "english": "Pumpkin",
+      "nepali": "फर्सी",
+      "hints": {
+        "easy": { "english": "Vegetable", "nepali": "तरकारी" },
+        "medium": { "english": "Halloween", "nepali": "हेलोविन" },
+        "hard": { "english": "Seeds", "nepali": "बियाँ" }
+      }
+    },
+    {
+      "id": "food_079",
+      "english": "Milk",
+      "nepali": "दूध",
+      "hints": {
+        "easy": { "english": "Cow", "nepali": "गाई" },
+        "medium": { "english": "Calcium", "nepali": "क्याल्सियम" },
+        "hard": { "english": "Dairy", "nepali": "दुग्धजन्य" }
+      }
+    },
+    {
+      "id": "food_080",
+      "english": "Tea",
+      "nepali": "चिया",
+      "hints": {
+        "easy": { "english": "Morning", "nepali": "बिहान" },
+        "medium": { "english": "Ginger", "nepali": "अदुवा" },
+        "hard": { "english": "Kettle", "nepali": "केतली" }
+      }
+    }
+  ]
+}

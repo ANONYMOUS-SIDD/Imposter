@@ -1,0 +1,206 @@
+// game_session_providers.dart
+//
+// Riverpod wiring for the game domain layer:
+//
+//   • randomServiceProvider — the injected RNG, overridable in tests.
+//   • gameEngineProvider    — the pure role/word-selection engine.
+//   • gameSessionProvider   — the in-progress session state, or null when
+//                             no round is active.
+//
+// randomServiceProvider must be declared only here. If a version of
+// random_service.dart still declares its own copy, both files must not be
+// imported into the same library or Dart will report a duplicate-definition
+// error. That file is a pure service and should carry no Riverpod wiring.
+//
+// Session lifecycle
+// -----------------
+//   build()       → null. Setup and Home screens render normally when no
+//                   session is active.
+//   start(...)    → creates a fresh session. If the setup inputs are
+//                   invalid, `createSession` throws; this notifier catches
+//                   the error and returns false, exposing the exception via
+//                   `lastError`.
+//   revealCurrent / markRevealed → advance the reveal sequence.
+//   clear()       → drops the current session. Used by "back to home" and
+//                   "play again" flows.
+//
+// Reveal sequence invariant
+// -------------------------
+// `markRevealed` only advances from the session's current reveal index.
+// Any other index — past, future, out of range — is a no-op. This prevents
+// a double-tap or a retried tap from skipping a player whose secret was
+// never seen, which would silently corrupt the round's outcome.
+//
+// Error handling
+// --------------
+// `start` does not rethrow from `createSession`. If it did, an invalid
+// setup (too few players, empty word pool) would propagate through the
+// button's onPressed callback and reach the Flutter framework, producing
+// a red error screen in debug and a silent failure in release. Instead,
+// the error is stored in `lastError` and the method returns false, so the
+// caller can show a localized inline message.
+//
+// Everything here is synchronous. Session creation is pure computation and
+// reveal updates are simple list mutations. Keeping these methods
+// synchronous avoids reintroducing the async loading state that used to
+// surface on the Setup screen.
+
+import 'dart:async';
+
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
+import '../../../../core/services/random_service.dart';
+import '../../data/word_history_repository.dart';
+import '../../domain/entities/game_engine.dart';
+import '../../domain/entities/game_settings.dart';
+import '../../domain/entities/player.dart';
+import '../../domain/entities/word.dart';
+
+/// Provides the app-wide random-number service.
+///
+/// Tests can override this provider with a `SeededRandomService` so role
+/// assignment and word selection become deterministic:
+///
+///   ProviderScope(overrides: [
+///     randomServiceProvider.overrideWithValue(SeededRandomService(42)),
+///   ], ...)
+final randomServiceProvider = Provider<RandomService>(
+      (ref) => DefaultRandomService(),
+);
+
+/// Provides the game engine, constructed once per ProviderScope.
+///
+/// The engine holds only a reference to the RNG, so construction is cheap.
+final gameEngineProvider = Provider<GameEngine>(
+      (ref) => GameEngine(ref.watch(randomServiceProvider)),
+);
+
+/// Owns the in-progress [GameSession]. A `null` state means no round is
+/// active, which is the normal condition on the Home and Setup screens.
+class GameSessionNotifier extends Notifier<GameSession?> {
+  @override
+  GameSession? build() => null;
+
+  /// Error raised by the most recent call to [start], or `null` if the
+  /// call succeeded or no call has been made. Cleared on the next successful
+  /// [start].
+  Object? _lastError;
+  Object? get lastError => _lastError;
+
+  /// Player whose secret is currently up for reveal, or `null` when the
+  /// reveal sequence has finished or no session exists.
+  Player? get currentPlayer => state?.currentPlayer;
+
+  /// Creates a fresh session from the Setup screen's inputs.
+  ///
+  /// Returns `true` on success. On failure, returns `false` and stores the
+  /// underlying exception in [lastError] so the caller can map it to a
+  /// localized message (for example `setupErrorAtLeast3Players`).
+  ///
+  /// Never throws.
+  bool start({
+    required List<String> names,
+    required GameSettings settings,
+    required List<Word> availableWords,
+  }) {
+    try {
+      final Map<String, int> pickCounts =
+          ref.read(wordHistoryRepositoryProvider).getPickCounts();
+      final GameSession session = ref.read(gameEngineProvider).createSession(
+        names: names,
+        settings: settings,
+        availableWords: availableWords,
+        pickCounts: pickCounts,
+      );
+      state = session;
+      unawaited(
+        ref
+            .read(wordHistoryRepositoryProvider)
+            .recordPick(session.originalWord.id),
+      );
+      _lastError = null;
+      return true;
+    } catch (e) {
+      _lastError = e;
+      return false;
+    }
+  }
+
+  /// Marks the player at [index] as revealed and advances the reveal
+  /// cursor.
+  ///
+  /// Only succeeds when [index] equals the session's current reveal index.
+  /// Out-of-range, past, and future indices are rejected with `false`.
+  /// This is what prevents a duplicate tap from skipping a player.
+  ///
+  /// Returns `true` if the reveal was applied, `false` otherwise.
+  bool markRevealed(int index) {
+    final GameSession? session = state;
+    if (session == null) return false;
+    if (index < 0 || index >= session.players.length) return false;
+    if (index != session.currentRevealIndex) return false;
+
+    final List<Player> updated = List<Player>.of(session.players);
+    updated[index] = updated[index].copyWith(hasRevealed: true);
+
+    state = session.copyWith(
+      players: updated,
+      currentRevealIndex: index + 1,
+    );
+    return true;
+  }
+
+  /// Reveals whichever player the session currently points at.
+  ///
+  /// Convenience wrapper around [markRevealed]. Returns `false` when there
+  /// is no current player to reveal.
+  bool revealCurrent() {
+    final int? index = state?.currentRevealIndex;
+    if (index == null) return false;
+    return markRevealed(index);
+  }
+
+  bool rerollWord() {
+    final GameSession? session = state;
+    if (session == null) return false;
+    if (session.currentRevealIndex != 0) return false;
+
+    final GameEngine engine = ref.read(gameEngineProvider);
+    final Map<String, int> pickCounts =
+        ref.read(wordHistoryRepositoryProvider).getPickCounts();
+
+    final Word next;
+    try {
+      next = engine.selectWord(
+        availableWords: session.availableWords,
+        settings: session.settings,
+        pickCounts: pickCounts,
+        exclude: session.originalWord,
+      );
+    } catch (_) {
+      return false;
+    }
+
+    state = session.copyWith(
+      originalWord: next,
+      imposterHint: engine.resolveImposterHint(next, session.settings),
+    );
+    unawaited(
+      ref.read(wordHistoryRepositoryProvider).recordPick(next.id),
+    );
+    return true;
+  }
+
+  /// Drops the active session and clears any stored error.
+  ///
+  /// Safe to call in any state.
+  void clear() {
+    state = null;
+    _lastError = null;
+  }
+}
+
+final gameSessionProvider =
+NotifierProvider<GameSessionNotifier, GameSession?>(
+  GameSessionNotifier.new,
+);

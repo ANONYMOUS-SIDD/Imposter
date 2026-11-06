@@ -1,0 +1,166 @@
+{
+  "@@locale": "en",
+  "appTitle": "IMPOSTER",
+  "tagline": "Trust No One. Find the Imposter.",
+  "startGame": "Start Game",
+  "settings": "Settings",
+  "startNewGame": "Start a New Game",
+  "startNewGameDesc": "Configure players and rules for a new round.",
+  "continueLabel": "Continue",
+  "cancel": "Cancel",
+  "retry": "Retry",
+  "save": "Save",
+  "close": "Close",
+  "delete": "Delete",
+  "edit": "Edit",
+  "notYet": "Not Yet",
+  "setupTitle": "Game Setup",
+  "setupSectionLanguage": "LANGUAGE",
+  "setupSectionRules": "GAME RULES",
+  "setupSectionCategories": "WORD CATEGORIES",
+  "setupSectionCustomWords": "CUSTOM WORDS",
+  "setupSectionPlayers": "PLAYERS",
+  "setupStartButton": "START GAME",
+  "setupErrorAtLeast3Players": "At least 3 players required",
+  "setupErrorEnterName": "Enter a name for every player",
+  "setupErrorDuplicateNames": "Player names must be unique",
+  "setupErrorSelectCategory": "Select at least one category",
+  "setupFailedLoadWords": "Failed to load words",
+  "gameRules": "GAME RULES",
+  "hiddenImposter": "Imposter Doesn't Know",
+  "hiddenImposterDesc": "Imposters will not be told that they are imposters.",
+  "hiddenImposterDisabledDesc": "Disabled while Imposter Doesn't Know is on — hidden mode always uses an Easy hint.",
+  "imposterHint": "Imposter Hint",
+  "imposterHintDesc": "Give imposters a hint instead of revealing the original word.",
+  "multipleImposters": "Multiple Imposters",
+  "multipleImpostersDesc": "Add more than one imposter to make the game more challenging.",
+  "hintDifficulty": "HINT DIFFICULTY",
+  "difficultyEasy": "Easy",
+  "difficultyMedium": "Medium",
+  "difficultyHard": "Hard",
+  "stepperOfMax": "of max {max}",
+  "@stepperOfMax": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "wordCategories": "WORD CATEGORIES",
+  "categoriesSelectedCount": "{count} selected",
+  "@categoriesSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "selectAll": "Select All",
+  "clearAll": "Clear All",
+  "wordCount": "{count, plural, =1{1 word} other{{count} words}}",
+  "@wordCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "customWords": "CUSTOM WORDS",
+  "customWordsInclude": "Include custom words in game",
+  "customWordsIncludeDesc": "Add your own words and play with your friends.",
+  "addWord": "Add Word",
+  "emptyCustomWordsTitle": "No custom words yet",
+  "emptyCustomWordsDesc": "Tap \"Add Word\" to create your first one.",
+  "toggleOnToPlay": "Toggle on to play with these words.",
+  "deleteWordTitle": "Delete this word?",
+  "deleteWordBody": "\"{word}\" will be removed from your custom words.",
+  "@deleteWordBody": {
+    "placeholders": {
+      "word": {
+        "type": "String"
+      }
+    }
+  },
+  "players": "PLAYERS",
+  "requiredLabel": "Required",
+  "duplicateNameLabel": "Duplicate name",
+  "playerHint": "Player {number}",
+  "@playerHint": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "addPlayer": "Add Player",
+  "moveUp": "Move Up",
+  "moveDown": "Move Down",
+  "remove": "Remove",
+  "playerOptions": "Player options",
+  "summaryTotal": "TOTAL",
+  "summaryImposters": "IMPOSTERS",
+  "summaryCivilians": "CIVILIANS",
+  "addCustomWordTitle": "Add Custom Word",
+  "editWordTitle": "Edit Word",
+  "sectionWord": "WORD",
+  "fieldEnglish": "English",
+  "fieldNepali": "Nepali (optional)",
+  "hintEnglish": "e.g. Guitar",
+  "hintNepali": "e.g. गितार",
+  "sectionCategory": "CATEGORY",
+  "sectionHints": "HINTS (OPTIONAL)",
+  "hintsOptionalDesc": "Leave blank to use the English word as the hint.",
+  "fieldEasyHint": "Easy hint",
+  "fieldMediumHint": "Medium hint",
+  "fieldHardHint": "Hard hint",
+  "hintEasyHint": "e.g. Instrument",
+  "hintMediumHint": "e.g. Strings",
+  "hintHardHint": "e.g. Frets",
+  "wordRequired": "Required",
+  "wordExists": "Word already exists",
+  "currentPlayer": "CURRENT PLAYER",
+  "swipeUpToReveal": "Swipe up to reveal your secret",
+  "swipeUp": "Swipe up",
+  "yourWord": "YOUR WORD",
+  "youAreImposter": "YOU ARE THE IMPOSTER",
+  "passToNext": "Pass to the next player",
+  "nextPlayer": "Next Player: {name}",
+  "@nextPlayer": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "lastPlayer": "Last player — tap Continue to begin",
+  "everyoneHasSecret": "Everyone Has Their Secret",
+  "findImposter": "Let the game begin. Find the imposter!",
+  "readyInstruction": "Take turns describing your word without revealing it directly.",
+  "showResult": "SHOW RESULT",
+  "readyToReveal": "Ready to Reveal?",
+  "readyToRevealDesc": "Are you sure you want to reveal the imposters and the secret word?",
+  "revealNow": "Reveal Now",
+  "theImposter": "THE IMPOSTER",
+  "originalWord": "ORIGINAL WORD",
+  "hintWord": "HINT WORD",
+  "playAgain": "PLAY AGAIN",
+  "playAgainTitle": "Play Another Round?",
+  "playAgainDesc": "Start a new round with the same players and settings?",
+  "backToHome": "Back to Home",
+  "gameSessionNotFound": "Game session not found",
+  "startNewGamePrompt": "Start a new game from the home screen.",
+  "failedStartNewRound": "Failed to start new round",
+  "sectionAudio": "AUDIO",
+  "soundEffects": "Sound Effects",
+  "soundEffectsDesc": "Card reveals, results, and button sounds",
+  "volume": "Volume",
+  "sectionFeedback": "FEEDBACK",
+  "hapticFeedback": "Haptic Feedback",
+  "hapticFeedbackDesc": "Vibrate on card reveals and results",
+  "sectionAbout": "ABOUT",
+  "appVersion": "App Version",
+  "privacyPolicy": "Privacy Policy",
+  "aboutImposter": "About Imposter",
+  "privacyBody": "Imposter runs entirely on your device.\n\nNo personal data is collected, stored, or transmitted. The app works fully offline, requires no account, and requests no internet permission.",
+  "aboutBody": "A premium offline social party game for 3+ players on one phone.\n\nTrust no one. Find the imposter."
+}

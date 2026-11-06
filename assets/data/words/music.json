@@ -1,0 +1,495 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "music_001",
+      "english": "Guitar",
+      "nepali": "गिटार",
+      "hints": {
+        "easy": { "english": "Strings", "nepali": "तार" },
+        "medium": { "english": "Frets", "nepali": "फ्रेट" },
+        "hard": { "english": "Pick", "nepali": "पिक" }
+      }
+    },
+    {
+      "id": "music_002",
+      "english": "Piano",
+      "nepali": "पियानो",
+      "hints": {
+        "easy": { "english": "Keys", "nepali": "कुञ्जीहरू" },
+        "medium": { "english": "Pedals", "nepali": "पेडल" },
+        "hard": { "english": "Ivory", "nepali": "हात्तीको दाँत" }
+      }
+    },
+    {
+      "id": "music_003",
+      "english": "Drum",
+      "nepali": "ड्रम",
+      "hints": {
+        "easy": { "english": "Beat", "nepali": "ताल" },
+        "medium": { "english": "Sticks", "nepali": "छडी" },
+        "hard": { "english": "Snare", "nepali": "स्नेर" }
+      }
+    },
+    {
+      "id": "music_004",
+      "english": "Flute",
+      "nepali": "बाँसुरी",
+      "hints": {
+        "easy": { "english": "Bamboo", "nepali": "बाँस" },
+        "medium": { "english": "Breath", "nepali": "सास" },
+        "hard": { "english": "Whistle", "nepali": "सिटी" }
+      }
+    },
+    {
+      "id": "music_005",
+      "english": "Violin",
+      "nepali": "भायोलिन",
+      "hints": {
+        "easy": { "english": "Strings", "nepali": "तार" },
+        "medium": { "english": "Bow", "nepali": "धनु" },
+        "hard": { "english": "Fiddle", "nepali": "फिडल" }
+      }
+    },
+    {
+      "id": "music_006",
+      "english": "Harmonium",
+      "nepali": "हार्मोनियम",
+      "hints": {
+        "easy": { "english": "Air", "nepali": "हावा" },
+        "medium": { "english": "Keys", "nepali": "कुञ्जीहरू" },
+        "hard": { "english": "Reeds", "nepali": "रिड" }
+      }
+    },
+    {
+      "id": "music_007",
+      "english": "Madal",
+      "nepali": "मादल",
+      "hints": {
+        "easy": { "english": "Rhythm", "nepali": "लय" },
+        "medium": { "english": "Folk", "nepali": "लोक" },
+        "hard": { "english": "Dohori", "nepali": "दोहोरी" }
+      }
+    },
+    {
+      "id": "music_008",
+      "english": "Sarangi",
+      "nepali": "सारङ्गी",
+      "hints": {
+        "easy": { "english": "Strings", "nepali": "तार" },
+        "medium": { "english": "Gandharva", "nepali": "गन्धर्व" },
+        "hard": { "english": "Melancholy", "nepali": "विरह" }
+      }
+    },
+    {
+      "id": "music_009",
+      "english": "Tabla",
+      "nepali": "तबला",
+      "hints": {
+        "easy": { "english": "Rhythm", "nepali": "लय" },
+        "medium": { "english": "Fingers", "nepali": "औँलाहरू" },
+        "hard": { "english": "Duggi", "nepali": "डुग्गी" }
+      }
+    },
+    {
+      "id": "music_010",
+      "english": "Trumpet",
+      "nepali": "ट्रम्पेट",
+      "hints": {
+        "easy": { "english": "Brass", "nepali": "पित्तल" },
+        "medium": { "english": "Valves", "nepali": "भल्भ" },
+        "hard": { "english": "Jazz", "nepali": "ज्याज" }
+      }
+    },
+    {
+      "id": "music_011",
+      "english": "Saxophone",
+      "nepali": "स्याक्सोफोन",
+      "hints": {
+        "easy": { "english": "Jazz", "nepali": "ज्याज" },
+        "medium": { "english": "Reed", "nepali": "रिड" },
+        "hard": { "english": "Solo", "nepali": "एकल प्रस्तुति" }
+      }
+    },
+    {
+      "id": "music_012",
+      "english": "Harmonica",
+      "nepali": "हार्मोनिका",
+      "hints": {
+        "easy": { "english": "Mouth", "nepali": "मुख" },
+        "medium": { "english": "Blues", "nepali": "ब्लुज" },
+        "hard": { "english": "Pocket", "nepali": "खल्ती" }
+      }
+    },
+    {
+      "id": "music_017",
+      "english": "Sitar",
+      "nepali": "सितार",
+      "hints": {
+        "easy": { "english": "India", "nepali": "भारत" },
+        "medium": { "english": "Strings", "nepali": "तार" },
+        "hard": { "english": "Raga", "nepali": "राग" }
+      }
+    },
+    {
+      "id": "music_019",
+      "english": "Keyboard",
+      "nepali": "किबोर्ड",
+      "hints": {
+        "easy": { "english": "Keys", "nepali": "कुञ्जीहरू" },
+        "medium": { "english": "Synthesizer", "nepali": "सिन्थेसाइजर" },
+        "hard": { "english": "Electronic", "nepali": "विद्युतीय" }
+      }
+    },
+    {
+      "id": "music_022",
+      "english": "Rock",
+      "nepali": "रक सङ्गीत",
+      "hints": {
+        "easy": { "english": "Guitar", "nepali": "गिटार" },
+        "medium": { "english": "Band", "nepali": "ब्यान्ड" },
+        "hard": { "english": "Headbang", "nepali": "टाउको हल्लाउनु" }
+      }
+    },
+    {
+      "id": "music_023",
+      "english": "Pop",
+      "nepali": "पप सङ्गीत",
+      "hints": {
+        "easy": { "english": "Popular", "nepali": "लोकप्रिय" },
+        "medium": { "english": "Radio", "nepali": "रेडियो" },
+        "hard": { "english": "Charts", "nepali": "सङ्गीत सूची" }
+      }
+    },
+    {
+      "id": "music_024",
+      "english": "Hip-Hop",
+      "nepali": "हिपहप",
+      "hints": {
+        "easy": { "english": "Rap", "nepali": "र्‍याप" },
+        "medium": { "english": "Beats", "nepali": "बिट्स" },
+        "hard": { "english": "Graffiti", "nepali": "भित्तेचित्र" }
+      }
+    },
+    {
+      "id": "music_025",
+      "english": "Jazz",
+      "nepali": "ज्याज",
+      "hints": {
+        "easy": { "english": "Saxophone", "nepali": "स्याक्सोफोन" },
+        "medium": { "english": "Improvisation", "nepali": "तत्काल सिर्जना" },
+        "hard": { "english": "Swing", "nepali": "स्विङ" }
+      }
+    },
+    {
+      "id": "music_026",
+      "english": "Classical",
+      "nepali": "शास्त्रीय सङ्गीत",
+      "hints": {
+        "easy": { "english": "Orchestra", "nepali": "वाद्यवृन्द" },
+        "medium": { "english": "Symphony", "nepali": "सिम्फोनी" },
+        "hard": { "english": "Mozart", "nepali": "मोजार्ट" }
+      }
+    },
+    {
+      "id": "music_028",
+      "english": "Reggae",
+      "nepali": "रेगे",
+      "hints": {
+        "easy": { "english": "Jamaica", "nepali": "जमैका" },
+        "medium": { "english": "Island", "nepali": "टापु" },
+        "hard": { "english": "Offbeat", "nepali": "अफबिट" }
+      }
+    },
+    {
+      "id": "music_029",
+      "english": "Country",
+      "nepali": "कन्ट्री सङ्गीत",
+      "hints": {
+        "easy": { "english": "Cowboy", "nepali": "काउबॉय" },
+        "medium": { "english": "Banjo", "nepali": "ब्यान्जो" },
+        "hard": { "english": "Nashville", "nepali": "न्यासभिल" }
+      }
+    },
+    {
+      "id": "music_030",
+      "english": "Blues",
+      "nepali": "ब्लुज",
+      "hints": {
+        "easy": { "english": "Guitar", "nepali": "गिटार" },
+        "medium": { "english": "Soul", "nepali": "भावना" },
+        "hard": { "english": "Mississippi", "nepali": "मिसिसिपी" }
+      }
+    },
+    {
+      "id": "music_031",
+      "english": "Metal",
+      "nepali": "मेटल सङ्गीत",
+      "hints": {
+        "easy": { "english": "Loud", "nepali": "चर्को" },
+        "medium": { "english": "Distortion", "nepali": "ध्वनि विकृति" },
+        "hard": { "english": "Headbanging", "nepali": "टाउको हल्लाउने" }
+      }
+    },
+    {
+      "id": "music_032",
+      "english": "Folk",
+      "nepali": "लोक सङ्गीत",
+      "hints": {
+        "easy": { "english": "Tradition", "nepali": "परम्परा" },
+        "medium": { "english": "Culture", "nepali": "संस्कृति" },
+        "hard": { "english": "Village", "nepali": "गाउँ" }
+      }
+    },
+    {
+      "id": "music_033",
+      "english": "Electronic",
+      "nepali": "इलेक्ट्रोनिक सङ्गीत",
+      "hints": {
+        "easy": { "english": "DJ", "nepali": "डिजे" },
+        "medium": { "english": "Synth", "nepali": "सिन्थ" },
+        "hard": { "english": "Remix", "nepali": "रिमिक्स" }
+      }
+    },
+    {
+      "id": "music_035",
+      "english": "Disco",
+      "nepali": "डिस्को",
+      "hints": {
+        "easy": { "english": "Dance", "nepali": "नाच" },
+        "medium": { "english": "Glitter", "nepali": "चमक" },
+        "hard": { "english": "Seventies", "nepali": "सत्तरीको दशक" }
+      }
+    },
+    {
+      "id": "music_037",
+      "english": "Lullaby",
+      "nepali": "लोरी",
+      "hints": {
+        "easy": { "english": "Baby", "nepali": "शिशु" },
+        "medium": { "english": "Sleep", "nepali": "निद्रा" },
+        "hard": { "english": "Cradle", "nepali": "पालना" }
+      }
+    },
+    {
+      "id": "music_038",
+      "english": "Rap",
+      "nepali": "र्‍याप",
+      "hints": {
+        "easy": { "english": "Rhymes", "nepali": "तुकबन्दी" },
+        "medium": { "english": "Flow", "nepali": "प्रवाह" },
+        "hard": { "english": "Freestyle", "nepali": "स्वतन्त्र प्रस्तुति" }
+      }
+    },
+    {
+      "id": "music_039",
+      "english": "Duet",
+      "nepali": "युगल गीत",
+      "hints": {
+        "easy": { "english": "Two", "nepali": "दुई" },
+        "medium": { "english": "Partners", "nepali": "साझेदार" },
+        "hard": { "english": "Harmony", "nepali": "सुस्वर" }
+      }
+    },
+    {
+      "id": "music_040",
+      "english": "Anthem",
+      "nepali": "गान",
+      "hints": {
+        "easy": { "english": "Nation", "nepali": "राष्ट्र" },
+        "medium": { "english": "Pride", "nepali": "गौरव" },
+        "hard": { "english": "Ceremony", "nepali": "समारोह" }
+      }
+    },
+    {
+      "id": "music_041",
+      "english": "Microphone",
+      "nepali": "माइक्रोफोन",
+      "hints": {
+        "easy": { "english": "Voice", "nepali": "आवाज" },
+        "medium": { "english": "Recording", "nepali": "रेकर्डिङ" },
+        "hard": { "english": "Feedback", "nepali": "ध्वनि प्रतिध्वनि" }
+      }
+    },
+    {
+      "id": "music_042",
+      "english": "Speaker",
+      "nepali": "स्पिकर",
+      "hints": {
+        "easy": { "english": "Sound", "nepali": "ध्वनि" },
+        "medium": { "english": "Volume", "nepali": "आवाजको स्तर" },
+        "hard": { "english": "Bass", "nepali": "गहिरो ध्वनि" }
+      }
+    },
+    {
+      "id": "music_043",
+      "english": "Headphones",
+      "nepali": "हेडफोन",
+      "hints": {
+        "easy": { "english": "Ears", "nepali": "कान" },
+        "medium": { "english": "Listening", "nepali": "सुन्ने" },
+        "hard": { "english": "Wireless", "nepali": "ताररहित" }
+      }
+    },
+    {
+      "id": "music_044",
+      "english": "Earphones",
+      "nepali": "इयरफोन",
+      "hints": {
+        "easy": { "english": "Music", "nepali": "सङ्गीत" },
+        "medium": { "english": "Pocket", "nepali": "खल्ती" },
+        "hard": { "english": "Earbuds", "nepali": "इयरबड्स" }
+      }
+    },
+    {
+      "id": "music_045",
+      "english": "Vinyl",
+      "nepali": "भिनाइल रेकर्ड",
+      "hints": {
+        "easy": { "english": "Record", "nepali": "रेकर्ड" },
+        "medium": { "english": "Turntable", "nepali": "रेकर्ड प्लेयर" },
+        "hard": { "english": "Grooves", "nepali": "खाँचाहरू" }
+      }
+    },
+    {
+      "id": "music_046",
+      "english": "Cassette",
+      "nepali": "क्यासेट",
+      "hints": {
+        "easy": { "english": "Tape", "nepali": "टेप" },
+        "medium": { "english": "Rewind", "nepali": "पछाडि घुमाउने" },
+        "hard": { "english": "Walkman", "nepali": "वाकम्यान" }
+      }
+    },
+    {
+      "id": "music_047",
+      "english": "Concert",
+      "nepali": "सङ्गीत कार्यक्रम",
+      "hints": {
+        "easy": { "english": "Crowd", "nepali": "भीड" },
+        "medium": { "english": "Stage", "nepali": "मञ्च" },
+        "hard": { "english": "Encore", "nepali": "पुनः प्रस्तुति" }
+      }
+    },
+    {
+      "id": "music_048",
+      "english": "Karaoke",
+      "nepali": "काराओके",
+      "hints": {
+        "easy": { "english": "Singing", "nepali": "गायन" },
+        "medium": { "english": "Lyrics", "nepali": "गीतका शब्द" },
+        "hard": { "english": "Microphone", "nepali": "माइक्रोफोन" }
+      }
+    },
+    {
+      "id": "music_049",
+      "english": "Orchestra",
+      "nepali": "वाद्यवृन्द",
+      "hints": {
+        "easy": { "english": "Musicians", "nepali": "सङ्गीतकारहरू" },
+        "medium": { "english": "Conductor", "nepali": "सञ्चालक" },
+        "hard": { "english": "Symphony", "nepali": "सिम्फोनी" }
+      }
+    },
+    {
+      "id": "music_050",
+      "english": "Choir",
+      "nepali": "गायन समूह",
+      "hints": {
+        "easy": { "english": "Voices", "nepali": "स्वरहरू" },
+        "medium": { "english": "Harmony", "nepali": "सुस्वर" },
+        "hard": { "english": "Chorus", "nepali": "समूहगान" }
+      }
+    },
+    {
+      "id": "music_051",
+      "english": "Melody",
+      "nepali": "धुन",
+      "hints": {
+        "easy": { "english": "Tune", "nepali": "सुर" },
+        "medium": { "english": "Whistle", "nepali": "सिटी" },
+        "hard": { "english": "Sequence", "nepali": "क्रम" }
+      }
+    },
+    {
+      "id": "music_052",
+      "english": "Rhythm",
+      "nepali": "लय",
+      "hints": {
+        "easy": { "english": "Beat", "nepali": "ताल" },
+        "medium": { "english": "Timing", "nepali": "समय मिलान" },
+        "hard": { "english": "Pattern", "nepali": "ढाँचा" }
+      }
+    },
+    {
+      "id": "music_053",
+      "english": "Lyrics",
+      "nepali": "गीतका शब्द",
+      "hints": {
+        "easy": { "english": "Words", "nepali": "शब्द" },
+        "medium": { "english": "Verse", "nepali": "अन्तरा" },
+        "hard": { "english": "Chorus", "nepali": "मुखडा" }
+      }
+    },
+    {
+      "id": "music_054",
+      "english": "Chorus",
+      "nepali": "मुखडा",
+      "hints": {
+        "easy": { "english": "Repeat", "nepali": "दोहोरिने" },
+        "medium": { "english": "Hook", "nepali": "मुख्य अंश" },
+        "hard": { "english": "Refrain", "nepali": "दोहोरो अंश" }
+      }
+    },
+    {
+      "id": "music_055",
+      "english": "Remix",
+      "nepali": "रिमिक्स",
+      "hints": {
+        "easy": { "english": "Song", "nepali": "गीत" },
+        "medium": { "english": "DJ", "nepali": "डिजे" },
+        "hard": { "english": "Version", "nepali": "संस्करण" }
+      }
+    },
+    {
+      "id": "music_056",
+      "english": "Album",
+      "nepali": "एल्बम",
+      "hints": {
+        "easy": { "english": "Songs", "nepali": "गीतहरू" },
+        "medium": { "english": "Tracklist", "nepali": "गीतसूची" },
+        "hard": { "english": "Release", "nepali": "विमोचन" }
+      }
+    },
+    {
+      "id": "music_058",
+      "english": "DJ",
+      "nepali": "डिजे",
+      "hints": {
+        "easy": { "english": "Party", "nepali": "पार्टी" },
+        "medium": { "english": "Mixer", "nepali": "मिक्सर" },
+        "hard": { "english": "Turntable", "nepali": "टर्नटेबल" }
+      }
+    },
+    {
+      "id": "music_059",
+      "english": "Music Video",
+      "nepali": "सङ्गीत भिडियो",
+      "hints": {
+        "easy": { "english": "Camera", "nepali": "क्यामेरा" },
+        "medium": { "english": "Visuals", "nepali": "दृश्यहरू" },
+        "hard": { "english": "Premiere", "nepali": "पहिलो प्रदर्शन" }
+      }
+    },
+    {
+      "id": "music_060",
+      "english": "National Anthem",
+      "nepali": "राष्ट्रिय गान",
+      "hints": {
+        "easy": { "english": "Country", "nepali": "देश" },
+        "medium": { "english": "Flag", "nepali": "झण्डा" },
+        "hard": { "english": "Ceremony", "nepali": "समारोह" }
+      }
+    }
+  ]
+}

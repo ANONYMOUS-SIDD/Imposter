@@ -1,0 +1,535 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "games_001",
+      "english": "Chess",
+      "nepali": "चेस",
+      "hints": {
+        "easy": { "english": "Board", "nepali": "बोर्ड" },
+        "medium": { "english": "King", "nepali": "राजा" },
+        "hard": { "english": "Checkmate", "nepali": "चेकमेट" }
+      }
+    },
+    {
+      "id": "games_002",
+      "english": "Ludo",
+      "nepali": "लुडो",
+      "hints": {
+        "easy": { "english": "Dice", "nepali": "पासा" },
+        "medium": { "english": "Six", "nepali": "छक्का" },
+        "hard": { "english": "Tokens", "nepali": "गोटी" }
+      }
+    },
+    {
+      "id": "games_003",
+      "english": "Carrom",
+      "nepali": "क्यारम",
+      "hints": {
+        "easy": { "english": "Striker", "nepali": "स्ट्राइकर" },
+        "medium": { "english": "Pocket", "nepali": "खाल्डो" },
+        "hard": { "english": "Queen", "nepali": "रानी" }
+      }
+    },
+    {
+      "id": "games_004",
+      "english": "PUBG",
+      "nepali": "पबजी",
+      "hints": {
+        "easy": { "english": "Battleground", "nepali": "रणभूमि" },
+        "medium": { "english": "Erangel", "nepali": "एरान्जेल" },
+        "hard": { "english": "Chicken", "nepali": "कुखुरा" }
+      }
+    },
+    {
+      "id": "games_005",
+      "english": "Free Fire",
+      "nepali": "फ्री फायर",
+      "hints": {
+        "easy": { "english": "Battle", "nepali": "लडाइँ" },
+        "medium": { "english": "Booyah", "nepali": "बुयाह" },
+        "hard": { "english": "Bermuda", "nepali": "बर्मुडा" }
+      }
+    },
+    {
+      "id": "games_006",
+      "english": "Minecraft",
+      "nepali": "माइनक्राफ्ट",
+      "hints": {
+        "easy": { "english": "Blocks", "nepali": "ब्लक" },
+        "medium": { "english": "Creeper", "nepali": "क्रीपर" },
+        "hard": { "english": "Diamond", "nepali": "हीरा" }
+      }
+    },
+    {
+      "id": "games_007",
+      "english": "Roblox",
+      "nepali": "रोब्लक्स",
+      "hints": {
+        "easy": { "english": "Avatars", "nepali": "अवतार" },
+        "medium": { "english": "Obby", "nepali": "अब्बी" },
+        "hard": { "english": "Robux", "nepali": "रोबक्स" }
+      }
+    },
+    {
+      "id": "games_008",
+      "english": "Among Us",
+      "nepali": "अमङ अस",
+      "hints": {
+        "easy": { "english": "Imposter", "nepali": "इम्पोस्टर" },
+        "medium": { "english": "Crewmate", "nepali": "क्रुमेट" },
+        "hard": { "english": "Vent", "nepali": "भेन्ट" }
+      }
+    },
+    {
+      "id": "games_011",
+      "english": "Fortnite",
+      "nepali": "फोर्टनाइट",
+      "hints": {
+        "easy": { "english": "Battle", "nepali": "लडाइँ" },
+        "medium": { "english": "Building", "nepali": "निर्माण" },
+        "hard": { "english": "Emote", "nepali": "हाउभाउ" }
+      }
+    },
+    {
+      "id": "games_012",
+      "english": "Clash of Clans",
+      "nepali": "क्ल्यास अफ क्लान्स",
+      "hints": {
+        "easy": { "english": "Village", "nepali": "गाउँ" },
+        "medium": { "english": "Barbarian", "nepali": "बार्बेरियन" },
+        "hard": { "english": "Townhall", "nepali": "टाउन हल" }
+      }
+    },
+    {
+      "id": "games_013",
+      "english": "Clash Royale",
+      "nepali": "क्ल्यास रोयल",
+      "hints": {
+        "easy": { "english": "Cards", "nepali": "कार्ड" },
+        "medium": { "english": "Arena", "nepali": "एरिना" },
+        "hard": { "english": "Elixir", "nepali": "एलिक्सिर" }
+      }
+    },
+    {
+      "id": "games_014",
+      "english": "Subway Surfers",
+      "nepali": "सबवे सर्फर्स",
+      "hints": {
+        "easy": { "english": "Train", "nepali": "रेल" },
+        "medium": { "english": "Inspector", "nepali": "निरीक्षक" },
+        "hard": { "english": "Hoverboard", "nepali": "होभरबोर्ड" }
+      }
+    },
+    {
+      "id": "games_015",
+      "english": "Temple Run",
+      "nepali": "टेम्पल रन",
+      "hints": {
+        "easy": { "english": "Running", "nepali": "दौड" },
+        "medium": { "english": "Monkey", "nepali": "बाँदर" },
+        "hard": { "english": "Idol", "nepali": "मूर्ति" }
+      }
+    },
+    {
+      "id": "games_016",
+      "english": "Candy Crush",
+      "nepali": "क्यान्डी क्रस",
+      "hints": {
+        "easy": { "english": "Sweets", "nepali": "मिठाई" },
+        "medium": { "english": "Matching", "nepali": "मिलान" },
+        "hard": { "english": "Jelly", "nepali": "जेली" }
+      }
+    },
+    {
+      "id": "games_017",
+      "english": "eFootball",
+      "nepali": "ईफुटबल",
+      "hints": {
+        "easy": { "english": "Football", "nepali": "फुटबल" },
+        "medium": { "english": "Messi", "nepali": "मेसी" },
+        "hard": { "english": "Dreamteam", "nepali": "ड्रिम टिम" }
+      }
+    },
+    {
+      "id": "games_019",
+      "english": "Valorant",
+      "nepali": "भ्यालोरेन्ट",
+      "hints": {
+        "easy": { "english": "Agents", "nepali": "एजेन्ट" },
+        "medium": { "english": "Spike", "nepali": "स्पाइक" },
+        "hard": { "english": "Radiant", "nepali": "रेडियन्ट" }
+      }
+    },
+    {
+      "id": "games_020",
+      "english": "Counter-Strike",
+      "nepali": "काउन्टर स्ट्राइक",
+      "hints": {
+        "easy": { "english": "Teams", "nepali": "टोलीहरू" },
+        "medium": { "english": "Defuse", "nepali": "निष्क्रिय पार्नु" },
+        "hard": { "english": "Dust2", "nepali": "डस्ट २" }
+      }
+    },
+    {
+      "id": "games_021",
+      "english": "Pokémon Go",
+      "nepali": "पोकेमोन गो",
+      "hints": {
+        "easy": { "english": "Pikachu", "nepali": "पिकाचु" },
+        "medium": { "english": "Pokéball", "nepali": "पोकेबल" },
+        "hard": { "english": "Walking", "nepali": "हिँडाइ" }
+      }
+    },
+    {
+      "id": "games_022",
+      "english": "Angry Birds",
+      "nepali": "एङ्ग्री बर्ड्स",
+      "hints": {
+        "easy": { "english": "Birds", "nepali": "चराहरू" },
+        "medium": { "english": "Slingshot", "nepali": "गुलेली" },
+        "hard": { "english": "Pigs", "nepali": "सुँगुर" }
+      }
+    },
+    {
+      "id": "games_023",
+      "english": "Fruit Ninja",
+      "nepali": "फ्रुट निन्जा",
+      "hints": {
+        "easy": { "english": "Fruits", "nepali": "फलफूल" },
+        "medium": { "english": "Slicing", "nepali": "काट्ने" },
+        "hard": { "english": "Dojo", "nepali": "डोजो" }
+      }
+    },
+    {
+      "id": "games_024",
+      "english": "Hill Climb Racing",
+      "nepali": "हिल क्लाइम्ब रेसिङ",
+      "hints": {
+        "easy": { "english": "Car", "nepali": "गाडी" },
+        "medium": { "english": "Fuel", "nepali": "इन्धन" },
+        "hard": { "english": "Newton", "nepali": "न्युटन" }
+      }
+    },
+    {
+      "id": "games_025",
+      "english": "8 Ball Pool",
+      "nepali": "एट बल पुल",
+      "hints": {
+        "easy": { "english": "Billiards", "nepali": "बिलियर्ड्स" },
+        "medium": { "english": "Cue", "nepali": "क्यु" },
+        "hard": { "english": "Blackball", "nepali": "कालो बल" }
+      }
+    },
+    {
+      "id": "games_026",
+      "english": "Mario",
+      "nepali": "मारियो",
+      "hints": {
+        "easy": { "english": "Plumber", "nepali": "प्लम्बर" },
+        "medium": { "english": "Mushroom", "nepali": "च्याउ" },
+        "hard": { "english": "Bowser", "nepali": "बाउजर" }
+      }
+    },
+    {
+      "id": "games_027",
+      "english": "Sonic the Hedgehog",
+      "nepali": "सोनिक द हेजहग",
+      "hints": {
+        "easy": { "english": "Blue", "nepali": "नीलो" },
+        "medium": { "english": "Speed", "nepali": "गति" },
+        "hard": { "english": "Rings", "nepali": "औँठी" }
+      }
+    },
+    {
+      "id": "games_028",
+      "english": "Tetris",
+      "nepali": "टेट्रिस",
+      "hints": {
+        "easy": { "english": "Blocks", "nepali": "ब्लक" },
+        "medium": { "english": "Falling", "nepali": "खस्ने" },
+        "hard": { "english": "Lines", "nepali": "रेखाहरू" }
+      }
+    },
+    {
+      "id": "games_029",
+      "english": "Pac-Man",
+      "nepali": "प्याकम्यान",
+      "hints": {
+        "easy": { "english": "Yellow", "nepali": "पहेंलो" },
+        "medium": { "english": "Ghosts", "nepali": "भूतहरू" },
+        "hard": { "english": "Maze", "nepali": "भुलभुलैया" }
+      }
+    },
+    {
+      "id": "games_030",
+      "english": "Need for Speed",
+      "nepali": "निड फर स्पिड",
+      "hints": {
+        "easy": { "english": "Racing", "nepali": "रेसिङ" },
+        "medium": { "english": "Nitro", "nepali": "नाइट्रो" },
+        "hard": { "english": "Pursuit", "nepali": "पछ्याइ" }
+      }
+    },
+    {
+      "id": "games_034",
+      "english": "Snakes and Ladders",
+      "nepali": "सर्प र सिँढी",
+      "hints": {
+        "easy": { "english": "Board", "nepali": "बोर्ड" },
+        "medium": { "english": "Climbing", "nepali": "चढाइ" },
+        "hard": { "english": "Shortcut", "nepali": "छोटो बाटो" }
+      }
+    },
+    {
+      "id": "games_035",
+      "english": "Monopoly",
+      "nepali": "मोनोपोली",
+      "hints": {
+        "easy": { "english": "Money", "nepali": "पैसा" },
+        "medium": { "english": "Property", "nepali": "सम्पत्ति" },
+        "hard": { "english": "Bankrupt", "nepali": "दिवालिया" }
+      }
+    },
+    {
+      "id": "games_037",
+      "english": "Jenga",
+      "nepali": "जेङ्गा",
+      "hints": {
+        "easy": { "english": "Wood", "nepali": "काठ" },
+        "medium": { "english": "Tower", "nepali": "धरहरा" },
+        "hard": { "english": "Balance", "nepali": "सन्तुलन" }
+      }
+    },
+    {
+      "id": "games_040",
+      "english": "Playing Cards",
+      "nepali": "तास",
+      "hints": {
+        "easy": { "english": "Deck", "nepali": "तासको बुक" },
+        "medium": { "english": "Hearts", "nepali": "पान" },
+        "hard": { "english": "Joker", "nepali": "जोकर" }
+      }
+    },
+    {
+      "id": "games_041",
+      "english": "UNO",
+      "nepali": "युनो",
+      "hints": {
+        "easy": { "english": "Cards", "nepali": "तास" },
+        "medium": { "english": "Reverse", "nepali": "उल्टो" },
+        "hard": { "english": "Wild", "nepali": "वाइल्ड" }
+      }
+    },
+    {
+      "id": "games_043",
+      "english": "Hide and Seek",
+      "nepali": "लुकामारी",
+      "hints": {
+        "easy": { "english": "Hide", "nepali": "लुक्नु" },
+        "medium": { "english": "Found", "nepali": "भेट्टाउनु" },
+        "hard": { "english": "Counting", "nepali": "गन्ती" }
+      }
+    },
+    {
+      "id": "games_045",
+      "english": "Musical Chairs",
+      "nepali": "म्युजिकल चेयर",
+      "hints": {
+        "easy": { "english": "Music", "nepali": "सङ्गीत" },
+        "medium": { "english": "Chairs", "nepali": "कुर्सीहरू" },
+        "hard": { "english": "Elimination", "nepali": "बाहिरिने" }
+      }
+    },
+    {
+      "id": "games_046",
+      "english": "Truth or Dare",
+      "nepali": "ट्रुथ अर डेयर",
+      "hints": {
+        "easy": { "english": "Friends", "nepali": "साथीहरू" },
+        "medium": { "english": "Secret", "nepali": "रहस्य" },
+        "hard": { "english": "Challenge", "nepali": "चुनौती" }
+      }
+    },
+    {
+      "id": "games_047",
+      "english": "Dumb Charades",
+      "nepali": "डम्ब चराड्स",
+      "hints": {
+        "easy": { "english": "Acting", "nepali": "अभिनय" },
+        "medium": { "english": "Guessing", "nepali": "अनुमान" },
+        "hard": { "english": "Silent", "nepali": "मौन" }
+      }
+    },
+    {
+      "id": "games_048",
+      "english": "Pictionary",
+      "nepali": "पिक्सनरी",
+      "hints": {
+        "easy": { "english": "Drawing", "nepali": "चित्र" },
+        "medium": { "english": "Guessing", "nepali": "अनुमान" },
+        "hard": { "english": "Sketch", "nepali": "रेखाचित्र" }
+      }
+    },
+    {
+      "id": "games_049",
+      "english": "Dandi Biyo",
+      "nepali": "डन्डी बियो",
+      "hints": {
+        "easy": { "english": "Wood", "nepali": "काठ" },
+        "medium": { "english": "Stick", "nepali": "डन्डी" },
+        "hard": { "english": "Biyo", "nepali": "बियो" }
+      }
+    },
+    {
+      "id": "games_050",
+      "english": "Bagh Chal",
+      "nepali": "बाघचाल",
+      "hints": {
+        "easy": { "english": "Tigers", "nepali": "बाघ" },
+        "medium": { "english": "Goats", "nepali": "बाख्रा" },
+        "hard": { "english": "Strategy", "nepali": "रणनीति" }
+      }
+    },
+    {
+      "id": "games_051",
+      "english": "Guchha",
+      "nepali": "गुच्चा",
+      "hints": {
+        "easy": { "english": "Marbles", "nepali": "कञ्चा" },
+        "medium": { "english": "Glass", "nepali": "सिसा" },
+        "hard": { "english": "Target", "nepali": "निसाना" }
+      }
+    },
+    {
+      "id": "games_052",
+      "english": "Hopscotch",
+      "nepali": "खोप्पी",
+      "hints": {
+        "easy": { "english": "Jumping", "nepali": "उफ्रिने" },
+        "medium": { "english": "Squares", "nepali": "खानाहरू" },
+        "hard": { "english": "Pebble", "nepali": "साना ढुङ्गा" }
+      }
+    },
+    {
+      "id": "games_053",
+      "english": "Rock Paper Scissors",
+      "nepali": "ढुङ्गा कागज कैंची",
+      "hints": {
+        "easy": { "english": "Hands", "nepali": "हात" },
+        "medium": { "english": "Choices", "nepali": "विकल्प" },
+        "hard": { "english": "Tie", "nepali": "बराबरी" }
+      }
+    },
+    {
+      "id": "games_054",
+      "english": "Tug of War",
+      "nepali": "डोरी तान्ने खेल",
+      "hints": {
+        "easy": { "english": "Rope", "nepali": "डोरी" },
+        "medium": { "english": "Teams", "nepali": "टोलीहरू" },
+        "hard": { "english": "Pull", "nepali": "तान्नु" }
+      }
+    },
+    {
+      "id": "games_055",
+      "english": "Badminton",
+      "nepali": "ब्याडमिन्टन",
+      "hints": {
+        "easy": { "english": "Racket", "nepali": "र्‍याकेट" },
+        "medium": { "english": "Shuttlecock", "nepali": "स्याटलकक" },
+        "hard": { "english": "Smash", "nepali": "स्म्यास" }
+      }
+    },
+    {
+      "id": "games_056",
+      "english": "Table Tennis",
+      "nepali": "टेबल टेनिस",
+      "hints": {
+        "easy": { "english": "Paddle", "nepali": "प्याडल" },
+        "medium": { "english": "Pingpong", "nepali": "पिङपोङ" },
+        "hard": { "english": "Spin", "nepali": "घुमाउरो प्रहार" }
+      }
+    },
+    {
+      "id": "games_057",
+      "english": "Volleyball",
+      "nepali": "भलिबल",
+      "hints": {
+        "easy": { "english": "Net", "nepali": "जाली" },
+        "medium": { "english": "Smash", "nepali": "स्म्यास" },
+        "hard": { "english": "Libero", "nepali": "लिबेरो" }
+      }
+    },
+    {
+      "id": "games_058",
+      "english": "Basketball",
+      "nepali": "बास्केटबल",
+      "hints": {
+        "easy": { "english": "Hoop", "nepali": "घेरा" },
+        "medium": { "english": "Dribble", "nepali": "बल उफार्ने" },
+        "hard": { "english": "Dunk", "nepali": "डङ्क" }
+      }
+    },
+    {
+      "id": "games_059",
+      "english": "Football",
+      "nepali": "फुटबल",
+      "hints": {
+        "easy": { "english": "Goal", "nepali": "गोल" },
+        "medium": { "english": "Offside", "nepali": "अफसाइड" },
+        "hard": { "english": "Penalty", "nepali": "पेनाल्टी" }
+      }
+    },
+    {
+      "id": "games_060",
+      "english": "Cricket",
+      "nepali": "क्रिकेट",
+      "hints": {
+        "easy": { "english": "Bat", "nepali": "ब्याट" },
+        "medium": { "english": "Wicket", "nepali": "विकेट" },
+        "hard": { "english": "Duck", "nepali": "शून्य रन" }
+      }
+    },
+    {
+      "id": "games_061",
+      "english": "Bowling",
+      "nepali": "बलिङ",
+      "hints": {
+        "easy": { "english": "Pins", "nepali": "किला" },
+        "medium": { "english": "Strike", "nepali": "स्ट्राइक" },
+        "hard": { "english": "Lane", "nepali": "लेन" }
+      }
+    },
+    {
+      "id": "games_062",
+      "english": "Golf",
+      "nepali": "गोल्फ",
+      "hints": {
+        "easy": { "english": "Club", "nepali": "क्लब" },
+        "medium": { "english": "Hole", "nepali": "प्वाल" },
+        "hard": { "english": "Eagle", "nepali": "ईगल" }
+      }
+    },
+    {
+      "id": "games_063",
+      "english": "Archery",
+      "nepali": "तीरन्दाजी",
+      "hints": {
+        "easy": { "english": "Bow", "nepali": "धनुष" },
+        "medium": { "english": "Arrow", "nepali": "तीर" },
+        "hard": { "english": "Bullseye", "nepali": "निसानाको केन्द्र" }
+      }
+    },
+    {
+      "id": "games_064",
+      "english": "Wrestling",
+      "nepali": "कुस्ती",
+      "hints": {
+        "easy": { "english": "Opponent", "nepali": "प्रतिद्वन्द्वी" },
+        "medium": { "english": "Mat", "nepali": "म्याट" },
+        "hard": { "english": "Pin", "nepali": "थिचेर रोक्नु" }
+      }
+    }
+  ]
+}

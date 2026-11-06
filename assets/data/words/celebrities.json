@@ -1,0 +1,1725 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "celebrities_001",
+      "english": "Rajesh Hamal",
+      "nepali": "राजेश हमाल",
+      "hints": {
+        "easy": {"english": "Mahanayak", "nepali": "महानायक"},
+        "medium": {"english": "Deuta", "nepali": "देउता"},
+        "hard": {"english": "Tansen", "nepali": "तानसेन"}
+      }
+    },
+    {
+      "id": "celebrities_002",
+      "english": "Dayahang Rai",
+      "nepali": "दयाहाङ राई",
+      "hints": {
+        "easy": {"english": "Kabaddi", "nepali": "कबड्डी"},
+        "medium": {"english": "Kaji", "nepali": "काजी"},
+        "hard": {"english": "Jari", "nepali": "जारी"}
+      }
+    },
+    {
+      "id": "celebrities_003",
+      "english": "Anmol K.C.",
+      "nepali": "अनमोल केसी",
+      "hints": {
+        "easy": {"english": "Hostel", "nepali": "होस्टेल"},
+        "medium": {"english": "Aakash", "nepali": "आकाश"},
+        "hard": {"english": "Dreams", "nepali": "ड्रिम्स"}
+      }
+    },
+    {
+      "id": "celebrities_004",
+      "english": "Pradeep Khadka",
+      "nepali": "प्रदीप खड्का",
+      "hints": {
+        "easy": {"english": "Premgeet", "nepali": "प्रेमगीत"},
+        "medium": {"english": "Prakash", "nepali": "प्रकाश"},
+        "hard": {"english": "Lily", "nepali": "लिली"}
+      }
+    },
+    {
+      "id": "celebrities_005",
+      "english": "Bipin Karki",
+      "nepali": "विपिन कार्की",
+      "hints": {
+        "easy": {"english": "Pashupati", "nepali": "पशुपति"},
+        "medium": {"english": "Bhasme", "nepali": "भष्मे"},
+        "hard": {"english": "Chhadke", "nepali": "छड्के"}
+      }
+    },
+    {
+      "id": "celebrities_006",
+      "english": "Saugat Malla",
+      "nepali": "सौगात मल्ल",
+      "hints": {
+        "easy": {"english": "Loot", "nepali": "लुट"},
+        "medium": {"english": "Haku", "nepali": "हाकु"},
+        "hard": {"english": "Fateko", "nepali": "फटेको"}
+      }
+    },
+    {
+      "id": "celebrities_007",
+      "english": "Nischal Basnet",
+      "nepali": "निश्चल बस्नेत",
+      "hints": {
+        "easy": {"english": "Loot", "nepali": "लुट"},
+        "medium": {"english": "Director", "nepali": "निर्देशक"},
+        "hard": {"english": "Talakjung", "nepali": "टलकजंग"}
+      }
+    },
+    {
+      "id": "celebrities_008",
+      "english": "Paul Shah",
+      "nepali": "पल शाह",
+      "hints": {
+        "easy": {"english": "Musicvideo", "nepali": "म्युजिक भिडियो"},
+        "medium": {"english": "Maya", "nepali": "माया"},
+        "hard": {"english": "Premgeet", "nepali": "प्रेमगीत"}
+      }
+    },
+    {
+      "id": "celebrities_009",
+      "english": "Aryan Sigdel",
+      "nepali": "आर्यन सिग्देल",
+      "hints": {
+        "easy": {"english": "Saathi", "nepali": "साथी"},
+        "medium": {"english": "November", "nepali": "नोभेम्बर"},
+        "hard": {"english": "Classic", "nepali": "क्लासिक"}
+      }
+    },
+    {
+      "id": "celebrities_010",
+      "english": "Sunil Thapa",
+      "nepali": "सुनिल थापा",
+      "hints": {
+        "easy": {"english": "RateKailash", "nepali": "राते कैलाश"},
+        "medium": {"english": "MaryKom", "nepali": "मेरी कोम"},
+        "hard": {"english": "Villain", "nepali": "खलनायक"}
+      }
+    },
+    {
+      "id": "celebrities_011",
+      "english": "Manisha Koirala",
+      "nepali": "मनिषा कोइराला",
+      "hints": {
+        "easy": {"english": "Heeramandi", "nepali": "हीरामण्डी"},
+        "medium": {"english": "Kathmandu", "nepali": "काठमाडौं"},
+        "hard": {"english": "Mansarovar", "nepali": "मानसरोवर"}
+      }
+    },
+    {
+      "id": "celebrities_012",
+      "english": "Rekha Thapa",
+      "nepali": "रेखा थापा",
+      "hints": {
+        "easy": {"english": "Heroine", "nepali": "नायिका"},
+        "medium": {"english": "Himmat", "nepali": "हिम्मत"},
+        "hard": {"english": "KasleChoryo", "nepali": "कसले चोर्‍यो"}
+      }
+    },
+    {
+      "id": "celebrities_013",
+      "english": "Priyanka Karki",
+      "nepali": "प्रियंका कार्की",
+      "hints": {
+        "easy": {"english": "Jholay", "nepali": "झोले"},
+        "medium": {"english": "Mischa", "nepali": "मिस्चा"},
+        "hard": {"english": "Aawaran", "nepali": "आवरण"}
+      }
+    },
+    {
+      "id": "celebrities_014",
+      "english": "Swastima Khadka",
+      "nepali": "स्वस्तिमा खड्का",
+      "hints": {
+        "easy": {"english": "Bulbul", "nepali": "बुलबुल"},
+        "medium": {"english": "Rambabu", "nepali": "रामबाबु"},
+        "hard": {"english": "Chiso", "nepali": "चिसो"}
+      }
+    },
+    {
+      "id": "celebrities_015",
+      "english": "Barsha Raut",
+      "nepali": "वर्षा राउत",
+      "hints": {
+        "easy": {"english": "NaiNabhannu", "nepali": "नाइँ नभन्नु"},
+        "medium": {"english": "Jatra", "nepali": "जात्रा"},
+        "hard": {"english": "Gopi", "nepali": "गोपी"}
+      }
+    },
+    {
+      "id": "celebrities_016",
+      "english": "Karishma Manandhar",
+      "nepali": "करिश्मा मानन्धर",
+      "hints": {
+        "easy": {"english": "Santaan", "nepali": "सन्तान"},
+        "medium": {"english": "Maiti", "nepali": "माइती"},
+        "hard": {"english": "Babu", "nepali": "बाबु"}
+      }
+    },
+    {
+      "id": "celebrities_017",
+      "english": "Miruna Magar",
+      "nepali": "मिरुना मगर",
+      "hints": {
+        "easy": {"english": "Kabaddi", "nepali": "कबड्डी"},
+        "medium": {"english": "Pashupati", "nepali": "पशुपति"},
+        "hard": {"english": "Lalpurja", "nepali": "लालपुर्जा"}
+      }
+    },
+    {
+      "id": "celebrities_018",
+      "english": "Samragyee R.L. Shah",
+      "nepali": "साम्राज्ञी राज्यलक्ष्मी शाह",
+      "hints": {
+        "easy": {"english": "Dreams", "nepali": "ड्रिम्स"},
+        "medium": {"english": "Aashish", "nepali": "आशीष"},
+        "hard": {"english": "Maruni", "nepali": "मारुनी"}
+      }
+    },
+    {
+      "id": "celebrities_019",
+      "english": "Jassita Gurung",
+      "nepali": "जसिता गुरुङ",
+      "hints": {
+        "easy": {"english": "Lily", "nepali": "लिली"},
+        "medium": {"english": "Lahure", "nepali": "लाहुरे"},
+        "hard": {"english": "Station", "nepali": "स्टेसन"}
+      }
+    },
+    {
+      "id": "celebrities_020",
+      "english": "Pooja Sharma",
+      "nepali": "पूजा शर्मा",
+      "hints": {
+        "easy": {"english": "Premgeet", "nepali": "प्रेमगीत"},
+        "medium": {"english": "MaYestoGeet", "nepali": "म यस्तो गीत"},
+        "hard": {"english": "Radhika", "nepali": "राधिका"}
+      }
+    },
+    {
+      "id": "celebrities_021",
+      "english": "Narayan Gopal",
+      "nepali": "नारायण गोपाल",
+      "hints": {
+        "easy": {"english": "SwarSamrat", "nepali": "स्वरसम्राट"},
+        "medium": {"english": "Tragedy", "nepali": "वियोग"},
+        "hard": {"english": "EutaManche", "nepali": "एउटा मान्छे"}
+      }
+    },
+    {
+      "id": "celebrities_022",
+      "english": "Arun Thapa",
+      "nepali": "अरुण थापा",
+      "hints": {
+        "easy": {"english": "Rituharu", "nepali": "ऋतुहरू"},
+        "medium": {"english": "Bhojpur", "nepali": "भोजपुर"},
+        "hard": {"english": "Karodau", "nepali": "करोडौँ"}
+      }
+    },
+    {
+      "id": "celebrities_023",
+      "english": "Sugam Pokharel",
+      "nepali": "सुगम पोखरेल",
+      "hints": {
+        "easy": {"english": "School", "nepali": "स्कुल"},
+        "medium": {"english": "Sansar", "nepali": "संसार"},
+        "hard": {"english": "Kasto", "nepali": "कस्तो"}
+      }
+    },
+    {
+      "id": "celebrities_024",
+      "english": "Nabin K. Bhattarai",
+      "nepali": "नवीन के. भट्टराई",
+      "hints": {
+        "easy": {"english": "Aankhama", "nepali": "आँखामा"},
+        "medium": {"english": "Sanima", "nepali": "सानिमा"},
+        "hard": {"english": "Sanjha", "nepali": "साँझ"}
+      }
+    },
+    {
+      "id": "celebrities_025",
+      "english": "Raju Lama",
+      "nepali": "राजु लामा",
+      "hints": {
+        "easy": {"english": "Mongolian", "nepali": "मंगोलियन"},
+        "medium": {"english": "Saili", "nepali": "साइँली"},
+        "hard": {"english": "Heart", "nepali": "मुटु"}
+      }
+    },
+    {
+      "id": "celebrities_026",
+      "english": "Sajjan Raj Vaidya",
+      "nepali": "सज्जन राज वैद्य",
+      "hints": {
+        "easy": {"english": "Hawaijahaj", "nepali": "हवाईजहाज"},
+        "medium": {"english": "Chitthi", "nepali": "चिठ्ठी"},
+        "hard": {"english": "Hataarindai", "nepali": "हतारिँदै"}
+      }
+    },
+    {
+      "id": "celebrities_027",
+      "english": "Swoopna Suman",
+      "nepali": "स्वप्न सुमन",
+      "hints": {
+        "easy": {"english": "JeChhauTimi", "nepali": "जे छौ तिमी"},
+        "medium": {"english": "KasariBhanu", "nepali": "कसरी भनूँ"},
+        "hard": {"english": "Coffee", "nepali": "कफी"}
+      }
+    },
+    {
+      "id": "celebrities_028",
+      "english": "Bartika Eam Rai",
+      "nepali": "बर्तिका एम राई",
+      "hints": {
+        "easy": {"english": "Najeek", "nepali": "नजिक"},
+        "medium": {"english": "Bimbaakash", "nepali": "बिम्बाकाश"},
+        "hard": {"english": "Khai", "nepali": "खै"}
+      }
+    },
+    {
+      "id": "celebrities_029",
+      "english": "Bipul Chettri",
+      "nepali": "बिपुल क्षेत्री",
+      "hints": {
+        "easy": {"english": "Syndicate", "nepali": "सिन्डिकेट"},
+        "medium": {"english": "Asaar", "nepali": "असार"},
+        "hard": {"english": "Mountain", "nepali": "पहाड"}
+      }
+    },
+    {
+      "id": "celebrities_030",
+      "english": "Prakash Saput",
+      "nepali": "प्रकाश सपुत",
+      "hints": {
+        "easy": {"english": "Galbandi", "nepali": "गल्बन्दी"},
+        "medium": {"english": "Sakambari", "nepali": "सकम्बरी"},
+        "hard": {"english": "Pir", "nepali": "पीर"}
+      }
+    },
+    {
+      "id": "celebrities_031",
+      "english": "Melina Rai",
+      "nepali": "मेलिना राई",
+      "hints": {
+        "easy": {"english": "Kutu", "nepali": "कुटु"},
+        "medium": {"english": "Shirah", "nepali": "शिरैमा"},
+        "hard": {"english": "Machhapuchhre", "nepali": "माछापुच्छ्रे"}
+      }
+    },
+    {
+      "id": "celebrities_032",
+      "english": "Anju Panta",
+      "nepali": "अञ्जु पन्त",
+      "hints": {
+        "easy": {"english": "Nabirse", "nepali": "नबिर्से"},
+        "medium": {"english": "Sugam", "nepali": "सुगम"},
+        "hard": {"english": "Viraha", "nepali": "विरह"}
+      }
+    },
+    {
+      "id": "celebrities_033",
+      "english": "Indira Joshi",
+      "nepali": "इन्दिरा जोशी",
+      "hints": {
+        "easy": {"english": "Ghanghara", "nepali": "घाँघर"},
+        "medium": {"english": "Idol", "nepali": "आइडल"},
+        "hard": {"english": "ChhaMaya", "nepali": "छ माया"}
+      }
+    },
+    {
+      "id": "celebrities_034",
+      "english": "Nima Rumba",
+      "nepali": "निमा रुम्बा",
+      "hints": {
+        "easy": {"english": "Aau", "nepali": "आऊ"},
+        "medium": {"english": "Pop", "nepali": "पप"},
+        "hard": {"english": "Rumba", "nepali": "रुम्बा"}
+      }
+    },
+    {
+      "id": "celebrities_035",
+      "english": "Yabesh Thapa",
+      "nepali": "यबेश थापा",
+      "hints": {
+        "easy": {"english": "Lakhau", "nepali": "लाखौँ"},
+        "medium": {"english": "Muskurayera", "nepali": "मुस्कुराएर"},
+        "hard": {"english": "Aakash", "nepali": "आकाश"}
+      }
+    },
+    {
+      "id": "celebrities_036",
+      "english": "Paras Khadka",
+      "nepali": "पारस खड्का",
+      "hints": {
+        "easy": {"english": "Captain", "nepali": "कप्तान"},
+        "medium": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "hard": {"english": "Century", "nepali": "शतक"}
+      }
+    },
+    {
+      "id": "celebrities_037",
+      "english": "Gyanendra Malla",
+      "nepali": "ज्ञानेन्द्र मल्ल",
+      "hints": {
+        "easy": {"english": "Opener", "nepali": "ओपनर"},
+        "medium": {"english": "Coverdrive", "nepali": "कभरड्राइभ"},
+        "hard": {"english": "Captaincy", "nepali": "कप्तानी"}
+      }
+    },
+    {
+      "id": "celebrities_038",
+      "english": "Sharad Vesawkar",
+      "nepali": "शरद भेषावकर",
+      "hints": {
+        "easy": {"english": "Finisher", "nepali": "फिनिसर"},
+        "medium": {"english": "Sixes", "nepali": "छक्का"},
+        "hard": {"english": "Partnership", "nepali": "साझेदारी"}
+      }
+    },
+    {
+      "id": "celebrities_039",
+      "english": "Binod Bhandari",
+      "nepali": "विनोद भण्डारी",
+      "hints": {
+        "easy": {"english": "Wicketkeeper", "nepali": "विकेटकिपर"},
+        "medium": {"english": "Gloves", "nepali": "पञ्जा"},
+        "hard": {"english": "Finisher", "nepali": "फिनिसर"}
+      }
+    },
+    {
+      "id": "celebrities_040",
+      "english": "Basant Regmi",
+      "nepali": "बसन्त रेग्मी",
+      "hints": {
+        "easy": {"english": "Spinner", "nepali": "स्पिनर"},
+        "medium": {"english": "Leftarm", "nepali": "देब्रेहाते"},
+        "hard": {"english": "Wickets", "nepali": "विकेट"}
+      }
+    },
+    {
+      "id": "celebrities_041",
+      "english": "Shakti Gauchan",
+      "nepali": "शक्ति गौचन",
+      "hints": {
+        "easy": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "medium": {"english": "Spin", "nepali": "स्पिन"},
+        "hard": {"english": "Retirement", "nepali": "सन्न्यास"}
+      }
+    },
+    {
+      "id": "celebrities_042",
+      "english": "Sompal Kami",
+      "nepali": "सोमपाल कामी",
+      "hints": {
+        "easy": {"english": "Pace", "nepali": "तीव्रगति"},
+        "medium": {"english": "Seam", "nepali": "सिम"},
+        "hard": {"english": "Allrounder", "nepali": "अलराउन्डर"}
+      }
+    },
+    {
+      "id": "celebrities_043",
+      "english": "Karan KC",
+      "nepali": "करण केसी",
+      "hints": {
+        "easy": {"english": "Fastbowler", "nepali": "तीव्रगति बलर"},
+        "medium": {"english": "Yorker", "nepali": "योर्कर"},
+        "hard": {"english": "Finisher", "nepali": "फिनिसर"}
+      }
+    },
+    {
+      "id": "celebrities_044",
+      "english": "Sandeep Lamichhane",
+      "nepali": "सन्दीप लामिछाने",
+      "hints": {
+        "easy": {"english": "Legspin", "nepali": "लेगस्पिन"},
+        "medium": {"english": "IPL", "nepali": "आईपीएल"},
+        "hard": {"english": "Googly", "nepali": "गुग्ली"}
+      }
+    },
+    {
+      "id": "celebrities_045",
+      "english": "Dipendra Singh Airee",
+      "nepali": "दीपेन्द्र सिंह ऐरी",
+      "hints": {
+        "easy": {"english": "Sixes", "nepali": "छक्का"},
+        "medium": {"english": "Nineballs", "nepali": "नौ बल"},
+        "hard": {"english": "Hangzhou", "nepali": "हाङझाउ"}
+      }
+    },
+    {
+      "id": "celebrities_046",
+      "english": "Rohit Paudel",
+      "nepali": "रोहित पौडेल",
+      "hints": {
+        "easy": {"english": "Captain", "nepali": "कप्तान"},
+        "medium": {"english": "Youngest", "nepali": "कान्छो"},
+        "hard": {"english": "Netherlands", "nepali": "नेदरल्यान्ड्स"}
+      }
+    },
+    {
+      "id": "celebrities_047",
+      "english": "Kushal Bhurtel",
+      "nepali": "कुशल भुर्तेल",
+      "hints": {
+        "easy": {"english": "Opener", "nepali": "ओपनर"},
+        "medium": {"english": "Debut", "nepali": "डेब्यु"},
+        "hard": {"english": "Powerplay", "nepali": "पावरप्ले"}
+      }
+    },
+    {
+      "id": "celebrities_048",
+      "english": "Kushal Malla",
+      "nepali": "कुशल मल्ल",
+      "hints": {
+        "easy": {"english": "Sixhitter", "nepali": "छक्का प्रहारकर्ता"},
+        "medium": {"english": "Teenager", "nepali": "किशोर"},
+        "hard": {"english": "Century", "nepali": "शतक"}
+      }
+    },
+    {
+      "id": "celebrities_049",
+      "english": "Aasif Sheikh",
+      "nepali": "आसिफ शेख",
+      "hints": {
+        "easy": {"english": "Wicketkeeper", "nepali": "विकेटकिपर"},
+        "medium": {"english": "Opener", "nepali": "ओपनर"},
+        "hard": {"english": "Gloves", "nepali": "पञ्जा"}
+      }
+    },
+    {
+      "id": "celebrities_050",
+      "english": "Aarif Sheikh",
+      "nepali": "आरिफ शेख",
+      "hints": {
+        "easy": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "medium": {"english": "Middleorder", "nepali": "मध्यक्रम"},
+        "hard": {"english": "Brother", "nepali": "भाइ"}
+      }
+    },
+    {
+      "id": "celebrities_051",
+      "english": "Sandeep Jora",
+      "nepali": "सन्दीप जोरा",
+      "hints": {
+        "easy": {"english": "Batter", "nepali": "ब्याटर"},
+        "medium": {"english": "Middleorder", "nepali": "मध्यक्रम"},
+        "hard": {"english": "Debut", "nepali": "डेब्यु"}
+      }
+    },
+    {
+      "id": "celebrities_052",
+      "english": "Sagar Pun",
+      "nepali": "सागर पुन",
+      "hints": {
+        "easy": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "medium": {"english": "Offspin", "nepali": "अफस्पिन"},
+        "hard": {"english": "Opening", "nepali": "ओपनिङ"}
+      }
+    },
+    {
+      "id": "celebrities_053",
+      "english": "Subash Khakurel",
+      "nepali": "सुबास खकुरेल",
+      "hints": {
+        "easy": {"english": "Wicketkeeper", "nepali": "विकेटकिपर"},
+        "medium": {"english": "Opener", "nepali": "ओपनर"},
+        "hard": {"english": "Gloves", "nepali": "पञ्जा"}
+      }
+    },
+    {
+      "id": "celebrities_054",
+      "english": "Pradeep Airee",
+      "nepali": "प्रदीप ऐरी",
+      "hints": {
+        "easy": {"english": "Batter", "nepali": "ब्याटर"},
+        "medium": {"english": "Wicketkeeper", "nepali": "विकेटकिपर"},
+        "hard": {"english": "Opening", "nepali": "ओपनिङ"}
+      }
+    },
+    {
+      "id": "celebrities_055",
+      "english": "Jitendra Mukhiya",
+      "nepali": "जितेन्द्र मुखिया",
+      "hints": {
+        "easy": {"english": "Fastbowler", "nepali": "तीव्रगति बलर"},
+        "medium": {"english": "Seam", "nepali": "सिम"},
+        "hard": {"english": "Deathovers", "nepali": "अन्तिम ओभर"}
+      }
+    },
+    {
+      "id": "celebrities_056",
+      "english": "Naresh Budayair",
+      "nepali": "नरेश बुढाएर",
+      "hints": {
+        "easy": {"english": "Batter", "nepali": "ब्याटर"},
+        "medium": {"english": "Toporder", "nepali": "शीर्षक्रम"},
+        "hard": {"english": "Rightarm", "nepali": "दाहिनेहाते"}
+      }
+    },
+    {
+      "id": "celebrities_057",
+      "english": "Amrit Bhattarai",
+      "nepali": "अमृत भट्टराई",
+      "hints": {
+        "easy": {"english": "Bowler", "nepali": "बलर"},
+        "medium": {"english": "Leftarm", "nepali": "देब्रेहाते"},
+        "hard": {"english": "Pace", "nepali": "गति"}
+      }
+    },
+    {
+      "id": "celebrities_058",
+      "english": "Avinash Karn",
+      "nepali": "अविनाश कर्ण",
+      "hints": {
+        "easy": {"english": "Bowler", "nepali": "बलर"},
+        "medium": {"english": "Leftarm", "nepali": "देब्रेहाते"},
+        "hard": {"english": "Swing", "nepali": "स्विङ"}
+      }
+    },
+    {
+      "id": "celebrities_059",
+      "english": "Anil Mandal",
+      "nepali": "अनिल मण्डल",
+      "hints": {
+        "easy": {"english": "Batter", "nepali": "ब्याटर"},
+        "medium": {"english": "Opener", "nepali": "ओपनर"},
+        "hard": {"english": "Toporder", "nepali": "शीर्षक्रम"}
+      }
+    },
+    {
+      "id": "celebrities_060",
+      "english": "Rajesh Pulami",
+      "nepali": "राजेश पुलामी",
+      "hints": {
+        "easy": {"english": "Batter", "nepali": "ब्याटर"},
+        "medium": {"english": "Middleorder", "nepali": "मध्यक्रम"},
+        "hard": {"english": "Rightarm", "nepali": "दाहिनेहाते"}
+      }
+    },
+    {
+      "id": "celebrities_061",
+      "english": "Lalit Rajbanshi",
+      "nepali": "ललित राजवंशी",
+      "hints": {
+        "easy": {"english": "Spinner", "nepali": "स्पिनर"},
+        "medium": {"english": "Leftarm", "nepali": "देब्रेहाते"},
+        "hard": {"english": "Orthodox", "nepali": "अर्थोडक्स"}
+      }
+    },
+    {
+      "id": "celebrities_062",
+      "english": "Abinash Bohara",
+      "nepali": "अविनाश बोहरा",
+      "hints": {
+        "easy": {"english": "Pacer", "nepali": "तीव्रगतिका बलर"},
+        "medium": {"english": "Deathovers", "nepali": "अन्तिम ओभर"},
+        "hard": {"english": "Yorker", "nepali": "योर्कर"}
+      }
+    },
+    {
+      "id": "celebrities_063",
+      "english": "Pawan Sarraf",
+      "nepali": "पवन सर्राफ",
+      "hints": {
+        "easy": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "medium": {"english": "Offspin", "nepali": "अफस्पिन"},
+        "hard": {"english": "Middleorder", "nepali": "मध्यक्रम"}
+      }
+    },
+    {
+      "id": "celebrities_064",
+      "english": "Sushan Bhari",
+      "nepali": "सुशन भारी",
+      "hints": {
+        "easy": {"english": "Spinner", "nepali": "स्पिनर"},
+        "medium": {"english": "Leftarm", "nepali": "देब्रेहाते"},
+        "hard": {"english": "Orthodox", "nepali": "अर्थोडक्स"}
+      }
+    },
+    {
+      "id": "celebrities_065",
+      "english": "Kamal Singh Airee",
+      "nepali": "कमल सिंह ऐरी",
+      "hints": {
+        "easy": {"english": "Pacer", "nepali": "तीव्रगतिका बलर"},
+        "medium": {"english": "Fastmedium", "nepali": "मध्यम तीव्र"},
+        "hard": {"english": "Seam", "nepali": "सिम"}
+      }
+    },
+    {
+      "id": "celebrities_066",
+      "english": "Shahab Alam",
+      "nepali": "शहाब आलम",
+      "hints": {
+        "easy": {"english": "Spinner", "nepali": "स्पिनर"},
+        "medium": {"english": "Leftarm", "nepali": "देब्रेहाते"},
+        "hard": {"english": "Orthodox", "nepali": "अर्थोडक्स"}
+      }
+    },
+    {
+      "id": "celebrities_067",
+      "english": "Bibek Yadav",
+      "nepali": "विवेक यादव",
+      "hints": {
+        "easy": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "medium": {"english": "Mediumpace", "nepali": "मध्यमगति"},
+        "hard": {"english": "Lowerorder", "nepali": "तल्लोक्रम"}
+      }
+    },
+    {
+      "id": "celebrities_068",
+      "english": "Sagar Dhakal",
+      "nepali": "सागर ढकाल",
+      "hints": {
+        "easy": {"english": "Spinner", "nepali": "स्पिनर"},
+        "medium": {"english": "Leftarm", "nepali": "देब्रेहाते"},
+        "hard": {"english": "Orthodox", "nepali": "अर्थोडक्स"}
+      }
+    },
+    {
+      "id": "celebrities_069",
+      "english": "Gulshan Jha",
+      "nepali": "गुलशन झा",
+      "hints": {
+        "easy": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "medium": {"english": "Seam", "nepali": "सिम"},
+        "hard": {"english": "Powerhitter", "nepali": "आक्रामक ब्याटर"}
+      }
+    },
+    {
+      "id": "celebrities_070",
+      "english": "Dev Khanal",
+      "nepali": "देव खनाल",
+      "hints": {
+        "easy": {"english": "Batter", "nepali": "ब्याटर"},
+        "medium": {"english": "Toporder", "nepali": "शीर्षक्रम"},
+        "hard": {"english": "Captain", "nepali": "कप्तान"}
+      }
+    },
+    {
+      "id": "celebrities_071",
+      "english": "Bhim Sharki",
+      "nepali": "भीम सार्की",
+      "hints": {
+        "easy": {"english": "Batter", "nepali": "ब्याटर"},
+        "medium": {"english": "Middleorder", "nepali": "मध्यक्रम"},
+        "hard": {"english": "Rightarm", "nepali": "दाहिनेहाते"}
+      }
+    },
+    {
+      "id": "celebrities_072",
+      "english": "Anil Kumar Sah",
+      "nepali": "अनिल कुमार साह",
+      "hints": {
+        "easy": {"english": "Wicketkeeper", "nepali": "विकेटकिपर"},
+        "medium": {"english": "Batter", "nepali": "ब्याटर"},
+        "hard": {"english": "Gloves", "nepali": "पञ्जा"}
+      }
+    },
+    {
+      "id": "celebrities_073",
+      "english": "Arjun Saud",
+      "nepali": "अर्जुन साउद",
+      "hints": {
+        "easy": {"english": "Wicketkeeper", "nepali": "विकेटकिपर"},
+        "medium": {"english": "Batter", "nepali": "ब्याटर"},
+        "hard": {"english": "Gloves", "nepali": "पञ्जा"}
+      }
+    },
+    {
+      "id": "celebrities_074",
+      "english": "Basir Ahamad",
+      "nepali": "बशिर अहमद",
+      "hints": {
+        "easy": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "medium": {"english": "Leftarm", "nepali": "देब्रेहाते"},
+        "hard": {"english": "Orthodox", "nepali": "अर्थोडक्स"}
+      }
+    },
+    {
+      "id": "celebrities_075",
+      "english": "Mohammad Alam",
+      "nepali": "मोहम्मद आलम",
+      "hints": {
+        "easy": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "medium": {"english": "Offspin", "nepali": "अफस्पिन"},
+        "hard": {"english": "Rightarm", "nepali": "दाहिनेहाते"}
+      }
+    },
+    {
+      "id": "celebrities_076",
+      "english": "Dilip Nath",
+      "nepali": "दिलीप नाथ",
+      "hints": {
+        "easy": {"english": "Wicketkeeper", "nepali": "विकेटकिपर"},
+        "medium": {"english": "Batter", "nepali": "ब्याटर"},
+        "hard": {"english": "Gloves", "nepali": "पञ्जा"}
+      }
+    },
+    {
+      "id": "celebrities_077",
+      "english": "Bhuvan Karki",
+      "nepali": "भुवन कार्की",
+      "hints": {
+        "easy": {"english": "Bowler", "nepali": "बलर"},
+        "medium": {"english": "Leftarm", "nepali": "देब्रेहाते"},
+        "hard": {"english": "Spin", "nepali": "स्पिन"}
+      }
+    },
+    {
+      "id": "celebrities_078",
+      "english": "Ishan Pandey",
+      "nepali": "इशान पाण्डे",
+      "hints": {
+        "easy": {"english": "Batter", "nepali": "ब्याटर"},
+        "medium": {"english": "Toporder", "nepali": "शीर्षक्रम"},
+        "hard": {"english": "Lefthand", "nepali": "देब्रेहाते"}
+      }
+    },
+    {
+      "id": "celebrities_079",
+      "english": "Bikram Sob",
+      "nepali": "विक्रम सोब",
+      "hints": {
+        "easy": {"english": "Pacer", "nepali": "तीव्रगतिका बलर"},
+        "medium": {"english": "Fastmedium", "nepali": "मध्यम तीव्र"},
+        "hard": {"english": "Seam", "nepali": "सिम"}
+      }
+    },
+    {
+      "id": "celebrities_080",
+      "english": "Lalit Bhandari",
+      "nepali": "ललित भण्डारी",
+      "hints": {
+        "easy": {"english": "Pacer", "nepali": "तीव्रगतिका बलर"},
+        "medium": {"english": "Leftarm", "nepali": "देब्रेहाते"},
+        "hard": {"english": "Swing", "nepali": "स्विङ"}
+      }
+    },
+    {
+      "id": "celebrities_081",
+      "english": "Sunil Dhamala",
+      "nepali": "सुनिल धमला",
+      "hints": {
+        "easy": {"english": "Batter", "nepali": "ब्याटर"},
+        "medium": {"english": "Opener", "nepali": "ओपनर"},
+        "hard": {"english": "Toporder", "nepali": "शीर्षक्रम"}
+      }
+    },
+    {
+      "id": "celebrities_082",
+      "english": "Kishore Mahato",
+      "nepali": "किशोर महतो",
+      "hints": {
+        "easy": {"english": "Pacer", "nepali": "तीव्रगतिका बलर"},
+        "medium": {"english": "Rightarm", "nepali": "दाहिनेहाते"},
+        "hard": {"english": "Seam", "nepali": "सिम"}
+      }
+    },
+    {
+      "id": "celebrities_083",
+      "english": "Harishankar Shah",
+      "nepali": "हरिशंकर शाह",
+      "hints": {
+        "easy": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "medium": {"english": "Offspin", "nepali": "अफस्पिन"},
+        "hard": {"english": "Rightarm", "nepali": "दाहिनेहाते"}
+      }
+    },
+    {
+      "id": "celebrities_084",
+      "english": "Pratish Chhetri",
+      "nepali": "प्रतिश क्षेत्री",
+      "hints": {
+        "easy": {"english": "Pacer", "nepali": "तीव्रगतिका बलर"},
+        "medium": {"english": "Fastmedium", "nepali": "मध्यम तीव्र"},
+        "hard": {"english": "Seam", "nepali": "सिम"}
+      }
+    },
+    {
+      "id": "celebrities_085",
+      "english": "Shyam Dhakal",
+      "nepali": "श्याम ढकाल",
+      "hints": {
+        "easy": {"english": "Bowler", "nepali": "बलर"},
+        "medium": {"english": "Spin", "nepali": "स्पिन"},
+        "hard": {"english": "Rightarm", "nepali": "दाहिनेहाते"}
+      }
+    },
+    {
+      "id": "celebrities_086",
+      "english": "Aakash Chand",
+      "nepali": "आकाश चन्द",
+      "hints": {
+        "easy": {"english": "Pacer", "nepali": "तीव्रगतिका बलर"},
+        "medium": {"english": "U19", "nepali": "यू-१९"},
+        "hard": {"english": "Fastmedium", "nepali": "मध्यम तीव्र"}
+      }
+    },
+    {
+      "id": "celebrities_087",
+      "english": "Rijan Dhakal",
+      "nepali": "रिजन ढकाल",
+      "hints": {
+        "easy": {"english": "Pacer", "nepali": "तीव्रगतिका बलर"},
+        "medium": {"english": "Leftarm", "nepali": "देब्रेहाते"},
+        "hard": {"english": "Fastmedium", "nepali": "मध्यम तीव्र"}
+      }
+    },
+    {
+      "id": "celebrities_088",
+      "english": "Surya Tamang",
+      "nepali": "सूर्य तामाङ",
+      "hints": {
+        "easy": {"english": "Spinner", "nepali": "स्पिनर"},
+        "medium": {"english": "Leftarm", "nepali": "देब्रेहाते"},
+        "hard": {"english": "Orthodox", "nepali": "अर्थोडक्स"}
+      }
+    },
+    {
+      "id": "celebrities_089",
+      "english": "Hemant Dhami",
+      "nepali": "हेमन्त धामी",
+      "hints": {
+        "easy": {"english": "Pacer", "nepali": "तीव्रगतिका बलर"},
+        "medium": {"english": "U19", "nepali": "यू-१९"},
+        "hard": {"english": "Fastmedium", "nepali": "मध्यम तीव्र"}
+      }
+    },
+    {
+      "id": "celebrities_090",
+      "english": "Lokesh Bam",
+      "nepali": "लोकेश बम",
+      "hints": {
+        "easy": {"english": "Batter", "nepali": "ब्याटर"},
+        "medium": {"english": "Wicketkeeper", "nepali": "विकेटकिपर"},
+        "hard": {"english": "Powerhitter", "nepali": "आक्रामक ब्याटर"}
+      }
+    },
+    {
+      "id": "celebrities_091",
+      "english": "Rubina Chhetry",
+      "nepali": "रुबिना क्षेत्री",
+      "hints": {
+        "easy": {"english": "Fivewickets", "nepali": "पाँच विकेट"},
+        "medium": {"english": "Singapore", "nepali": "सिंगापुर"},
+        "hard": {"english": "Century", "nepali": "शतक"}
+      }
+    },
+    {
+      "id": "celebrities_092",
+      "english": "Indu Barma",
+      "nepali": "इन्दु बर्मा",
+      "hints": {
+        "easy": {"english": "Captain", "nepali": "कप्तान"},
+        "medium": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "hard": {"english": "Leadership", "nepali": "नेतृत्व"}
+      }
+    },
+    {
+      "id": "celebrities_093",
+      "english": "Sita Rana Magar",
+      "nepali": "सीता राना मगर",
+      "hints": {
+        "easy": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "medium": {"english": "Leftarm", "nepali": "देब्रेहाते"},
+        "hard": {"english": "AsiaCup", "nepali": "एसिया कप"}
+      }
+    },
+    {
+      "id": "celebrities_094",
+      "english": "Puja Mahato",
+      "nepali": "पूजा महतो",
+      "hints": {
+        "easy": {"english": "Vicecaptain", "nepali": "उपकप्तान"},
+        "medium": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "hard": {"english": "Youngster", "nepali": "युवा"}
+      }
+    },
+    {
+      "id": "celebrities_095",
+      "english": "Kabita Joshi",
+      "nepali": "कविता जोशी",
+      "hints": {
+        "easy": {"english": "Batter", "nepali": "ब्याटर"},
+        "medium": {"english": "Allrounder", "nepali": "अलराउन्डर"},
+        "hard": {"english": "Rightarm", "nepali": "दाहिनेहाते"}
+      }
+    },
+    {
+      "id": "celebrities_096",
+      "english": "Kabita Kunwar",
+      "nepali": "कविता कुँवर",
+      "hints": {
+        "easy": {"english": "Bowler", "nepali": "बलर"},
+        "medium": {"english": "Pace", "nepali": "गति"},
+        "hard": {"english": "Rightarm", "nepali": "दाहिनेहाते"}
+      }
+    },
+    {
+      "id": "celebrities_097",
+      "english": "Bindu Rawal",
+      "nepali": "बिन्दु रावल",
+      "hints": {
+        "easy": {"english": "Vicecaptain", "nepali": "उपकप्तान"},
+        "medium": {"english": "Lefthand", "nepali": "देब्रेहाते"},
+        "hard": {"english": "Batter", "nepali": "ब्याटर"}
+      }
+    },
+    {
+      "id": "celebrities_098",
+      "english": "Samjhana Khadka",
+      "nepali": "सम्झना खड्का",
+      "hints": {
+        "easy": {"english": "Legspin", "nepali": "लेगस्पिन"},
+        "medium": {"english": "Googly", "nepali": "गुग्ली"},
+        "hard": {"english": "Allrounder", "nepali": "अलराउन्डर"}
+      }
+    },
+    {
+      "id": "celebrities_099",
+      "english": "Kajal Shrestha",
+      "nepali": "काजल श्रेष्ठ",
+      "hints": {
+        "easy": {"english": "Wicketkeeper", "nepali": "विकेटकिपर"},
+        "medium": {"english": "Gloves", "nepali": "पञ्जा"},
+        "hard": {"english": "Qualifier", "nepali": "क्वालिफायर"}
+      }
+    },
+    {
+      "id": "celebrities_100",
+      "english": "Gaurika Singh",
+      "nepali": "गौरिका सिंह",
+      "hints": {
+        "easy": {"english": "Swimming", "nepali": "पौडी"},
+        "medium": {"english": "Olympics", "nepali": "ओलम्पिक"},
+        "hard": {"english": "Rio", "nepali": "रियो"}
+      }
+    },
+    {
+      "id": "celebrities_101",
+      "english": "Mira Rai",
+      "nepali": "मीरा राई",
+      "hints": {
+        "easy": {"english": "Ultrarunning", "nepali": "अल्ट्रादौड"},
+        "medium": {"english": "Trail", "nepali": "पदमार्ग"},
+        "hard": {"english": "Bhojpur", "nepali": "भोजपुर"}
+      }
+    },
+    {
+      "id": "celebrities_102",
+      "english": "Deepak Bista",
+      "nepali": "दीपक विष्ट",
+      "hints": {
+        "easy": {"english": "Taekwondo", "nepali": "तेक्वान्दो"},
+        "medium": {"english": "Olympics", "nepali": "ओलम्पिक"},
+        "hard": {"english": "Fourmedals", "nepali": "चार पदक"}
+      }
+    },
+    {
+      "id": "celebrities_103",
+      "english": "Sabitra Bhandari",
+      "nepali": "सावित्रा भण्डारी",
+      "hints": {
+        "easy": {"english": "Samba", "nepali": "साम्बा"},
+        "medium": {"english": "Striker", "nepali": "स्ट्राइकर"},
+        "hard": {"english": "France", "nepali": "फ्रान्स"}
+      }
+    },
+    {
+      "id": "celebrities_104",
+      "english": "Madan Krishna Shrestha",
+      "nepali": "मदनकृष्ण श्रेष्ठ",
+      "hints": {
+        "easy": {"english": "Maha", "nepali": "मह"},
+        "medium": {"english": "HariBansha", "nepali": "हरिवंश"},
+        "hard": {"english": "WadaNumber", "nepali": "वडानम्बर"}
+      }
+    },
+    {
+      "id": "celebrities_105",
+      "english": "Hari Bansha Acharya",
+      "nepali": "हरिवंश आचार्य",
+      "hints": {
+        "easy": {"english": "Maha", "nepali": "मह"},
+        "medium": {"english": "MadanKrishna", "nepali": "मदनकृष्ण"},
+        "hard": {"english": "Balchhi", "nepali": "बल्छी"}
+      }
+    },
+    {
+      "id": "celebrities_106",
+      "english": "Sitaram Kattel",
+      "nepali": "सीताराम कट्टेल",
+      "hints": {
+        "easy": {"english": "Dhurmus", "nepali": "धुर्मुस"},
+        "medium": {"english": "Suntali", "nepali": "सुन्तली"},
+        "hard": {"english": "JireKhursani", "nepali": "जिरेखुर्सानी"}
+      }
+    },
+    {
+      "id": "celebrities_107",
+      "english": "Kunjana Ghimire",
+      "nepali": "कुञ्जना घिमिरे",
+      "hints": {
+        "easy": {"english": "Suntali", "nepali": "सुन्तली"},
+        "medium": {"english": "Dhurmus", "nepali": "धुर्मुस"},
+        "hard": {"english": "Comedy", "nepali": "हास्य"}
+      }
+    },
+    {
+      "id": "celebrities_108",
+      "english": "Jitu Nepal",
+      "nepali": "जितु नेपाल",
+      "hints": {
+        "easy": {"english": "Mundre", "nepali": "मुन्द्रे"},
+        "medium": {"english": "JireKhursani", "nepali": "जिरेखुर्सानी"},
+        "hard": {"english": "Comedy", "nepali": "हास्य"}
+      }
+    },
+    {
+      "id": "celebrities_109",
+      "english": "Shah Rukh Khan",
+      "nepali": "शाहरुख खान",
+      "hints": {
+        "easy": {"english": "KingKhan", "nepali": "किङ खान"},
+        "medium": {"english": "Mannat", "nepali": "मन्नत"},
+        "hard": {"english": "Baadshah", "nepali": "बादशाह"}
+      }
+    },
+    {
+      "id": "celebrities_110",
+      "english": "Salman Khan",
+      "nepali": "सलमान खान",
+      "hints": {
+        "easy": {"english": "Bhaijaan", "nepali": "भाइजान"},
+        "medium": {"english": "BeingHuman", "nepali": "बिइङ ह्युमन"},
+        "hard": {"english": "Dabangg", "nepali": "दबंग"}
+      }
+    },
+    {
+      "id": "celebrities_111",
+      "english": "Aamir Khan",
+      "nepali": "आमिर खान",
+      "hints": {
+        "easy": {"english": "Perfectionist", "nepali": "परफेक्शनिस्ट"},
+        "medium": {"english": "Dangal", "nepali": "दंगल"},
+        "hard": {"english": "Satyamev", "nepali": "सत्यमेव"}
+      }
+    },
+    {
+      "id": "celebrities_112",
+      "english": "Amitabh Bachchan",
+      "nepali": "अमिताभ बच्चन",
+      "hints": {
+        "easy": {"english": "Shahenshah", "nepali": "शहंशाह"},
+        "medium": {"english": "KBC", "nepali": "केबीसी"},
+        "hard": {"english": "Baritone", "nepali": "गहिरो स्वर"}
+      }
+    },
+    {
+      "id": "celebrities_113",
+      "english": "Akshay Kumar",
+      "nepali": "अक्षय कुमार",
+      "hints": {
+        "easy": {"english": "Khiladi", "nepali": "खिलाडी"},
+        "medium": {"english": "Stunts", "nepali": "स्टन्ट"},
+        "hard": {"english": "Canadian", "nepali": "क्यानाडेली"}
+      }
+    },
+    {
+      "id": "celebrities_114",
+      "english": "Hrithik Roshan",
+      "nepali": "ऋतिक रोशन",
+      "hints": {
+        "easy": {"english": "Greekgod", "nepali": "ग्रीक गड"},
+        "medium": {"english": "Krrish", "nepali": "क्रिश"},
+        "hard": {"english": "Dancing", "nepali": "नृत्य"}
+      }
+    },
+    {
+      "id": "celebrities_115",
+      "english": "Ranbir Kapoor",
+      "nepali": "रणबीर कपूर",
+      "hints": {
+        "easy": {"english": "Rockstar", "nepali": "रकस्टार"},
+        "medium": {"english": "Animal", "nepali": "एनिमल"},
+        "hard": {"english": "Barfi", "nepali": "बर्फी"}
+      }
+    },
+    {
+      "id": "celebrities_116",
+      "english": "Ranveer Singh",
+      "nepali": "रणवीर सिंह",
+      "hints": {
+        "easy": {"english": "Energy", "nepali": "ऊर्जा"},
+        "medium": {"english": "Khilji", "nepali": "खिल्जी"},
+        "hard": {"english": "Gully", "nepali": "गल्ली"}
+      }
+    },
+    {
+      "id": "celebrities_117",
+      "english": "Ajay Devgn",
+      "nepali": "अजय देवगन",
+      "hints": {
+        "easy": {"english": "Singham", "nepali": "सिंघम"},
+        "medium": {"english": "PhoolKaante", "nepali": "फूल और काँटे"},
+        "hard": {"english": "Stunt", "nepali": "स्टन्ट"}
+      }
+    },
+    {
+      "id": "celebrities_118",
+      "english": "Shahid Kapoor",
+      "nepali": "शाहिद कपूर",
+      "hints": {
+        "easy": {"english": "Kabir", "nepali": "कबिर"},
+        "medium": {"english": "JabWeMet", "nepali": "जब वी मेट"},
+        "hard": {"english": "Ishq", "nepali": "इश्क"}
+      }
+    },
+    {
+      "id": "celebrities_119",
+      "english": "Deepika Padukone",
+      "nepali": "दीपिका पादुकोण",
+      "hints": {
+        "easy": {"english": "Padmaavat", "nepali": "पद्मावत"},
+        "medium": {"english": "Piku", "nepali": "पिकु"},
+        "hard": {"english": "Badminton", "nepali": "ब्याडमिन्टन"}
+      }
+    },
+    {
+      "id": "celebrities_120",
+      "english": "Priyanka Chopra",
+      "nepali": "प्रियंका चोपडा",
+      "hints": {
+        "easy": {"english": "Quantico", "nepali": "क्वान्टिको"},
+        "medium": {"english": "MissWorld", "nepali": "मिस वर्ल्ड"},
+        "hard": {"english": "Citadel", "nepali": "सिटाडेल"}
+      }
+    },
+    {
+      "id": "celebrities_121",
+      "english": "Alia Bhatt",
+      "nepali": "आलिया भट्ट",
+      "hints": {
+        "easy": {"english": "Gangubai", "nepali": "गंगुबाई"},
+        "medium": {"english": "Highway", "nepali": "हाइवे"},
+        "hard": {"english": "Jigra", "nepali": "जिग्रा"}
+      }
+    },
+    {
+      "id": "celebrities_122",
+      "english": "Aishwarya Rai Bachchan",
+      "nepali": "ऐश्वर्या राय बच्चन",
+      "hints": {
+        "easy": {"english": "MissWorld", "nepali": "मिस वर्ल्ड"},
+        "medium": {"english": "Blueeyes", "nepali": "नीला आँखा"},
+        "hard": {"english": "Devdas", "nepali": "देवदास"}
+      }
+    },
+    {
+      "id": "celebrities_123",
+      "english": "Katrina Kaif",
+      "nepali": "कट्रिना कैफ",
+      "hints": {
+        "easy": {"english": "Sheila", "nepali": "शीला"},
+        "medium": {"english": "Tiger", "nepali": "टाइगर"},
+        "hard": {"english": "Barbie", "nepali": "बार्बी"}
+      }
+    },
+    {
+      "id": "celebrities_124",
+      "english": "Kareena Kapoor",
+      "nepali": "करीना कपूर",
+      "hints": {
+        "easy": {"english": "Poo", "nepali": "पू"},
+        "medium": {"english": "Bebo", "nepali": "बेबो"},
+        "hard": {"english": "JabWeMet", "nepali": "जब वी मेट"}
+      }
+    },
+    {
+      "id": "celebrities_125",
+      "english": "Kajol",
+      "nepali": "काजोल",
+      "hints": {
+        "easy": {"english": "Simran", "nepali": "सिमरन"},
+        "medium": {"english": "Dilwale", "nepali": "दिलवाले"},
+        "hard": {"english": "Unibrow", "nepali": "बाक्लो भौँ"}
+      }
+    },
+    {
+      "id": "celebrities_126",
+      "english": "Madhuri Dixit",
+      "nepali": "माधुरी दीक्षित",
+      "hints": {
+        "easy": {"english": "DhakDhak", "nepali": "धकधक"},
+        "medium": {"english": "Kathak", "nepali": "कथक"},
+        "hard": {"english": "EkDoTeen", "nepali": "एक दो तीन"}
+      }
+    },
+    {
+      "id": "celebrities_127",
+      "english": "Anushka Sharma",
+      "nepali": "अनुष्का शर्मा",
+      "hints": {
+        "easy": {"english": "Virat", "nepali": "विराट"},
+        "medium": {"english": "RabNe", "nepali": "रब ने"},
+        "hard": {"english": "Chakda", "nepali": "चक्दा"}
+      }
+    },
+    {
+      "id": "celebrities_128",
+      "english": "Kiara Advani",
+      "nepali": "कियारा आडवाणी",
+      "hints": {
+        "easy": {"english": "KabirSingh", "nepali": "कबिर सिंह"},
+        "medium": {"english": "Sidharth", "nepali": "सिद्धार्थ"},
+        "hard": {"english": "Satyaprem", "nepali": "सत्यप्रेम"}
+      }
+    },
+    {
+      "id": "celebrities_129",
+      "english": "Rajinikanth",
+      "nepali": "रजनीकान्त",
+      "hints": {
+        "easy": {"english": "Thalaiva", "nepali": "थलाइवा"},
+        "medium": {"english": "Style", "nepali": "शैली"},
+        "hard": {"english": "Jailer", "nepali": "जेलर"}
+      }
+    },
+    {
+      "id": "celebrities_130",
+      "english": "Kamal Haasan",
+      "nepali": "कमल हासन",
+      "hints": {
+        "easy": {"english": "Vikram", "nepali": "विक्रम"},
+        "medium": {"english": "BiggBoss", "nepali": "बिगबोस"},
+        "hard": {"english": "Versatility", "nepali": "बहुमुखी प्रतिभा"}
+      }
+    },
+    {
+      "id": "celebrities_131",
+      "english": "Allu Arjun",
+      "nepali": "अल्लु अर्जुन",
+      "hints": {
+        "easy": {"english": "Pushpa", "nepali": "पुष्पा"},
+        "medium": {"english": "Thaggede", "nepali": "झुक्नेछैन"},
+        "hard": {"english": "Bunny", "nepali": "बनी"}
+      }
+    },
+    {
+      "id": "celebrities_132",
+      "english": "Prabhas",
+      "nepali": "प्रभास",
+      "hints": {
+        "easy": {"english": "Baahubali", "nepali": "बाहुबली"},
+        "medium": {"english": "Amarendra", "nepali": "अमरेंद्र"},
+        "hard": {"english": "Salaar", "nepali": "सलार"}
+      }
+    },
+    {
+      "id": "celebrities_133",
+      "english": "Ram Charan",
+      "nepali": "राम चरण",
+      "hints": {
+        "easy": {"english": "RRR", "nepali": "आरआरआर"},
+        "medium": {"english": "Naatu", "nepali": "नाटु"},
+        "hard": {"english": "Magadheera", "nepali": "मगधीरा"}
+      }
+    },
+    {
+      "id": "celebrities_134",
+      "english": "Jr NTR",
+      "nepali": "जुनियर एनटीआर",
+      "hints": {
+        "easy": {"english": "Naatu", "nepali": "नाटु"},
+        "medium": {"english": "Tarak", "nepali": "तारक"},
+        "hard": {"english": "Devara", "nepali": "देवरा"}
+      }
+    },
+    {
+      "id": "celebrities_135",
+      "english": "Yash",
+      "nepali": "यश",
+      "hints": {
+        "easy": {"english": "Rocky", "nepali": "रकी"},
+        "medium": {"english": "Kolar", "nepali": "कोलार"},
+        "hard": {"english": "KGF", "nepali": "केजीएफ"}
+      }
+    },
+    {
+      "id": "celebrities_136",
+      "english": "Vijay",
+      "nepali": "विजय",
+      "hints": {
+        "easy": {"english": "Thalapathy", "nepali": "थलापथी"},
+        "medium": {"english": "Leo", "nepali": "लियो"},
+        "hard": {"english": "Ghilli", "nepali": "घिल्ली"}
+      }
+    },
+    {
+      "id": "celebrities_137",
+      "english": "Mahesh Babu",
+      "nepali": "महेश बाबु",
+      "hints": {
+        "easy": {"english": "Prince", "nepali": "प्रिन्स"},
+        "medium": {"english": "Pokiri", "nepali": "पोकीरी"},
+        "hard": {"english": "Guntur", "nepali": "गुंटुर"}
+      }
+    },
+    {
+      "id": "celebrities_138",
+      "english": "Rashmika Mandanna",
+      "nepali": "रश्मिका मन्दाना",
+      "hints": {
+        "easy": {"english": "Nationalcrush", "nepali": "नेसनल क्रस"},
+        "medium": {"english": "Srivalli", "nepali": "श्रीवल्ली"},
+        "hard": {"english": "Kodagu", "nepali": "कोडागु"}
+      }
+    },
+    {
+      "id": "celebrities_139",
+      "english": "Tom Cruise",
+      "nepali": "टम क्रुज",
+      "hints": {
+        "easy": {"english": "MissionImpossible", "nepali": "मिसन इम्पोसिबल"},
+        "medium": {"english": "Stunts", "nepali": "स्टन्ट"},
+        "hard": {"english": "Maverick", "nepali": "माभेरिक"}
+      }
+    },
+    {
+      "id": "celebrities_140",
+      "english": "Leonardo DiCaprio",
+      "nepali": "लियोनार्डो डिक्याप्रियो",
+      "hints": {
+        "easy": {"english": "Titanic", "nepali": "टाइटानिक"},
+        "medium": {"english": "Oscar", "nepali": "ओस्कार"},
+        "hard": {"english": "Inception", "nepali": "इन्सेप्सन"}
+      }
+    },
+    {
+      "id": "celebrities_141",
+      "english": "Brad Pitt",
+      "nepali": "ब्राड पिट",
+      "hints": {
+        "easy": {"english": "FightClub", "nepali": "फाइट क्लब"},
+        "medium": {"english": "Troy", "nepali": "ट्रॉय"},
+        "hard": {"english": "BulletTrain", "nepali": "बुलेट ट्रेन"}
+      }
+    },
+    {
+      "id": "celebrities_142",
+      "english": "Dwayne Johnson",
+      "nepali": "ड्वेन जोन्सन",
+      "hints": {
+        "easy": {"english": "TheRock", "nepali": "द रक"},
+        "medium": {"english": "Wrestling", "nepali": "कुस्ती"},
+        "hard": {"english": "Maui", "nepali": "माउई"}
+      }
+    },
+    {
+      "id": "celebrities_143",
+      "english": "Robert Downey Jr.",
+      "nepali": "रोबर्ट डाउनी जुनियर",
+      "hints": {
+        "easy": {"english": "Ironman", "nepali": "आइरनम्यान"},
+        "medium": {"english": "Stark", "nepali": "स्टार्क"},
+        "hard": {"english": "Sherlock", "nepali": "शर्लक"}
+      }
+    },
+    {
+      "id": "celebrities_144",
+      "english": "Chris Hemsworth",
+      "nepali": "क्रिस हेम्सवर्थ",
+      "hints": {
+        "easy": {"english": "Thor", "nepali": "थोर"},
+        "medium": {"english": "Hammer", "nepali": "हथौडा"},
+        "hard": {"english": "Asgard", "nepali": "अस्गार्ड"}
+      }
+    },
+    {
+      "id": "celebrities_145",
+      "english": "Johnny Depp",
+      "nepali": "जोनी डेप",
+      "hints": {
+        "easy": {"english": "Sparrow", "nepali": "स्प्यारो"},
+        "medium": {"english": "Pirates", "nepali": "समुद्री डाकु"},
+        "hard": {"english": "Caribbean", "nepali": "क्यारिबियन"}
+      }
+    },
+    {
+      "id": "celebrities_146",
+      "english": "Will Smith",
+      "nepali": "विल स्मिथ",
+      "hints": {
+        "easy": {"english": "FreshPrince", "nepali": "फ्रेस प्रिन्स"},
+        "medium": {"english": "BelAir", "nepali": "बेल एयर"},
+        "hard": {"english": "MenInBlack", "nepali": "मेन इन ब्ल्याक"}
+      }
+    },
+    {
+      "id": "celebrities_147",
+      "english": "Jackie Chan",
+      "nepali": "ज्याकी च्यान",
+      "hints": {
+        "easy": {"english": "KungFu", "nepali": "कुङफु"},
+        "medium": {"english": "Stunts", "nepali": "स्टन्ट"},
+        "hard": {"english": "DrunkenMaster", "nepali": "ड्रङ्कन मास्टर"}
+      }
+    },
+    {
+      "id": "celebrities_148",
+      "english": "Keanu Reeves",
+      "nepali": "कियानु रिभ्स",
+      "hints": {
+        "easy": {"english": "Matrix", "nepali": "म्याट्रिक्स"},
+        "medium": {"english": "Neo", "nepali": "नियो"},
+        "hard": {"english": "Wick", "nepali": "विक"}
+      }
+    },
+    {
+      "id": "celebrities_149",
+      "english": "Emma Watson",
+      "nepali": "एम्मा वाटसन",
+      "hints": {
+        "easy": {"english": "Hermione", "nepali": "हर्मायोनी"},
+        "medium": {"english": "Hogwarts", "nepali": "हगवार्ट्स"},
+        "hard": {"english": "Belle", "nepali": "बेल"}
+      }
+    },
+    {
+      "id": "celebrities_151",
+      "english": "Angelina Jolie",
+      "nepali": "एन्जेलिना जोली",
+      "hints": {
+        "easy": {"english": "LaraCroft", "nepali": "लारा क्रफ्ट"},
+        "medium": {"english": "Maleficent", "nepali": "मालिफिसेन्ट"},
+        "hard": {"english": "Cambodia", "nepali": "कम्बोडिया"}
+      }
+    },
+    {
+      "id": "celebrities_154",
+      "english": "Taylor Swift",
+      "nepali": "टेलर स्विफ्ट",
+      "hints": {
+        "easy": {"english": "Swifties", "nepali": "स्विफ्टीज"},
+        "medium": {"english": "Eras", "nepali": "इराज"},
+        "hard": {"english": "Songwriter", "nepali": "गीतकार"}
+      }
+    },
+    {
+      "id": "celebrities_155",
+      "english": "Michael Jackson",
+      "nepali": "माइकल ज्याक्सन",
+      "hints": {
+        "easy": {"english": "Moonwalk", "nepali": "मुनवाक"},
+        "medium": {"english": "Thriller", "nepali": "थ्रिलर"},
+        "hard": {"english": "Neverland", "nepali": "नेभरल्याण्ड"}
+      }
+    },
+    {
+      "id": "celebrities_156",
+      "english": "Justin Bieber",
+      "nepali": "जस्टिन बिबर",
+      "hints": {
+        "easy": {"english": "Baby", "nepali": "बेबी"},
+        "medium": {"english": "Beliebers", "nepali": "बिलिबर्स"},
+        "hard": {"english": "Peaches", "nepali": "पीचेस"}
+      }
+    },
+    {
+      "id": "celebrities_157",
+      "english": "Ed Sheeran",
+      "nepali": "एड शिरन",
+      "hints": {
+        "easy": {"english": "ShapeOfYou", "nepali": "शेप अफ यू"},
+        "medium": {"english": "Guitar", "nepali": "गितार"},
+        "hard": {"english": "Ginger", "nepali": "रातो कपाल"}
+      }
+    },
+    {
+      "id": "celebrities_158",
+      "english": "Rihanna",
+      "nepali": "रिहाना",
+      "hints": {
+        "easy": {"english": "Umbrella", "nepali": "अम्ब्रेला"},
+        "medium": {"english": "Fenty", "nepali": "फेन्टी"},
+        "hard": {"english": "Barbados", "nepali": "बार्बाडोस"}
+      }
+    },
+    {
+      "id": "celebrities_159",
+      "english": "Beyoncé",
+      "nepali": "बियोन्से",
+      "hints": {
+        "easy": {"english": "QueenBey", "nepali": "क्विन बे"},
+        "medium": {"english": "DestinysChild", "nepali": "डेस्टिनीज चाइल्ड"},
+        "hard": {"english": "Lemonade", "nepali": "लेमोनेड"}
+      }
+    },
+    {
+      "id": "celebrities_160",
+      "english": "Shakira",
+      "nepali": "शाकिरा",
+      "hints": {
+        "easy": {"english": "Hips", "nepali": "हिप्स"},
+        "medium": {"english": "WakaWaka", "nepali": "वाकावाका"},
+        "hard": {"english": "Colombia", "nepali": "कोलम्बिया"}
+      }
+    },
+    {
+      "id": "celebrities_161",
+      "english": "Eminem",
+      "nepali": "एमिनेम",
+      "hints": {
+        "easy": {"english": "RapGod", "nepali": "र्‍याप गड"},
+        "medium": {"english": "SlimShady", "nepali": "स्लिम शेडी"},
+        "hard": {"english": "Detroit", "nepali": "डेट्रोइट"}
+      }
+    },
+    {
+      "id": "celebrities_163",
+      "english": "Adele",
+      "nepali": "एडेल",
+      "hints": {
+        "easy": {"english": "Hello", "nepali": "हेलो"},
+        "medium": {"english": "Skyfall", "nepali": "स्काइफल"},
+        "hard": {"english": "Grammy", "nepali": "ग्रामी"}
+      }
+    },
+    {
+      "id": "celebrities_164",
+      "english": "Billie Eilish",
+      "nepali": "बिली आइलीश",
+      "hints": {
+        "easy": {"english": "BadGuy", "nepali": "ब्याड गाइ"},
+        "medium": {"english": "OceanEyes", "nepali": "ओसन आइज"},
+        "hard": {"english": "Greenhair", "nepali": "हरियो कपाल"}
+      }
+    },
+    {
+      "id": "celebrities_165",
+      "english": "Bruno Mars",
+      "nepali": "ब्रुनो मार्स",
+      "hints": {
+        "easy": {"english": "UptownFunk", "nepali": "अपटाउन फङ्क"},
+        "medium": {"english": "SilkSonic", "nepali": "सिल्क सोनिक"},
+        "hard": {"english": "Hooligans", "nepali": "हुलिगन्स"}
+      }
+    },
+    {
+      "id": "celebrities_167",
+      "english": "Freddie Mercury",
+      "nepali": "फ्रेडी मर्क्युरी",
+      "hints": {
+        "easy": {"english": "Queen", "nepali": "क्विन"},
+        "medium": {"english": "Bohemian", "nepali": "बोहेमियन"},
+        "hard": {"english": "Zanzibar", "nepali": "जन्जिबार"}
+      }
+    },
+    {
+      "id": "celebrities_168",
+      "english": "Elvis Presley",
+      "nepali": "एल्भिस प्रेस्ली",
+      "hints": {
+        "easy": {"english": "RocknRoll", "nepali": "रक एन्ड रोल"},
+        "medium": {"english": "Memphis", "nepali": "मेम्फिस"},
+        "hard": {"english": "Graceland", "nepali": "ग्रेसल्याण्ड"}
+      }
+    },
+    {
+      "id": "celebrities_169",
+      "english": "Lionel Messi",
+      "nepali": "लियोनेल मेस्सी",
+      "hints": {
+        "easy": {"english": "Argentina", "nepali": "अर्जेन्टिना"},
+        "medium": {"english": "WorldCup", "nepali": "विश्वकप"},
+        "hard": {"english": "Rosario", "nepali": "रोसारियो"}
+      }
+    },
+    {
+      "id": "celebrities_170",
+      "english": "Cristiano Ronaldo",
+      "nepali": "क्रिस्टियानो रोनाल्डो",
+      "hints": {
+        "easy": {"english": "Siuuu", "nepali": "सिउउ"},
+        "medium": {"english": "Portugal", "nepali": "पोर्चुगल"},
+        "hard": {"english": "Madeira", "nepali": "मडेइरा"}
+      }
+    },
+    {
+      "id": "celebrities_171",
+      "english": "Neymar",
+      "nepali": "नेयमार",
+      "hints": {
+        "easy": {"english": "Brazil", "nepali": "ब्राजिल"},
+        "medium": {"english": "Santos", "nepali": "सान्टोस"},
+        "hard": {"english": "JogaBonito", "nepali": "जोगा बोनिटो"}
+      }
+    },
+    {
+      "id": "celebrities_172",
+      "english": "Kylian Mbappé",
+      "nepali": "किलियन एम्बाप्पे",
+      "hints": {
+        "easy": {"english": "France", "nepali": "फ्रान्स"},
+        "medium": {"english": "WorldCup", "nepali": "विश्वकप"},
+        "hard": {"english": "Bondy", "nepali": "बोन्डी"}
+      }
+    },
+    {
+      "id": "celebrities_173",
+      "english": "Virat Kohli",
+      "nepali": "विराट कोहली",
+      "hints": {
+        "easy": {"english": "King", "nepali": "किङ"},
+        "medium": {"english": "Chase", "nepali": "लक्ष्य पछ्याउने"},
+        "hard": {"english": "Delhi", "nepali": "दिल्ली"}
+      }
+    },
+    {
+      "id": "celebrities_174",
+      "english": "MS Dhoni",
+      "nepali": "एमएस धोनी",
+      "hints": {
+        "easy": {"english": "CaptainCool", "nepali": "क्याप्टेन कूल"},
+        "medium": {"english": "Helicopter", "nepali": "हेलिकप्टर"},
+        "hard": {"english": "Ranchi", "nepali": "राँची"}
+      }
+    },
+    {
+      "id": "celebrities_175",
+      "english": "Sachin Tendulkar",
+      "nepali": "सचिन तेन्दुलकर",
+      "hints": {
+        "easy": {"english": "LittleMaster", "nepali": "लिटिल मास्टर"},
+        "medium": {"english": "Century", "nepali": "शतक"},
+        "hard": {"english": "Mumbai", "nepali": "मुम्बई"}
+      }
+    },
+    {
+      "id": "celebrities_177",
+      "english": "Serena Williams",
+      "nepali": "सेरेना विलियम्स",
+      "hints": {
+        "easy": {"english": "Tennis", "nepali": "टेनिस"},
+        "medium": {"english": "GrandSlam", "nepali": "ग्रान्डस्ल्याम"},
+        "hard": {"english": "Compton", "nepali": "कम्प्टन"}
+      }
+    },
+    {
+      "id": "celebrities_178",
+      "english": "Usain Bolt",
+      "nepali": "उसैन बोल्ट",
+      "hints": {
+        "easy": {"english": "Lightning", "nepali": "बिजुली"},
+        "medium": {"english": "Jamaica", "nepali": "जमैका"},
+        "hard": {"english": "Sprint", "nepali": "छोटो दूरीको दौड"}
+      }
+    }
+  ]
+}

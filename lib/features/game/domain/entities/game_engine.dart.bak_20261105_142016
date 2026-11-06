@@ -1,0 +1,354 @@
+// game_engine.dart
+//
+// Core game logic: role assignment, secret-word selection, and session
+// assembly.
+//
+// The engine is pure — it holds only an injected `RandomService`, performs
+// no I/O, and has no Riverpod or widget dependencies. That makes it cheap
+// to construct per-test and easy to reason about in isolation.
+//
+// Inputs are validated by throwing `ArgumentError` or `StateError` rather
+// than relying on `assert`, because asserts are stripped from release
+// builds and a caller passing bad data would otherwise produce an
+// unplayable session silently. Debug-only asserts remain alongside the
+// throws for fast failure during development.
+//
+// Two string constants in this file must stay in sync with their
+// counterparts elsewhere:
+//   • `_customCategoryId` — must equal `CategoryRepository.customCategoryId`
+//     in the categories feature.
+//   • `_customWordIdPrefix` — must equal `customWordIdPrefix` in
+//     `custom_words_repository.dart`.
+// These strings are the only marker distinguishing user-created words
+// from bundled words. If they diverge, custom words either stop being
+// selectable or leak into unrelated categories.
+//
+// Player IDs are generated from the player name, an index that
+// guarantees uniqueness within a single `assignRoles` call, and a
+// microsecond timestamp that differentiates the same player across
+// sessions. Names are not transliterated, so Devanagari and other
+// non-ASCII names produce non-ASCII IDs. This is safe for use as a
+// Flutter `Key` but would need sanitization if IDs were ever persisted
+// or embedded in a URL.
+//
+// For deterministic tests, construct the engine with a
+// `SeededRandomService` (see `random_service.dart`). Do not use `Random()`
+// directly — routing through the injected service keeps test paths stable
+// as the codebase evolves.
+
+import 'dart:math';
+
+import '../../../../core/services/random_service.dart';
+import 'game_settings.dart';
+import 'player.dart';
+import 'word.dart';
+
+/// Hard upper limit on imposter count, regardless of player count.
+const int _maxImpostersCap = 20;
+
+/// Minimum number of civilians that must remain in a round for it to be
+/// winnable.
+const int _minCivilians = 2;
+
+/// Minimum number of players required for a valid session.
+const int _minPlayers = 3;
+
+/// Identifier of the pseudo-category that represents user-created words.
+/// Must match `CategoryRepository.customCategoryId`.
+const String _customCategoryId = 'custom';
+
+/// Prefix applied to every user-created word ID. Must match
+/// `customWordIdPrefix` in `custom_words_repository.dart`.
+const String _customWordIdPrefix = 'custom_';
+
+/// Player-count tiers used by [GameEngine.defaultImposterCount].
+///
+/// Each entry reads "up to `maxPlayers` players, use `imposters`
+/// imposters". Entries are ordered ascending by `maxPlayers` and are
+/// processed in order — do not reorder.
+const List<({int maxPlayers, int imposters})> _imposterTiers =
+<({int maxPlayers, int imposters})>[
+  (maxPlayers: 7, imposters: 1),
+  (maxPlayers: 11, imposters: 2),
+  (maxPlayers: 15, imposters: 3),
+  (maxPlayers: 19, imposters: 4),
+];
+
+/// Snapshot of an in-progress round.
+///
+/// Instances are immutable; mutations flow through [copyWith] so the
+/// session can be reconstructed with the same players and settings when
+/// the user starts another round.
+class GameSession {
+  const GameSession({
+    required this.players,
+    required this.originalWord,
+    required this.settings,
+    required this.imposterHint,
+    required this.currentRevealIndex,
+  });
+
+  final List<Player> players;
+  final Word originalWord;
+  final GameSettings settings;
+  final LocalizedText imposterHint;
+  final int currentRevealIndex;
+
+  /// Players currently assigned the imposter role.
+  ///
+  /// The returned list is freshly allocated on every call. Suitable for
+  /// occasional access (results screen, session summary). If a future
+  /// caller needs to recompute this per-frame, cache the result inside
+  /// [GameSession] instead of calling this getter from `build`.
+  List<Player> get imposters =>
+      players.where((p) => p.role == PlayerRole.imposter).toList();
+
+  /// Player whose secret is currently being revealed, or `null` when the
+  /// reveal sequence has finished.
+  ///
+  /// Returns `null` for an out-of-range [currentRevealIndex] rather than
+  /// throwing, so a bad index cannot crash a screen's build method.
+  Player? get currentPlayer {
+    final int i = currentRevealIndex;
+    if (i < 0 || i >= players.length) return null;
+    return players[i];
+  }
+
+  /// `true` once every player has seen their secret.
+  bool get allRevealed =>
+      players.isNotEmpty && players.every((p) => p.hasRevealed);
+
+  GameSession copyWith({
+    List<Player>? players,
+    Word? originalWord,
+    GameSettings? settings,
+    LocalizedText? imposterHint,
+    int? currentRevealIndex,
+  }) =>
+      GameSession(
+        players: players ?? this.players,
+        originalWord: originalWord ?? this.originalWord,
+        settings: settings ?? this.settings,
+        imposterHint: imposterHint ?? this.imposterHint,
+        currentRevealIndex: currentRevealIndex ?? this.currentRevealIndex,
+      );
+}
+
+/// Assigns roles and selects words for a single round.
+class GameEngine {
+  const GameEngine(this._random);
+
+  final RandomService _random;
+
+  /// Returns the default number of imposters for [playerCount], following
+  /// the tier table defined by [_imposterTiers].
+  ///
+  /// Returns `0` for player counts below [_minPlayers]. Callers must
+  /// validate before invoking [createSession], which rejects those cases
+  /// explicitly.
+  int defaultImposterCount(int playerCount) {
+    if (playerCount < _minPlayers) return 0;
+    for (final ({int maxPlayers, int imposters}) tier in _imposterTiers) {
+      if (playerCount <= tier.maxPlayers) return tier.imposters;
+    }
+    // Above the highest tier: scale linearly, one extra imposter for every
+    // four players beyond the top tier's limit.
+    return min(
+      _maxImpostersCap,
+      _imposterTiers.last.imposters + (playerCount - _imposterTiers.last.maxPlayers) ~/ 4,
+    );
+  }
+
+  /// Returns the maximum legal imposter count for [playerCount], leaving
+  /// at least [_minCivilians] civilians so the round remains winnable.
+  int maxImposters(int playerCount) {
+    if (playerCount < _minPlayers) return 0;
+    return min(_maxImpostersCap, playerCount - _minCivilians);
+  }
+
+  /// Assigns [PlayerRole.imposter] to exactly [imposterCount] of the
+  /// provided [names].
+  ///
+  /// Throws [ArgumentError] when:
+  ///   • [names] contains fewer than [_minPlayers] entries.
+  ///   • [imposterCount] is less than 1.
+  ///   • [imposterCount] exceeds `names.length - _minCivilians`.
+  ///
+  /// The assignment is uniform: each of the `C(n, k)` subsets of imposters
+  /// is equally likely. The returned list preserves the caller's name
+  /// order; only the `role` field differs between entries.
+  List<Player> assignRoles({
+    required List<String> names,
+    required int imposterCount,
+  }) {
+    assert(names.length >= _minPlayers, 'need >= $_minPlayers players');
+    assert(imposterCount >= 1, 'need at least one imposter');
+    assert(
+    imposterCount <= names.length - _minCivilians,
+    'need at least $_minCivilians civilians',
+    );
+
+    if (names.length < _minPlayers) {
+      throw ArgumentError.value(
+        names.length,
+        'names.length',
+        'A game requires at least $_minPlayers players',
+      );
+    }
+    if (imposterCount < 1) {
+      throw ArgumentError.value(
+        imposterCount,
+        'imposterCount',
+        'At least one imposter is required',
+      );
+    }
+    if (imposterCount > names.length - _minCivilians) {
+      throw ArgumentError.value(
+        imposterCount,
+        'imposterCount',
+        'Too many imposters — at least $_minCivilians civilians required '
+            'for ${names.length} players',
+      );
+    }
+
+    final List<Player> players = <Player>[
+      for (int i = 0; i < names.length; i++)
+        Player(id: _generateId(names[i], i), name: names[i].trim()),
+    ];
+
+    // Shuffle indices rather than players so the returned list preserves
+    // the caller's entry order — that order defines the reveal sequence.
+    final List<int> indices = List<int>.generate(players.length, (int i) => i);
+    _random.shuffle(indices);
+
+    final Set<int> imposterIndices =
+    indices.take(imposterCount).toSet();
+
+    return <Player>[
+      for (int i = 0; i < players.length; i++)
+        players[i].copyWith(
+          role: imposterIndices.contains(i)
+              ? PlayerRole.imposter
+              : PlayerRole.civilian,
+          hasRevealed: false,
+        ),
+    ];
+  }
+
+  /// Selects a uniformly random word from the subset of [availableWords]
+  /// whose category matches one of [settings].selectedCategoryIds.
+  ///
+  /// Custom words are matched by the `custom_` ID prefix when the
+  /// `custom` pseudo-category is selected — their stored `categoryId` is
+  /// the user-chosen category, not the pseudo-category itself.
+  ///
+  /// Throws [StateError] if no categories are selected, or if the
+  /// selected categories have no matching words. The two cases produce
+  /// distinct messages so callers can distinguish a user-input problem
+  /// from missing word data.
+  Word selectWord({
+    required List<Word> availableWords,
+    required GameSettings settings,
+  }) {
+    if (settings.selectedCategoryIds.isEmpty) {
+      throw StateError(
+        'No categories selected — GameSettings.selectedCategoryIds is empty',
+      );
+    }
+
+    final List<Word> filtered = availableWords.where((Word w) {
+      if (settings.selectedCategoryIds.contains(w.categoryId)) return true;
+      if (settings.selectedCategoryIds.contains(_customCategoryId) &&
+          w.id.startsWith(_customWordIdPrefix)) {
+        return true;
+      }
+      return false;
+    }).toList(growable: false);
+
+    if (filtered.isEmpty) {
+      throw StateError(
+        'No words available for the selected categories '
+            '(${settings.selectedCategoryIds.join(', ')}) — '
+            'the category files may be empty or missing',
+      );
+    }
+
+    return filtered[_random.nextInt(filtered.length)];
+  }
+
+  /// Returns the hint that the imposter will see for [word] under the
+  /// current [settings].
+  LocalizedText resolveImposterHint(Word word, GameSettings settings) {
+    return word.hintFor(settings.effectiveHintDifficulty);
+  }
+
+  /// Builds a new [GameSession] from the setup screen's inputs.
+  ///
+  /// When `multipleImposters` is enabled, the requested imposter count is
+  /// clamped to the legal range for [names]. Otherwise a single imposter
+  /// is used.
+  ///
+  /// Throws [ArgumentError] if the caller supplies fewer than
+  /// [_minPlayers] players or an empty word list, before any of the more
+  /// specific validation inside [assignRoles] or [selectWord] is
+  /// triggered.
+  GameSession createSession({
+    required List<String> names,
+    required GameSettings settings,
+    required List<Word> availableWords,
+  }) {
+    if (names.length < _minPlayers) {
+      throw ArgumentError.value(
+        names.length,
+        'names.length',
+        'A game requires at least $_minPlayers players',
+      );
+    }
+    if (availableWords.isEmpty) {
+      throw ArgumentError.value(
+        availableWords.length,
+        'availableWords',
+        'Cannot create a session without any words',
+      );
+    }
+
+    // Compute the clamp bounds explicitly so an invalid
+    // `maxImposters` result would surface here, rather than inside
+    // `clamp` as an opaque `ArgumentError`.
+    final int maxAllowed = maxImposters(names.length);
+    final int requested = settings.multipleImposters
+        ? settings.imposterCount
+        : 1;
+    final int clampedCount = requested.clamp(1, maxAllowed);
+
+    final List<Player> players =
+    assignRoles(names: names, imposterCount: clampedCount);
+    final Word word =
+    selectWord(availableWords: availableWords, settings: settings);
+    final LocalizedText hint = resolveImposterHint(word, settings);
+
+    return GameSession(
+      players: players,
+      originalWord: word,
+      settings: settings,
+      imposterHint: hint,
+      currentRevealIndex: 0,
+    );
+  }
+
+  /// Generates a per-player ID that is unique within a single
+  /// [assignRoles] call and distinct across sessions.
+  ///
+  /// The format is `{normalized_name}_{index}_{microseconds_since_epoch}`.
+  /// The index guarantees uniqueness within a call even when two players
+  /// share a name and the same microsecond; the timestamp differentiates
+  /// the same player across sessions so a "play again" round does not
+  /// collide with IDs still held by the previous session's widget tree.
+  ///
+  /// Names are not transliterated. See the file header for implications.
+  String _generateId(String name, int index) {
+    final String clean =
+    name.trim().toLowerCase().replaceAll(RegExp(r'\s+'), '_');
+    return '${clean}_${index}_${DateTime.now().microsecondsSinceEpoch}';
+  }
+}

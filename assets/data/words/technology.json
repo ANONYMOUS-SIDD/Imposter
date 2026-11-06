@@ -1,0 +1,785 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "technology_001",
+      "english": "Smartphone",
+      "nepali": "स्मार्टफोन",
+      "hints": {
+        "easy": { "english": "Calling", "nepali": "फोन" },
+        "medium": { "english": "Apps", "nepali": "एपहरू" },
+        "hard": { "english": "Touchscreen", "nepali": "टचस्क्रिन" }
+      }
+    },
+    {
+      "id": "technology_002",
+      "english": "Computer",
+      "nepali": "कम्प्युटर",
+      "hints": {
+        "easy": { "english": "Typing", "nepali": "टाइपिङ" },
+        "medium": { "english": "Desktop", "nepali": "डेस्कटप" },
+        "hard": { "english": "Processor", "nepali": "प्रोसेसर" }
+      }
+    },
+    {
+      "id": "technology_003",
+      "english": "Television",
+      "nepali": "टेलिभिजन",
+      "hints": {
+        "easy": { "english": "Shows", "nepali": "कार्यक्रम" },
+        "medium": { "english": "Remote", "nepali": "रिमोट" },
+        "hard": { "english": "Channels", "nepali": "च्यानलहरू" }
+      }
+    },
+    {
+      "id": "technology_004",
+      "english": "Laptop",
+      "nepali": "ल्यापटप",
+      "hints": {
+        "easy": { "english": "Portable", "nepali": "बोक्न मिल्ने" },
+        "medium": { "english": "Trackpad", "nepali": "ट्र्याकप्याड" },
+        "hard": { "english": "Hinge", "nepali": "कब्जा" }
+      }
+    },
+    {
+      "id": "technology_005",
+      "english": "Tablet",
+      "nepali": "ट्याब्लेट",
+      "hints": {
+        "easy": { "english": "Touchscreen", "nepali": "टचस्क्रिन" },
+        "medium": { "english": "Stylus", "nepali": "स्टाइलस" },
+        "hard": { "english": "iPad", "nepali": "आइप्याड" }
+      }
+    },
+    {
+      "id": "technology_006",
+      "english": "Smartwatch",
+      "nepali": "स्मार्टवाच",
+      "hints": {
+        "easy": { "english": "Wrist", "nepali": "नाडी" },
+        "medium": { "english": "Steps", "nepali": "पाइलाहरू" },
+        "hard": { "english": "Notifications", "nepali": "सूचनाहरू" }
+      }
+    },
+    {
+      "id": "technology_007",
+      "english": "Headphones",
+      "nepali": "हेडफोन",
+      "hints": {
+        "easy": { "english": "Music", "nepali": "सङ्गीत" },
+        "medium": { "english": "Ears", "nepali": "कान" },
+        "hard": { "english": "Cushions", "nepali": "कानमा लगाउने प्याड" }
+      }
+    },
+    {
+      "id": "technology_008",
+      "english": "Earbuds",
+      "nepali": "इयरबड्स",
+      "hints": {
+        "easy": { "english": "Wireless", "nepali": "ताररहित" },
+        "medium": { "english": "Bluetooth", "nepali": "ब्लुटुथ" },
+        "hard": { "english": "Case", "nepali": "बट्टा" }
+      }
+    },
+    {
+      "id": "technology_009",
+      "english": "Speaker",
+      "nepali": "स्पिकर",
+      "hints": {
+        "easy": { "english": "Sound", "nepali": "ध्वनि" },
+        "medium": { "english": "Loud", "nepali": "ठूलो आवाज" },
+        "hard": { "english": "Bass", "nepali": "बास" }
+      }
+    },
+    {
+      "id": "technology_010",
+      "english": "Camera",
+      "nepali": "क्यामेरा",
+      "hints": {
+        "easy": { "english": "Photos", "nepali": "तस्बिर" },
+        "medium": { "english": "Lens", "nepali": "लेन्स" },
+        "hard": { "english": "Shutter", "nepali": "सटर" }
+      }
+    },
+    {
+      "id": "technology_011",
+      "english": "Printer",
+      "nepali": "प्रिन्टर",
+      "hints": {
+        "easy": { "english": "Paper", "nepali": "कागज" },
+        "medium": { "english": "Ink", "nepali": "मसी" },
+        "hard": { "english": "Cartridge", "nepali": "कार्ट्रिज" }
+      }
+    },
+    {
+      "id": "technology_012",
+      "english": "Keyboard",
+      "nepali": "किबोर्ड",
+      "hints": {
+        "easy": { "english": "Typing", "nepali": "टाइपिङ" },
+        "medium": { "english": "Keys", "nepali": "कुञ्जीहरू" },
+        "hard": { "english": "Spacebar", "nepali": "स्पेसबार" }
+      }
+    },
+    {
+      "id": "technology_013",
+      "english": "Computer Mouse",
+      "nepali": "कम्प्युटर माउस",
+      "hints": {
+        "easy": { "english": "Click", "nepali": "क्लिक" },
+        "medium": { "english": "Cursor", "nepali": "कर्सर" },
+        "hard": { "english": "Scroll", "nepali": "स्क्रोल" }
+      }
+    },
+    {
+      "id": "technology_014",
+      "english": "Monitor",
+      "nepali": "मोनिटर",
+      "hints": {
+        "easy": { "english": "Display", "nepali": "डिस्प्ले" },
+        "medium": { "english": "Pixels", "nepali": "पिक्सेल" },
+        "hard": { "english": "Resolution", "nepali": "रिजोल्युसन" }
+      }
+    },
+    {
+      "id": "technology_015",
+      "english": "Microphone",
+      "nepali": "माइक्रोफोन",
+      "hints": {
+        "easy": { "english": "Voice", "nepali": "आवाज" },
+        "medium": { "english": "Recording", "nepali": "रेकर्डिङ" },
+        "hard": { "english": "Podcast", "nepali": "पडकास्ट" }
+      }
+    },
+    {
+      "id": "technology_016",
+      "english": "Projector",
+      "nepali": "प्रोजेक्टर",
+      "hints": {
+        "easy": { "english": "Presentation", "nepali": "प्रस्तुति" },
+        "medium": { "english": "Wall", "nepali": "भित्ता" },
+        "hard": { "english": "Beam", "nepali": "प्रकाशकिरण" }
+      }
+    },
+    {
+      "id": "technology_017",
+      "english": "Router",
+      "nepali": "राउटर",
+      "hints": {
+        "easy": { "english": "Internet", "nepali": "इन्टरनेट" },
+        "medium": { "english": "WiFi", "nepali": "वाइफाइ" },
+        "hard": { "english": "Antennas", "nepali": "एन्टेनाहरू" }
+      }
+    },
+    {
+      "id": "technology_018",
+      "english": "Modem",
+      "nepali": "मोडेम",
+      "hints": {
+        "easy": { "english": "Internet", "nepali": "इन्टरनेट" },
+        "medium": { "english": "Broadband", "nepali": "ब्रोडब्यान्ड" },
+        "hard": { "english": "Provider", "nepali": "सेवाप्रदायक" }
+      }
+    },
+    {
+      "id": "technology_019",
+      "english": "USB Drive",
+      "nepali": "युएसबी ड्राइभ",
+      "hints": {
+        "easy": { "english": "Storage", "nepali": "भण्डारण" },
+        "medium": { "english": "Files", "nepali": "फाइलहरू" },
+        "hard": { "english": "Pendrive", "nepali": "पेनड्राइभ" }
+      }
+    },
+    {
+      "id": "technology_020",
+      "english": "Hard Drive",
+      "nepali": "हार्ड ड्राइभ",
+      "hints": {
+        "easy": { "english": "Storage", "nepali": "भण्डारण" },
+        "medium": { "english": "Disk", "nepali": "डिस्क" },
+        "hard": { "english": "Backup", "nepali": "ब्याकअप" }
+      }
+    },
+    {
+      "id": "technology_021",
+      "english": "Charger",
+      "nepali": "चार्जर",
+      "hints": {
+        "easy": { "english": "Battery", "nepali": "ब्याट्री" },
+        "medium": { "english": "Cable", "nepali": "तार" },
+        "hard": { "english": "Adapter", "nepali": "एडाप्टर" }
+      }
+    },
+    {
+      "id": "technology_022",
+      "english": "Power Bank",
+      "nepali": "पावर बैंक",
+      "hints": {
+        "easy": { "english": "Charging", "nepali": "चार्जिङ" },
+        "medium": { "english": "Portable", "nepali": "बोक्न मिल्ने" },
+        "hard": { "english": "Capacity", "nepali": "क्षमता" }
+      }
+    },
+    {
+      "id": "technology_023",
+      "english": "Battery",
+      "nepali": "ब्याट्री",
+      "hints": {
+        "easy": { "english": "Power", "nepali": "ऊर्जा" },
+        "medium": { "english": "Recharge", "nepali": "पुनः चार्ज" },
+        "hard": { "english": "Voltage", "nepali": "भोल्टेज" }
+      }
+    },
+    {
+      "id": "technology_024",
+      "english": "Drone",
+      "nepali": "ड्रोन",
+      "hints": {
+        "easy": { "english": "Flying", "nepali": "उडान" },
+        "medium": { "english": "Propeller", "nepali": "पङ्खा" },
+        "hard": { "english": "Aerial", "nepali": "आकाशीय" }
+      }
+    },
+    {
+      "id": "technology_025",
+      "english": "Robot",
+      "nepali": "रोबोट",
+      "hints": {
+        "easy": { "english": "Machine", "nepali": "मेसिन" },
+        "medium": { "english": "Automatic", "nepali": "स्वचालित" },
+        "hard": { "english": "Sensors", "nepali": "सेन्सरहरू" }
+      }
+    },
+    {
+      "id": "technology_026",
+      "english": "Game Console",
+      "nepali": "गेम कन्सोल",
+      "hints": {
+        "easy": { "english": "Gaming", "nepali": "गेमिङ" },
+        "medium": { "english": "Controller", "nepali": "कन्ट्रोलर" },
+        "hard": { "english": "PlayStation", "nepali": "प्लेस्टेसन" }
+      }
+    },
+    {
+      "id": "technology_027",
+      "english": "Remote Control",
+      "nepali": "रिमोट कन्ट्रोल",
+      "hints": {
+        "easy": { "english": "Buttons", "nepali": "बटनहरू" },
+        "medium": { "english": "Television", "nepali": "टेलिभिजन" },
+        "hard": { "english": "Infrared", "nepali": "अवरक्त किरण" }
+      }
+    },
+    {
+      "id": "technology_028",
+      "english": "Air Conditioner",
+      "nepali": "एयर कन्डिसनर",
+      "hints": {
+        "easy": { "english": "Cooling", "nepali": "चिस्याउने" },
+        "medium": { "english": "Summer", "nepali": "गर्मी" },
+        "hard": { "english": "Thermostat", "nepali": "ताप नियन्त्रक" }
+      }
+    },
+    {
+      "id": "technology_029",
+      "english": "Refrigerator",
+      "nepali": "फ्रिज",
+      "hints": {
+        "easy": { "english": "Cold", "nepali": "चिसो" },
+        "medium": { "english": "Food", "nepali": "खाना" },
+        "hard": { "english": "Freezer", "nepali": "फ्रिजर" }
+      }
+    },
+    {
+      "id": "technology_030",
+      "english": "Washing Machine",
+      "nepali": "लुगा धुने मेसिन",
+      "hints": {
+        "easy": { "english": "Clothes", "nepali": "लुगा" },
+        "medium": { "english": "Laundry", "nepali": "लुगा धुने काम" },
+        "hard": { "english": "Spin", "nepali": "घुमाइ" }
+      }
+    },
+    {
+      "id": "technology_031",
+      "english": "Microwave",
+      "nepali": "माइक्रोवेभ",
+      "hints": {
+        "easy": { "english": "Heating", "nepali": "तातो बनाउने" },
+        "medium": { "english": "Popcorn", "nepali": "पपकर्न" },
+        "hard": { "english": "Radiation", "nepali": "विकिरण" }
+      }
+    },
+    {
+      "id": "technology_032",
+      "english": "Electric Fan",
+      "nepali": "विद्युतीय पङ्खा",
+      "hints": {
+        "easy": { "english": "Air", "nepali": "हावा" },
+        "medium": { "english": "Summer", "nepali": "गर्मी" },
+        "hard": { "english": "Blades", "nepali": "पाताहरू" }
+      }
+    },
+    {
+      "id": "technology_033",
+      "english": "Smart TV",
+      "nepali": "स्मार्ट टिभी",
+      "hints": {
+        "easy": { "english": "Internet", "nepali": "इन्टरनेट" },
+        "medium": { "english": "Netflix", "nepali": "नेटफ्लिक्स" },
+        "hard": { "english": "Streaming", "nepali": "स्ट्रिमिङ" }
+      }
+    },
+    {
+      "id": "technology_034",
+      "english": "Internet",
+      "nepali": "इन्टरनेट",
+      "hints": {
+        "easy": { "english": "Online", "nepali": "अनलाइन" },
+        "medium": { "english": "Website", "nepali": "वेबसाइट" },
+        "hard": { "english": "Worldwide", "nepali": "विश्वव्यापी" }
+      }
+    },
+    {
+      "id": "technology_035",
+      "english": "WiFi",
+      "nepali": "वाइफाइ",
+      "hints": {
+        "easy": { "english": "Wireless", "nepali": "ताररहित" },
+        "medium": { "english": "Password", "nepali": "पासवर्ड" },
+        "hard": { "english": "Router", "nepali": "राउटर" }
+      }
+    },
+    {
+      "id": "technology_036",
+      "english": "Bluetooth",
+      "nepali": "ब्लुटुथ",
+      "hints": {
+        "easy": { "english": "Wireless", "nepali": "ताररहित" },
+        "medium": { "english": "Pairing", "nepali": "जोडाइ" },
+        "hard": { "english": "Speaker", "nepali": "स्पिकर" }
+      }
+    },
+    {
+      "id": "technology_037",
+      "english": "Website",
+      "nepali": "वेबसाइट",
+      "hints": {
+        "easy": { "english": "Internet", "nepali": "इन्टरनेट" },
+        "medium": { "english": "Browser", "nepali": "ब्राउजर" },
+        "hard": { "english": "Domain", "nepali": "डोमेन" }
+      }
+    },
+    {
+      "id": "technology_038",
+      "english": "Email",
+      "nepali": "इमेल",
+      "hints": {
+        "easy": { "english": "Message", "nepali": "सन्देश" },
+        "medium": { "english": "Inbox", "nepali": "इनबक्स" },
+        "hard": { "english": "Attachment", "nepali": "संलग्न फाइल" }
+      }
+    },
+    {
+      "id": "technology_039",
+      "english": "Search Engine",
+      "nepali": "सर्च इन्जिन",
+      "hints": {
+        "easy": { "english": "Google", "nepali": "गुगल" },
+        "medium": { "english": "Keywords", "nepali": "मुख्य शब्दहरू" },
+        "hard": { "english": "Results", "nepali": "नतिजाहरू" }
+      }
+    },
+    {
+      "id": "technology_040",
+      "english": "Web Browser",
+      "nepali": "वेब ब्राउजर",
+      "hints": {
+        "easy": { "english": "Internet", "nepali": "इन्टरनेट" },
+        "medium": { "english": "Chrome", "nepali": "क्रोम" },
+        "hard": { "english": "Tabs", "nepali": "ट्याबहरू" }
+      }
+    },
+    {
+      "id": "technology_041",
+      "english": "Social Media",
+      "nepali": "सामाजिक सञ्जाल",
+      "hints": {
+        "easy": { "english": "Sharing", "nepali": "साझेदारी" },
+        "medium": { "english": "Instagram", "nepali": "इन्स्टाग्राम" },
+        "hard": { "english": "Followers", "nepali": "फलोअर्स" }
+      }
+    },
+    {
+      "id": "technology_042",
+      "english": "Video Call",
+      "nepali": "भिडियो कल",
+      "hints": {
+        "easy": { "english": "Camera", "nepali": "क्यामेरा" },
+        "medium": { "english": "Meeting", "nepali": "बैठक" },
+        "hard": { "english": "Mute", "nepali": "आवाज बन्द" }
+      }
+    },
+    {
+      "id": "technology_043",
+      "english": "GPS",
+      "nepali": "जीपीएस",
+      "hints": {
+        "easy": { "english": "Location", "nepali": "स्थान" },
+        "medium": { "english": "Maps", "nepali": "नक्सा" },
+        "hard": { "english": "Satellite", "nepali": "उपग्रह" }
+      }
+    },
+    {
+      "id": "technology_044",
+      "english": "Google Maps",
+      "nepali": "गुगल म्याप्स",
+      "hints": {
+        "easy": { "english": "Directions", "nepali": "बाटो" },
+        "medium": { "english": "Navigation", "nepali": "मार्गनिर्देशन" },
+        "hard": { "english": "Traffic", "nepali": "यातायात" }
+      }
+    },
+    {
+      "id": "technology_045",
+      "english": "Calculator",
+      "nepali": "क्याल्कुलेटर",
+      "hints": {
+        "easy": { "english": "Numbers", "nepali": "अङ्क" },
+        "medium": { "english": "Addition", "nepali": "जोड" },
+        "hard": { "english": "Equation", "nepali": "समीकरण" }
+      }
+    },
+    {
+      "id": "technology_046",
+      "english": "Flashlight",
+      "nepali": "टर्च",
+      "hints": {
+        "easy": { "english": "Light", "nepali": "उज्यालो" },
+        "medium": { "english": "Darkness", "nepali": "अँध्यारो" },
+        "hard": { "english": "Beam", "nepali": "प्रकाशकिरण" }
+      }
+    },
+    {
+      "id": "technology_047",
+      "english": "Electric Car",
+      "nepali": "विद्युतीय गाडी",
+      "hints": {
+        "easy": { "english": "Battery", "nepali": "ब्याट्री" },
+        "medium": { "english": "Charging", "nepali": "चार्जिङ" },
+        "hard": { "english": "Tesla", "nepali": "टेस्ला" }
+      }
+    },
+    {
+      "id": "technology_048",
+      "english": "Electric Scooter",
+      "nepali": "विद्युतीय स्कुटर",
+      "hints": {
+        "easy": { "english": "Battery", "nepali": "ब्याट्री" },
+        "medium": { "english": "Charging", "nepali": "चार्जिङ" },
+        "hard": { "english": "Range", "nepali": "दूरी" }
+      }
+    },
+    {
+      "id": "technology_049",
+      "english": "Electric Train",
+      "nepali": "विद्युतीय रेल",
+      "hints": {
+        "easy": { "english": "Railway", "nepali": "रेलमार्ग" },
+        "medium": { "english": "Electricity", "nepali": "बिजुली" },
+        "hard": { "english": "Metro", "nepali": "मेट्रो" }
+      }
+    },
+    {
+      "id": "technology_050",
+      "english": "Satellite",
+      "nepali": "उपग्रह",
+      "hints": {
+        "easy": { "english": "Space", "nepali": "अन्तरिक्ष" },
+        "medium": { "english": "Orbit", "nepali": "कक्षा" },
+        "hard": { "english": "Dish", "nepali": "डिस" }
+      }
+    },
+    {
+      "id": "technology_051",
+      "english": "Rocket",
+      "nepali": "रकेट",
+      "hints": {
+        "easy": { "english": "Space", "nepali": "अन्तरिक्ष" },
+        "medium": { "english": "Launch", "nepali": "प्रक्षेपण" },
+        "hard": { "english": "Propulsion", "nepali": "प्रणोदन" }
+      }
+    },
+    {
+      "id": "technology_052",
+      "english": "Artificial Intelligence",
+      "nepali": "कृत्रिम बुद्धिमत्ता",
+      "hints": {
+        "easy": { "english": "Robot", "nepali": "रोबोट" },
+        "medium": { "english": "ChatGPT", "nepali": "च्याटजीपीटी" },
+        "hard": { "english": "Learning", "nepali": "सिकाइ" }
+      }
+    },
+    {
+      "id": "technology_053",
+      "english": "Video Game",
+      "nepali": "भिडियो गेम",
+      "hints": {
+        "easy": { "english": "Gaming", "nepali": "गेमिङ" },
+        "medium": { "english": "Controller", "nepali": "कन्ट्रोलर" },
+        "hard": { "english": "Level", "nepali": "स्तर" }
+      }
+    },
+    {
+      "id": "technology_054",
+      "english": "Virtual Reality",
+      "nepali": "भर्चुअल रियालिटी",
+      "hints": {
+        "easy": { "english": "Headset", "nepali": "हेडसेट" },
+        "medium": { "english": "Immersion", "nepali": "निमग्नता" },
+        "hard": { "english": "Simulation", "nepali": "अनुकरण" }
+      }
+    },
+    {
+      "id": "technology_055",
+      "english": "Electricity",
+      "nepali": "बिजुली",
+      "hints": {
+        "easy": { "english": "Power", "nepali": "ऊर्जा" },
+        "medium": { "english": "Switch", "nepali": "स्विच" },
+        "hard": { "english": "Current", "nepali": "विद्युत् धारा" }
+      }
+    },
+    {
+      "id": "technology_056",
+      "english": "Solar Panel",
+      "nepali": "सौर्य प्यानल",
+      "hints": {
+        "easy": { "english": "Sun", "nepali": "घाम" },
+        "medium": { "english": "Rooftop", "nepali": "छत" },
+        "hard": { "english": "Photovoltaic", "nepali": "प्रकाशविद्युत्" }
+      }
+    },
+    {
+      "id": "technology_057",
+      "english": "CCTV",
+      "nepali": "सीसीटीभी",
+      "hints": {
+        "easy": { "english": "Camera", "nepali": "क्यामेरा" },
+        "medium": { "english": "Security", "nepali": "सुरक्षा" },
+        "hard": { "english": "Footage", "nepali": "रेकर्ड गरिएको दृश्य" }
+      }
+    },
+    {
+      "id": "technology_058",
+      "english": "Fingerprint Scanner",
+      "nepali": "औँठाछाप स्क्यानर",
+      "hints": {
+        "easy": { "english": "Finger", "nepali": "औँला" },
+        "medium": { "english": "Unlock", "nepali": "खोल्ने" },
+        "hard": { "english": "Biometrics", "nepali": "जैविक पहिचान" }
+      }
+    },
+    {
+      "id": "technology_059",
+      "english": "QR Code",
+      "nepali": "क्यूआर कोड",
+      "hints": {
+        "easy": { "english": "Scan", "nepali": "स्क्यान" },
+        "medium": { "english": "Payment", "nepali": "भुक्तानी" },
+        "hard": { "english": "Squares", "nepali": "वर्गहरू" }
+      }
+    },
+    {
+      "id": "technology_060",
+      "english": "ATM",
+      "nepali": "एटीएम",
+      "hints": {
+        "easy": { "english": "Money", "nepali": "पैसा" },
+        "medium": { "english": "Withdrawal", "nepali": "झिकाइ" },
+        "hard": { "english": "PIN", "nepali": "पिन" }
+      }
+    },
+    {
+      "id": "technology_061",
+      "english": "Touchscreen",
+      "nepali": "टचस्क्रिन",
+      "hints": {
+        "easy": { "english": "Finger", "nepali": "औँला" },
+        "medium": { "english": "Tap", "nepali": "थिचाइ" },
+        "hard": { "english": "Gesture", "nepali": "हाउभाउ" }
+      }
+    },
+    {
+      "id": "technology_062",
+      "english": "SIM Card",
+      "nepali": "सिम कार्ड",
+      "hints": {
+        "easy": { "english": "Phone", "nepali": "फोन" },
+        "medium": { "english": "Network", "nepali": "नेटवर्क" },
+        "hard": { "english": "Subscriber", "nepali": "ग्राहक" }
+      }
+    },
+    {
+      "id": "technology_063",
+      "english": "Memory Card",
+      "nepali": "मेमोरी कार्ड",
+      "hints": {
+        "easy": { "english": "Storage", "nepali": "भण्डारण" },
+        "medium": { "english": "Photos", "nepali": "तस्बिरहरू" },
+        "hard": { "english": "SD", "nepali": "एसडी" }
+      }
+    },
+    {
+      "id": "technology_064",
+      "english": "Webcam",
+      "nepali": "वेबक्याम",
+      "hints": {
+        "easy": { "english": "Camera", "nepali": "क्यामेरा" },
+        "medium": { "english": "Computer", "nepali": "कम्प्युटर" },
+        "hard": { "english": "Streaming", "nepali": "स्ट्रिमिङ" }
+      }
+    },
+    {
+      "id": "technology_065",
+      "english": "Microchip",
+      "nepali": "माइक्रोचिप",
+      "hints": {
+        "easy": { "english": "Computer", "nepali": "कम्प्युटर" },
+        "medium": { "english": "Circuit", "nepali": "सर्किट" },
+        "hard": { "english": "Silicon", "nepali": "सिलिकन" }
+      }
+    },
+    {
+      "id": "technology_066",
+      "english": "Keyboard Shortcut",
+      "nepali": "किबोर्ड सर्टकट",
+      "hints": {
+        "easy": { "english": "Keys", "nepali": "कुञ्जीहरू" },
+        "medium": { "english": "Ctrl", "nepali": "कन्ट्रोल" },
+        "hard": { "english": "Paste", "nepali": "टाँस्ने" }
+      }
+    },
+    {
+      "id": "technology_067",
+      "english": "Operating System",
+      "nepali": "अपरेटिङ सिस्टम",
+      "hints": {
+        "easy": { "english": "Software", "nepali": "सफ्टवेयर" },
+        "medium": { "english": "Windows", "nepali": "विन्डोज" },
+        "hard": { "english": "Kernel", "nepali": "कर्नेल" }
+      }
+    },
+    {
+      "id": "technology_068",
+      "english": "App",
+      "nepali": "एप",
+      "hints": {
+        "easy": { "english": "Phone", "nepali": "फोन" },
+        "medium": { "english": "Download", "nepali": "डाउनलोड" },
+        "hard": { "english": "Icon", "nepali": "आइकन" }
+      }
+    },
+    {
+      "id": "technology_069",
+      "english": "Password",
+      "nepali": "पासवर्ड",
+      "hints": {
+        "easy": { "english": "Secret", "nepali": "गोप्य" },
+        "medium": { "english": "Login", "nepali": "लगइन" },
+        "hard": { "english": "Asterisks", "nepali": "ताराचिह्नहरू" }
+      }
+    },
+    {
+      "id": "technology_070",
+      "english": "Cloud Storage",
+      "nepali": "क्लाउड स्टोरेज",
+      "hints": {
+        "easy": { "english": "Online", "nepali": "अनलाइन" },
+        "medium": { "english": "Google Drive", "nepali": "गुगल ड्राइभ" },
+        "hard": { "english": "Sync", "nepali": "समक्रमण" }
+      }
+    },
+    {
+      "id": "technology_071",
+      "english": "Video Streaming",
+      "nepali": "भिडियो स्ट्रिमिङ",
+      "hints": {
+        "easy": { "english": "Watching", "nepali": "हेर्ने" },
+        "medium": { "english": "YouTube", "nepali": "युट्युब" },
+        "hard": { "english": "Buffering", "nepali": "बफरिङ" }
+      }
+    },
+    {
+      "id": "technology_072",
+      "english": "Online Shopping",
+      "nepali": "अनलाइन किनमेल",
+      "hints": {
+        "easy": { "english": "Buying", "nepali": "किन्ने" },
+        "medium": { "english": "Daraz", "nepali": "दराज" },
+        "hard": { "english": "Cart", "nepali": "किनमेल टोकरी" }
+      }
+    },
+    {
+      "id": "technology_073",
+      "english": "Digital Wallet",
+      "nepali": "डिजिटल वालेट",
+      "hints": {
+        "easy": { "english": "Payment", "nepali": "भुक्तानी" },
+        "medium": { "english": "eSewa", "nepali": "ईसेवा" },
+        "hard": { "english": "Balance", "nepali": "मौज्दात" }
+      }
+    },
+    {
+      "id": "technology_074",
+      "english": "Video Editing",
+      "nepali": "भिडियो सम्पादन",
+      "hints": {
+        "easy": { "english": "Clips", "nepali": "क्लिपहरू" },
+        "medium": { "english": "CapCut", "nepali": "क्यापकट" },
+        "hard": { "english": "Timeline", "nepali": "टाइमलाइन" }
+      }
+    },
+    {
+      "id": "technology_076",
+      "english": "Smart Home",
+      "nepali": "स्मार्ट घर",
+      "hints": {
+        "easy": { "english": "Automation", "nepali": "स्वचालन" },
+        "medium": { "english": "Lights", "nepali": "बत्तीहरू" },
+        "hard": { "english": "Voice", "nepali": "आवाज" }
+      }
+    },
+    {
+      "id": "technology_077",
+      "english": "Electric Toothbrush",
+      "nepali": "विद्युतीय ब्रस",
+      "hints": {
+        "easy": { "english": "Teeth", "nepali": "दाँत" },
+        "medium": { "english": "Battery", "nepali": "ब्याट्री" },
+        "hard": { "english": "Vibration", "nepali": "कम्पन" }
+      }
+    },
+    {
+      "id": "technology_079",
+      "english": "Electric Kettle",
+      "nepali": "विद्युतीय केतली",
+      "hints": {
+        "easy": { "english": "Water", "nepali": "पानी" },
+        "medium": { "english": "Boiling", "nepali": "उमाल्ने" },
+        "hard": { "english": "Automatic", "nepali": "स्वचालित" }
+      }
+    },
+    {
+      "id": "technology_080",
+      "english": "Smart Doorbell",
+      "nepali": "स्मार्ट डोरबेल",
+      "hints": {
+        "easy": { "english": "Door", "nepali": "ढोका" },
+        "medium": { "english": "Camera", "nepali": "क्यामेरा" },
+        "hard": { "english": "Motion", "nepali": "गति" }
+      }
+    }
+  ]
+}

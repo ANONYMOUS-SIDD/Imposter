@@ -1,0 +1,715 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "clothing_001",
+      "english": "Shirt",
+      "nepali": "सर्ट",
+      "hints": {
+        "easy": {"english": "Buttons", "nepali": "बटन"},
+        "medium": {"english": "Collar", "nepali": "कलर"},
+        "hard": {"english": "Cuffs", "nepali": "आस्तिनको घेरा"}
+      }
+    },
+    {
+      "id": "clothing_002",
+      "english": "T-Shirt",
+      "nepali": "टी-सर्ट",
+      "hints": {
+        "easy": {"english": "Casual", "nepali": "साधारण"},
+        "medium": {"english": "Cotton", "nepali": "कपास"},
+        "hard": {"english": "Roundneck", "nepali": "गोलोघाँटी"}
+      }
+    },
+    {
+      "id": "clothing_003",
+      "english": "Jeans",
+      "nepali": "जिन्स",
+      "hints": {
+        "easy": {"english": "Denim", "nepali": "डेनिम"},
+        "medium": {"english": "Rivets", "nepali": "धातुका टाँका"},
+        "hard": {"english": "Indigo", "nepali": "नीलो"}
+      }
+    },
+    {
+      "id": "clothing_004",
+      "english": "Trousers",
+      "nepali": "ट्राउजर",
+      "hints": {
+        "easy": {"english": "Pants", "nepali": "पाइन्ट"},
+        "medium": {"english": "Pleats", "nepali": "खोँच"},
+        "hard": {"english": "Hem", "nepali": "किनारा"}
+      }
+    },
+    {
+      "id": "clothing_005",
+      "english": "Shorts",
+      "nepali": "हाफ पाइन्ट",
+      "hints": {
+        "easy": {"english": "Knees", "nepali": "घुँडा"},
+        "medium": {"english": "Summer", "nepali": "गर्मी"},
+        "hard": {"english": "Athletics", "nepali": "खेलकुद"}
+      }
+    },
+    {
+      "id": "clothing_006",
+      "english": "Skirt",
+      "nepali": "स्कर्ट",
+      "hints": {
+        "easy": {"english": "Waist", "nepali": "कम्मर"},
+        "medium": {"english": "Pleats", "nepali": "खोँच"},
+        "hard": {"english": "Hemline", "nepali": "घेर"}
+      }
+    },
+    {
+      "id": "clothing_007",
+      "english": "Dress",
+      "nepali": "ड्रेस",
+      "hints": {
+        "easy": {"english": "Party", "nepali": "पार्टी"},
+        "medium": {"english": "Gown", "nepali": "गाउन"},
+        "hard": {"english": "Fitting", "nepali": "नाप"}
+      }
+    },
+    {
+      "id": "clothing_008",
+      "english": "Frock",
+      "nepali": "फ्रक",
+      "hints": {
+        "easy": {"english": "Childhood", "nepali": "बाल्यकाल"},
+        "medium": {"english": "Flare", "nepali": "घेरा"},
+        "hard": {"english": "Ribbon", "nepali": "रिबन"}
+      }
+    },
+    {
+      "id": "clothing_009",
+      "english": "Blouse",
+      "nepali": "ब्लाउज",
+      "hints": {
+        "easy": {"english": "Saree", "nepali": "साडी"},
+        "medium": {"english": "Sleeves", "nepali": "बाहुला"},
+        "hard": {"english": "Fitting", "nepali": "नाप"}
+      }
+    },
+    {
+      "id": "clothing_010",
+      "english": "Jacket",
+      "nepali": "ज्याकेट",
+      "hints": {
+        "easy": {"english": "Zipper", "nepali": "जिप"},
+        "medium": {"english": "Pockets", "nepali": "खल्ती"},
+        "hard": {"english": "Lining", "nepali": "अस्तर"}
+      }
+    },
+    {
+      "id": "clothing_011",
+      "english": "Coat",
+      "nepali": "कोट",
+      "hints": {
+        "easy": {"english": "Winter", "nepali": "जाडो"},
+        "medium": {"english": "Lapels", "nepali": "कलर"},
+        "hard": {"english": "Overcoat", "nepali": "माथिल्लो कोट"}
+      }
+    },
+    {
+      "id": "clothing_012",
+      "english": "Suit",
+      "nepali": "सुट",
+      "hints": {
+        "easy": {"english": "Wedding", "nepali": "विवाह"},
+        "medium": {"english": "Blazer", "nepali": "ब्लेजर"},
+        "hard": {"english": "Tailoring", "nepali": "सिलाइ"}
+      }
+    },
+    {
+      "id": "clothing_013",
+      "english": "Blazer",
+      "nepali": "ब्लेजर",
+      "hints": {
+        "easy": {"english": "Office", "nepali": "कार्यालय"},
+        "medium": {"english": "Lapels", "nepali": "कलर"},
+        "hard": {"english": "Emblem", "nepali": "चिन्ह"}
+      }
+    },
+    {
+      "id": "clothing_014",
+      "english": "Sweater",
+      "nepali": "स्वेटर",
+      "hints": {
+        "easy": {"english": "Winter", "nepali": "जाडो"},
+        "medium": {"english": "Wool", "nepali": "ऊन"},
+        "hard": {"english": "Knitting", "nepali": "बुनाइ"}
+      }
+    },
+    {
+      "id": "clothing_015",
+      "english": "Hoodie",
+      "nepali": "हुडी",
+      "hints": {
+        "easy": {"english": "Hood", "nepali": "टोपी"},
+        "medium": {"english": "Drawstring", "nepali": "डोरी"},
+        "hard": {"english": "Kangaroo", "nepali": "कङ्गारु"}
+      }
+    },
+    {
+      "id": "clothing_016",
+      "english": "Cardigan",
+      "nepali": "कार्डिगन",
+      "hints": {
+        "easy": {"english": "Buttons", "nepali": "बटन"},
+        "medium": {"english": "Knitted", "nepali": "बुनेको"},
+        "hard": {"english": "Layering", "nepali": "तह"}
+      }
+    },
+    {
+      "id": "clothing_017",
+      "english": "Vest",
+      "nepali": "भेस्ट",
+      "hints": {
+        "easy": {"english": "Sleeveless", "nepali": "बाहुलारहित"},
+        "medium": {"english": "Undershirt", "nepali": "भित्री सर्ट"},
+        "hard": {"english": "Waistcoat", "nepali": "वेस्टकोट"}
+      }
+    },
+    {
+      "id": "clothing_018",
+      "english": "Tank Top",
+      "nepali": "ट्याङ्क टप",
+      "hints": {
+        "easy": {"english": "Sleeveless", "nepali": "बाहुलारहित"},
+        "medium": {"english": "Gym", "nepali": "व्यायामशाला"},
+        "hard": {"english": "Straps", "nepali": "फित्ता"}
+      }
+    },
+    {
+      "id": "clothing_019",
+      "english": "Leggings",
+      "nepali": "लेगिङ्स",
+      "hints": {
+        "easy": {"english": "Stretchy", "nepali": "तन्किने"},
+        "medium": {"english": "Yoga", "nepali": "योग"},
+        "hard": {"english": "Elastic", "nepali": "लचिलो"}
+      }
+    },
+    {
+      "id": "clothing_020",
+      "english": "Tracksuit",
+      "nepali": "ट्र्याकसुट",
+      "hints": {
+        "easy": {"english": "Jogging", "nepali": "दौड"},
+        "medium": {"english": "Athlete", "nepali": "खेलाडी"},
+        "hard": {"english": "Stripe", "nepali": "धर्का"}
+      }
+    },
+    {
+      "id": "clothing_021",
+      "english": "Pajamas",
+      "nepali": "पाइजामा",
+      "hints": {
+        "easy": {"english": "Sleep", "nepali": "निद्रा"},
+        "medium": {"english": "Two-piece", "nepali": "दुई टुक्रे"},
+        "hard": {"english": "Nightwear", "nepali": "रात्री पोशाक"}
+      }
+    },
+    {
+      "id": "clothing_022",
+      "english": "Nightgown",
+      "nepali": "नाइटगाउन",
+      "hints": {
+        "easy": {"english": "Sleeping", "nepali": "सुत्ने"},
+        "medium": {"english": "Long", "nepali": "लामो"},
+        "hard": {"english": "Nightdress", "nepali": "रात्री पोशाक"}
+      }
+    },
+    {
+      "id": "clothing_023",
+      "english": "Raincoat",
+      "nepali": "रेनकोट",
+      "hints": {
+        "easy": {"english": "Rain", "nepali": "वर्षा"},
+        "medium": {"english": "Waterproof", "nepali": "पानी नछिर्ने"},
+        "hard": {"english": "Monsoon", "nepali": "मनसुन"}
+      }
+    },
+    {
+      "id": "clothing_024",
+      "english": "Windbreaker",
+      "nepali": "विन्डब्रेकर",
+      "hints": {
+        "easy": {"english": "Wind", "nepali": "हावा"},
+        "medium": {"english": "Lightweight", "nepali": "हलुका"},
+        "hard": {"english": "Shell", "nepali": "बाहिरी तह"}
+      }
+    },
+    {
+      "id": "clothing_025",
+      "english": "Overalls",
+      "nepali": "ओभरअल्स",
+      "hints": {
+        "easy": {"english": "Straps", "nepali": "फित्ता"},
+        "medium": {"english": "Workwear", "nepali": "कामदार पोशाक"},
+        "hard": {"english": "Bib", "nepali": "छातीपट्टी"}
+      }
+    },
+    {
+      "id": "clothing_026",
+      "english": "Jumpsuit",
+      "nepali": "जम्पसुट",
+      "hints": {
+        "easy": {"english": "Onepiece", "nepali": "एकटुक्रे"},
+        "medium": {"english": "Zipper", "nepali": "जिप"},
+        "hard": {"english": "Coverall", "nepali": "पूरै शरीर ढाक्ने"}
+      }
+    },
+    {
+      "id": "clothing_027",
+      "english": "Saree",
+      "nepali": "साडी",
+      "hints": {
+        "easy": {"english": "Pallu", "nepali": "पल्लु"},
+        "medium": {"english": "Pleats", "nepali": "खोँच"},
+        "hard": {"english": "Loom", "nepali": "तान"}
+      }
+    },
+    {
+      "id": "clothing_028",
+      "english": "Kurta",
+      "nepali": "कुर्ता",
+      "hints": {
+        "easy": {"english": "Traditional", "nepali": "परम्परागत"},
+        "medium": {"english": "Salwar", "nepali": "सलवार"},
+        "hard": {"english": "Chikankari", "nepali": "चिकनकारी"}
+      }
+    },
+    {
+      "id": "clothing_029",
+      "english": "Salwar",
+      "nepali": "सलवार",
+      "hints": {
+        "easy": {"english": "Kurta", "nepali": "कुर्ता"},
+        "medium": {"english": "Loose", "nepali": "खुकुलो"},
+        "hard": {"english": "Drawstring", "nepali": "डोरी"}
+      }
+    },
+    {
+      "id": "clothing_030",
+      "english": "Lehenga",
+      "nepali": "लेहेङ्गा",
+      "hints": {
+        "easy": {"english": "Wedding", "nepali": "विवाह"},
+        "medium": {"english": "Embroidery", "nepali": "बुट्टा"},
+        "hard": {"english": "Choli", "nepali": "चोली"}
+      }
+    },
+    {
+      "id": "clothing_031",
+      "english": "Sherwani",
+      "nepali": "शेरवानी",
+      "hints": {
+        "easy": {"english": "Groom", "nepali": "दुलाहा"},
+        "medium": {"english": "Wedding", "nepali": "विवाह"},
+        "hard": {"english": "Achkan", "nepali": "अचकन"}
+      }
+    },
+    {
+      "id": "clothing_032",
+      "english": "Dhoti",
+      "nepali": "धोती",
+      "hints": {
+        "easy": {"english": "Traditional", "nepali": "परम्परागत"},
+        "medium": {"english": "Wrap", "nepali": "बेर्ने"},
+        "hard": {"english": "Madhesh", "nepali": "मधेश"}
+      }
+    },
+    {
+      "id": "clothing_033",
+      "english": "Daura Suruwal",
+      "nepali": "दौरा सुरुवाल",
+      "hints": {
+        "easy": {"english": "Formal", "nepali": "औपचारिक"},
+        "medium": {"english": "Dhaka", "nepali": "ढाका"},
+        "hard": {"english": "Knot", "nepali": "गाँठो"}
+      }
+    },
+    {
+      "id": "clothing_034",
+      "english": "Gunyu Cholo",
+      "nepali": "गुन्यु चोलो",
+      "hints": {
+        "easy": {"english": "Women", "nepali": "महिला"},
+        "medium": {"english": "Festival", "nepali": "चाडपर्व"},
+        "hard": {"english": "Culture", "nepali": "संस्कृति"}
+      }
+    },
+    {
+      "id": "clothing_035",
+      "english": "Dhaka Topi",
+      "nepali": "ढाका टोपी",
+      "hints": {
+        "easy": {"english": "National", "nepali": "राष्ट्रिय"},
+        "medium": {"english": "Pattern", "nepali": "बुट्टा"},
+        "hard": {"english": "Palpa", "nepali": "पाल्पा"}
+      }
+    },
+    {
+      "id": "clothing_036",
+      "english": "Haku Patasi",
+      "nepali": "हाकु पटासी",
+      "hints": {
+        "easy": {"english": "Newar", "nepali": "नेवार"},
+        "medium": {"english": "Black", "nepali": "कालो"},
+        "hard": {"english": "Patan", "nepali": "पाटन"}
+      }
+    },
+    {
+      "id": "clothing_038",
+      "english": "Lungi",
+      "nepali": "लुङ्गी",
+      "hints": {
+        "easy": {"english": "Wrap", "nepali": "बेर्ने"},
+        "medium": {"english": "Cotton", "nepali": "कपास"},
+        "hard": {"english": "Madhesh", "nepali": "मधेश"}
+      }
+    },
+    {
+      "id": "clothing_039",
+      "english": "Shawl",
+      "nepali": "सल",
+      "hints": {
+        "easy": {"english": "Warmth", "nepali": "न्यानोपन"},
+        "medium": {"english": "Shoulders", "nepali": "काँध"},
+        "hard": {"english": "Pashmina", "nepali": "पश्मिना"}
+      }
+    },
+    {
+      "id": "clothing_040",
+      "english": "Pashmina",
+      "nepali": "पश्मिना",
+      "hints": {
+        "easy": {"english": "Soft", "nepali": "नरम"},
+        "medium": {"english": "Cashmere", "nepali": "कश्मिरी ऊन"},
+        "hard": {"english": "Chyangra", "nepali": "च्याङ्ग्रा"}
+      }
+    },
+    {
+      "id": "clothing_041",
+      "english": "Scarf",
+      "nepali": "स्कार्फ",
+      "hints": {
+        "easy": {"english": "Neck", "nepali": "घाँटी"},
+        "medium": {"english": "Winter", "nepali": "जाडो"},
+        "hard": {"english": "Fringe", "nepali": "झालर"}
+      }
+    },
+    {
+      "id": "clothing_042",
+      "english": "Muffler",
+      "nepali": "मफलर",
+      "hints": {
+        "easy": {"english": "Cold", "nepali": "चिसो"},
+        "medium": {"english": "Woollen", "nepali": "ऊनी"},
+        "hard": {"english": "Neckwear", "nepali": "घाँटीमा लगाउने"}
+      }
+    },
+    {
+      "id": "clothing_043",
+      "english": "Gloves",
+      "nepali": "पञ्जा",
+      "hints": {
+        "easy": {"english": "Hands", "nepali": "हात"},
+        "medium": {"english": "Fingers", "nepali": "औँला"},
+        "hard": {"english": "Grip", "nepali": "पकड"}
+      }
+    },
+    {
+      "id": "clothing_045",
+      "english": "Socks",
+      "nepali": "मोजा",
+      "hints": {
+        "easy": {"english": "Feet", "nepali": "खुट्टा"},
+        "medium": {"english": "Pair", "nepali": "जोडी"},
+        "hard": {"english": "Ankle", "nepali": "गोलीगाँठो"}
+      }
+    },
+    {
+      "id": "clothing_047",
+      "english": "Tie",
+      "nepali": "टाई",
+      "hints": {
+        "easy": {"english": "Formal", "nepali": "औपचारिक"},
+        "medium": {"english": "Knot", "nepali": "गाँठो"},
+        "hard": {"english": "Windsor", "nepali": "विन्डसर"}
+      }
+    },
+    {
+      "id": "clothing_048",
+      "english": "Bow Tie",
+      "nepali": "बो टाई",
+      "hints": {
+        "easy": {"english": "Tuxedo", "nepali": "टक्सिडो"},
+        "medium": {"english": "Ribbon", "nepali": "रिबन"},
+        "hard": {"english": "Butterfly", "nepali": "पुतली"}
+      }
+    },
+    {
+      "id": "clothing_049",
+      "english": "Belt",
+      "nepali": "बेल्ट",
+      "hints": {
+        "easy": {"english": "Waist", "nepali": "कम्मर"},
+        "medium": {"english": "Buckle", "nepali": "बक्कल"},
+        "hard": {"english": "Leather", "nepali": "छाला"}
+      }
+    },
+    {
+      "id": "clothing_050",
+      "english": "Suspenders",
+      "nepali": "सस्पेन्डर",
+      "hints": {
+        "easy": {"english": "Trousers", "nepali": "ट्राउजर"},
+        "medium": {"english": "Shoulders", "nepali": "काँध"},
+        "hard": {"english": "Clips", "nepali": "क्लिप"}
+      }
+    },
+    {
+      "id": "clothing_051",
+      "english": "Cap",
+      "nepali": "क्याप",
+      "hints": {
+        "easy": {"english": "Sun", "nepali": "घाम"},
+        "medium": {"english": "Visor", "nepali": "छज्जा"},
+        "hard": {"english": "Baseball", "nepali": "बेसबल"}
+      }
+    },
+    {
+      "id": "clothing_052",
+      "english": "Beanie",
+      "nepali": "बिनी टोपी",
+      "hints": {
+        "easy": {"english": "Winter", "nepali": "जाडो"},
+        "medium": {"english": "Knitted", "nepali": "बुनेको"},
+        "hard": {"english": "Pompon", "nepali": "ऊनको डल्लो"}
+      }
+    },
+    {
+      "id": "clothing_054",
+      "english": "Turban",
+      "nepali": "पगडी",
+      "hints": {
+        "easy": {"english": "Headwrap", "nepali": "टाउको बेर्ने"},
+        "medium": {"english": "Tradition", "nepali": "परम्परा"},
+        "hard": {"english": "Pleating", "nepali": "खोँच"}
+      }
+    },
+    {
+      "id": "clothing_055",
+      "english": "Sunglasses",
+      "nepali": "घामचस्मा",
+      "hints": {
+        "easy": {"english": "Sunlight", "nepali": "घाम"},
+        "medium": {"english": "UV", "nepali": "पराबैजनी"},
+        "hard": {"english": "Polarized", "nepali": "ध्रुवीकृत"}
+      }
+    },
+    {
+      "id": "clothing_056",
+      "english": "Glasses",
+      "nepali": "चस्मा",
+      "hints": {
+        "easy": {"english": "Vision", "nepali": "दृष्टि"},
+        "medium": {"english": "Lenses", "nepali": "लेन्स"},
+        "hard": {"english": "Prescription", "nepali": "चस्माको नाप"}
+      }
+    },
+    {
+      "id": "clothing_057",
+      "english": "Watch",
+      "nepali": "घडी",
+      "hints": {
+        "easy": {"english": "Wrist", "nepali": "नाडी"},
+        "medium": {"english": "Dial", "nepali": "डायल"},
+        "hard": {"english": "Chronograph", "nepali": "समयमापक"}
+      }
+    },
+    {
+      "id": "clothing_058",
+      "english": "Handbag",
+      "nepali": "हाते झोला",
+      "hints": {
+        "easy": {"english": "Carry", "nepali": "बोक्ने"},
+        "medium": {"english": "Purse", "nepali": "पर्स"},
+        "hard": {"english": "Clutch", "nepali": "क्लच"}
+      }
+    },
+    {
+      "id": "clothing_059",
+      "english": "Backpack",
+      "nepali": "पिठ्युँ झोला",
+      "hints": {
+        "easy": {"english": "School", "nepali": "विद्यालय"},
+        "medium": {"english": "Shoulders", "nepali": "काँध"},
+        "hard": {"english": "Rucksack", "nepali": "रक्स्याक"}
+      }
+    },
+    {
+      "id": "clothing_060",
+      "english": "Wallet",
+      "nepali": "पर्स",
+      "hints": {
+        "easy": {"english": "Money", "nepali": "पैसा"},
+        "medium": {"english": "Leather", "nepali": "छाला"},
+        "hard": {"english": "Fold", "nepali": "पट्याइ"}
+      }
+    },
+    {
+      "id": "clothing_061",
+      "english": "Shoes",
+      "nepali": "जुत्ता",
+      "hints": {
+        "easy": {"english": "Feet", "nepali": "खुट्टा"},
+        "medium": {"english": "Laces", "nepali": "फित्ता"},
+        "hard": {"english": "Sole", "nepali": "तलुवा"}
+      }
+    },
+    {
+      "id": "clothing_062",
+      "english": "Sneakers",
+      "nepali": "स्निकर्स",
+      "hints": {
+        "easy": {"english": "Running", "nepali": "दौड"},
+        "medium": {"english": "Trainers", "nepali": "खेलजुत्ता"},
+        "hard": {"english": "Rubber", "nepali": "रबर"}
+      }
+    },
+    {
+      "id": "clothing_063",
+      "english": "Boots",
+      "nepali": "बुट",
+      "hints": {
+        "easy": {"english": "Ankle", "nepali": "गोलीगाँठो"},
+        "medium": {"english": "Hiking", "nepali": "पदयात्रा"},
+        "hard": {"english": "Tread", "nepali": "खस्रो सतह"}
+      }
+    },
+    {
+      "id": "clothing_064",
+      "english": "Sandals",
+      "nepali": "स्यान्डल",
+      "hints": {
+        "easy": {"english": "Straps", "nepali": "फित्ता"},
+        "medium": {"english": "Toes", "nepali": "खुट्टाका औँला"},
+        "hard": {"english": "Buckle", "nepali": "बक्कल"}
+      }
+    },
+    {
+      "id": "clothing_065",
+      "english": "Slippers",
+      "nepali": "चप्पल",
+      "hints": {
+        "easy": {"english": "Footwear", "nepali": "पाउपोश"},
+        "medium": {"english": "Indoor", "nepali": "घरभित्र"},
+        "hard": {"english": "Slip-on", "nepali": "सजिलै लगाउने"}
+      }
+    },
+    {
+      "id": "clothing_066",
+      "english": "High Heels",
+      "nepali": "हिल जुत्ता",
+      "hints": {
+        "easy": {"english": "Height", "nepali": "उचाइ"},
+        "medium": {"english": "Stiletto", "nepali": "पातलो हिल"},
+        "hard": {"english": "Platform", "nepali": "मोटो हिल"}
+      }
+    },
+    {
+      "id": "clothing_067",
+      "english": "Loafers",
+      "nepali": "लोफर्स",
+      "hints": {
+        "easy": {"english": "Slip-on", "nepali": "सजिलै लगाउने"},
+        "medium": {"english": "Formal", "nepali": "औपचारिक"},
+        "hard": {"english": "Penny", "nepali": "पेनी"}
+      }
+    },
+    {
+      "id": "clothing_069",
+      "english": "Flip-Flops",
+      "nepali": "फ्लिपफ्लप",
+      "hints": {
+        "easy": {"english": "Beach", "nepali": "समुद्री किनार"},
+        "medium": {"english": "Thong", "nepali": "औँलाबीचको फित्ता"},
+        "hard": {"english": "Rubber", "nepali": "रबर"}
+      }
+    },
+    {
+      "id": "clothing_070",
+      "english": "Uniform",
+      "nepali": "पोशाक",
+      "hints": {
+        "easy": {"english": "School", "nepali": "विद्यालय"},
+        "medium": {"english": "Identical", "nepali": "एकैजस्तो"},
+        "hard": {"english": "Insignia", "nepali": "चिन्ह"}
+      }
+    },
+    {
+      "id": "clothing_071",
+      "english": "Apron",
+      "nepali": "एप्रोन",
+      "hints": {
+        "easy": {"english": "Cooking", "nepali": "खाना पकाउने"},
+        "medium": {"english": "Kitchen", "nepali": "भान्सा"},
+        "hard": {"english": "Stains", "nepali": "दाग"}
+      }
+    },
+    {
+      "id": "clothing_072",
+      "english": "Lab Coat",
+      "nepali": "ल्याब कोट",
+      "hints": {
+        "easy": {"english": "Scientist", "nepali": "वैज्ञानिक"},
+        "medium": {"english": "Laboratory", "nepali": "प्रयोगशाला"},
+        "hard": {"english": "White", "nepali": "सेतो"}
+      }
+    },
+    {
+      "id": "clothing_073",
+      "english": "Jersey",
+      "nepali": "जर्सी",
+      "hints": {
+        "easy": {"english": "Football", "nepali": "फुटबल"},
+        "medium": {"english": "Number", "nepali": "नम्बर"},
+        "hard": {"english": "Team", "nepali": "टोली"}
+      }
+    },
+    {
+      "id": "clothing_074",
+      "english": "Swimsuit",
+      "nepali": "पौडी पोशाक",
+      "hints": {
+        "easy": {"english": "Swimming", "nepali": "पौडी"},
+        "medium": {"english": "Pool", "nepali": "पौडीपोखरी"},
+        "hard": {"english": "Chlorine", "nepali": "क्लोरिन"}
+      }
+    },
+    {
+      "id": "clothing_076",
+      "english": "Helmet",
+      "nepali": "हेल्मेट",
+      "hints": {
+        "easy": {"english": "Safety", "nepali": "सुरक्षा"},
+        "medium": {"english": "Motorcycle", "nepali": "मोटरसाइकल"},
+        "hard": {"english": "Visor", "nepali": "छज्जा"}
+      }
+    },
+    {
+      "id": "clothing_077",
+      "english": "Mask",
+      "nepali": "मास्क",
+      "hints": {
+        "easy": {"english": "Face", "nepali": "अनुहार"},
+        "medium": {"english": "Filter", "nepali": "छान्ने"},
+        "hard": {"english": "Respirator", "nepali": "श्वासयन्त्र"}
+      }
+    }
+  ]
+}

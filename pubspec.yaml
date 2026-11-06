@@ -1,0 +1,72 @@
+name: imposter
+description: "Premium offline social party game."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.0          # aligned with Flutter 3.44+ per go_router 18.x
+  flutter: ">=3.44.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State & Routing
+  flutter_riverpod: ^3.2.1
+  go_router: ^18.1.1
+
+  # Localization
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+
+  # Persistence
+  shared_preferences: ^2.5.3
+
+  # Animation
+  rive: ^0.14.11          # stable 0.14.x; 0.15.x is dev release
+
+  # Audio
+  audioplayers: ^6.5.0
+
+  # Haptics
+  vibration: ^3.1.3
+  lottie: ^3.8.2
+  flutter_fortune_wheel: ^1.3.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  generate: true          # enables gen_l10n code generation
+
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand/Quicksand-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Quicksand/Quicksand-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Quicksand/Quicksand-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Quicksand/Quicksand-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Quicksand/Quicksand-Bold.ttf
+          weight: 700
+
+  assets:
+    - assets/animations/
+    - assets/images/
+    - assets/audio/
+    - assets/data/words/
+    - assets/data/categories/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/imposter-icon.png"
+  min_sdk_android: 21

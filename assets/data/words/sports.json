@@ -1,0 +1,415 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "sports_001",
+      "english": "Football",
+      "nepali": "फुटबल",
+      "hints": {
+        "easy": { "english": "Goal", "nepali": "गोल" },
+        "medium": { "english": "FIFA", "nepali": "फिफा" },
+        "hard": { "english": "Offside", "nepali": "अफसाइड" }
+      }
+    },
+    {
+      "id": "sports_002",
+      "english": "Cricket",
+      "nepali": "क्रिकेट",
+      "hints": {
+        "easy": { "english": "Bat", "nepali": "ब्याट" },
+        "medium": { "english": "Wicket", "nepali": "विकेट" },
+        "hard": { "english": "Boundary", "nepali": "बाउन्ड्री" }
+      }
+    },
+    {
+      "id": "sports_003",
+      "english": "Tennis",
+      "nepali": "टेनिस",
+      "hints": {
+        "easy": { "english": "Racket", "nepali": "र्‍याकेट" },
+        "medium": { "english": "Serve", "nepali": "सर्भ" },
+        "hard": { "english": "Deuce", "nepali": "ड्युस" }
+      }
+    },
+    {
+      "id": "sports_004",
+      "english": "Badminton",
+      "nepali": "ब्याडमिन्टन",
+      "hints": {
+        "easy": { "english": "Shuttlecock", "nepali": "चरा" },
+        "medium": { "english": "Racket", "nepali": "र्‍याकेट" },
+        "hard": { "english": "Smash", "nepali": "स्म्यास" }
+      }
+    },
+    {
+      "id": "sports_005",
+      "english": "Basketball",
+      "nepali": "बास्केटबल",
+      "hints": {
+        "easy": { "english": "Hoop", "nepali": "घेरा" },
+        "medium": { "english": "Dribble", "nepali": "ड्रिबल" },
+        "hard": { "english": "Dunk", "nepali": "डङ्क" }
+      }
+    },
+    {
+      "id": "sports_006",
+      "english": "Volleyball",
+      "nepali": "भलिबल",
+      "hints": {
+        "easy": { "english": "Net", "nepali": "नेट" },
+        "medium": { "english": "Spike", "nepali": "स्पाइक" },
+        "hard": { "english": "Rotation", "nepali": "स्थान परिवर्तन" }
+      }
+    },
+    {
+      "id": "sports_007",
+      "english": "Table Tennis",
+      "nepali": "टेबल टेनिस",
+      "hints": {
+        "easy": { "english": "Paddle", "nepali": "प्याडल" },
+        "medium": { "english": "Pingpong", "nepali": "पिङपोङ" },
+        "hard": { "english": "Spin", "nepali": "स्पिन" }
+      }
+    },
+    {
+      "id": "sports_008",
+      "english": "Swimming",
+      "nepali": "पौडी",
+      "hints": {
+        "easy": { "english": "Pool", "nepali": "पौडी पोखरी" },
+        "medium": { "english": "Water", "nepali": "पानी" },
+        "hard": { "english": "Freestyle", "nepali": "फ्रिस्टाइल" }
+      }
+    },
+    {
+      "id": "sports_009",
+      "english": "Running",
+      "nepali": "दौड",
+      "hints": {
+        "easy": { "english": "Race", "nepali": "दौड" },
+        "medium": { "english": "Sprint", "nepali": "छोटो दौड" },
+        "hard": { "english": "Finishline", "nepali": "अन्तिम रेखा" }
+      }
+    },
+    {
+      "id": "sports_010",
+      "english": "Boxing",
+      "nepali": "मुक्केबाजी",
+      "hints": {
+        "easy": { "english": "Gloves", "nepali": "पञ्जा" },
+        "medium": { "english": "Ring", "nepali": "रिङ" },
+        "hard": { "english": "Knockout", "nepali": "नकआउट" }
+      }
+    },
+    {
+      "id": "sports_011",
+      "english": "Wrestling",
+      "nepali": "कुस्ती",
+      "hints": {
+        "easy": { "english": "Grappling", "nepali": "पकडापकड" },
+        "medium": { "english": "Mat", "nepali": "म्याट" },
+        "hard": { "english": "Pin", "nepali": "चित" }
+      }
+    },
+    {
+      "id": "sports_012",
+      "english": "Karate",
+      "nepali": "कराते",
+      "hints": {
+        "easy": { "english": "Japan", "nepali": "जापान" },
+        "medium": { "english": "Belt", "nepali": "पेटी" },
+        "hard": { "english": "Kata", "nepali": "काता" }
+      }
+    },
+    {
+      "id": "sports_013",
+      "english": "Taekwondo",
+      "nepali": "तेक्वान्दो",
+      "hints": {
+        "easy": { "english": "Korea", "nepali": "कोरिया" },
+        "medium": { "english": "Belt", "nepali": "पेटी" },
+        "hard": { "english": "Kicking", "nepali": "लात हान्ने" }
+      }
+    },
+    {
+      "id": "sports_014",
+      "english": "Judo",
+      "nepali": "जुडो",
+      "hints": {
+        "easy": { "english": "Japan", "nepali": "जापान" },
+        "medium": { "english": "Throw", "nepali": "फ्याँकाइ" },
+        "hard": { "english": "Kimono", "nepali": "किमोनो" }
+      }
+    },
+    {
+      "id": "sports_015",
+      "english": "Golf",
+      "nepali": "गल्फ",
+      "hints": {
+        "easy": { "english": "Club", "nepali": "गल्फ लौरो" },
+        "medium": { "english": "Hole", "nepali": "प्वाल" },
+        "hard": { "english": "Caddy", "nepali": "क्याडी" }
+      }
+    },
+    {
+      "id": "sports_016",
+      "english": "Hockey",
+      "nepali": "हक्की",
+      "hints": {
+        "easy": { "english": "Stick", "nepali": "लौरो" },
+        "medium": { "english": "Goal", "nepali": "गोल" },
+        "hard": { "english": "Penalty", "nepali": "पेनाल्टी" }
+      }
+    },
+    {
+      "id": "sports_017",
+      "english": "Baseball",
+      "nepali": "बेसबल",
+      "hints": {
+        "easy": { "english": "Bat", "nepali": "ब्याट" },
+        "medium": { "english": "Glove", "nepali": "पञ्जा" },
+        "hard": { "english": "Home Run", "nepali": "होम रन" }
+      }
+    },
+    {
+      "id": "sports_018",
+      "english": "Cycling",
+      "nepali": "साइकल दौड",
+      "hints": {
+        "easy": { "english": "Bicycle", "nepali": "साइकल" },
+        "medium": { "english": "Helmet", "nepali": "हेल्मेट" },
+        "hard": { "english": "Pedal", "nepali": "प्याडल" }
+      }
+    },
+    {
+      "id": "sports_019",
+      "english": "Gymnastics",
+      "nepali": "जिम्न्यास्टिक्स",
+      "hints": {
+        "easy": { "english": "Balance", "nepali": "सन्तुलन" },
+        "medium": { "english": "Flip", "nepali": "पल्टी" },
+        "hard": { "english": "Beam", "nepali": "बिम" }
+      }
+    },
+    {
+      "id": "sports_020",
+      "english": "Archery",
+      "nepali": "तीरन्दाजी",
+      "hints": {
+        "easy": { "english": "Bow", "nepali": "धनुष" },
+        "medium": { "english": "Arrow", "nepali": "तीर" },
+        "hard": { "english": "Bullseye", "nepali": "निसानाको केन्द्र" }
+      }
+    },
+    {
+      "id": "sports_021",
+      "english": "Weightlifting",
+      "nepali": "भारोत्तोलन",
+      "hints": {
+        "easy": { "english": "Weights", "nepali": "तौल" },
+        "medium": { "english": "Barbell", "nepali": "बारबेल" },
+        "hard": { "english": "Snatch", "nepali": "स्न्याच" }
+      }
+    },
+    {
+      "id": "sports_023",
+      "english": "Ice Skating",
+      "nepali": "आइस स्केटिङ",
+      "hints": {
+        "easy": { "english": "Ice", "nepali": "बरफ" },
+        "medium": { "english": "Skates", "nepali": "स्केट" },
+        "hard": { "english": "Rink", "nepali": "स्केटिङ मैदान" }
+      }
+    },
+    {
+      "id": "sports_026",
+      "english": "Bowling",
+      "nepali": "बलिङ",
+      "hints": {
+        "easy": { "english": "Pins", "nepali": "पिनहरू" },
+        "medium": { "english": "Ball", "nepali": "बल" },
+        "hard": { "english": "Strike", "nepali": "स्ट्राइक" }
+      }
+    },
+    {
+      "id": "sports_028",
+      "english": "Snooker",
+      "nepali": "स्नुकर",
+      "hints": {
+        "easy": { "english": "Table", "nepali": "टेबल" },
+        "medium": { "english": "Cue", "nepali": "क्यु" },
+        "hard": { "english": "Pocket", "nepali": "पकेट" }
+      }
+    },
+    {
+      "id": "sports_029",
+      "english": "Chess",
+      "nepali": "चेस",
+      "hints": {
+        "easy": { "english": "King", "nepali": "राजा" },
+        "medium": { "english": "Queen", "nepali": "रानी" },
+        "hard": { "english": "Checkmate", "nepali": "मात" }
+      }
+    },
+    {
+      "id": "sports_030",
+      "english": "Kabaddi",
+      "nepali": "कबड्डी",
+      "hints": {
+        "easy": { "english": "Raid", "nepali": "रेड" },
+        "medium": { "english": "Breath", "nepali": "श्वास" },
+        "hard": { "english": "Bonus", "nepali": "बोनस" }
+      }
+    },
+    {
+      "id": "sports_031",
+      "english": "Kho Kho",
+      "nepali": "खोखो",
+      "hints": {
+        "easy": { "english": "Chasing", "nepali": "लखेटाइ" },
+        "medium": { "english": "Running", "nepali": "दौड" },
+        "hard": { "english": "Pole", "nepali": "खम्बा" }
+      }
+    },
+    {
+      "id": "sports_032",
+      "english": "Handball",
+      "nepali": "ह्यान्डबल",
+      "hints": {
+        "easy": { "english": "Hands", "nepali": "हात" },
+        "medium": { "english": "Goal", "nepali": "गोल" },
+        "hard": { "english": "Dribble", "nepali": "ड्रिबल" }
+      }
+    },
+    {
+      "id": "sports_035",
+      "english": "Formula One",
+      "nepali": "फर्मुला वन",
+      "hints": {
+        "easy": { "english": "Racing", "nepali": "रेसिङ" },
+        "medium": { "english": "Ferrari", "nepali": "फेरारी" },
+        "hard": { "english": "Pitstop", "nepali": "पिटस्टप" }
+      }
+    },
+    {
+      "id": "sports_036",
+      "english": "Car Racing",
+      "nepali": "कार रेसिङ",
+      "hints": {
+        "easy": { "english": "Cars", "nepali": "गाडी" },
+        "medium": { "english": "Speed", "nepali": "गति" },
+        "hard": { "english": "Circuit", "nepali": "रेसिङ मार्ग" }
+      }
+    },
+    {
+      "id": "sports_037",
+      "english": "Horse Riding",
+      "nepali": "घोडचढी",
+      "hints": {
+        "easy": { "english": "Horse", "nepali": "घोडा" },
+        "medium": { "english": "Saddle", "nepali": "काठी" },
+        "hard": { "english": "Reins", "nepali": "लगाम" }
+      }
+    },
+    {
+      "id": "sports_038",
+      "english": "Paragliding",
+      "nepali": "प्याराग्लाइडिङ",
+      "hints": {
+        "easy": { "english": "Sky", "nepali": "आकाश" },
+        "medium": { "english": "Pokhara", "nepali": "पोखरा" },
+        "hard": { "english": "Canopy", "nepali": "छाता" }
+      }
+    },
+    {
+      "id": "sports_039",
+      "english": "Mountaineering",
+      "nepali": "पर्वतारोहण",
+      "hints": {
+        "easy": { "english": "Mountain", "nepali": "हिमाल" },
+        "medium": { "english": "Everest", "nepali": "सगरमाथा" },
+        "hard": { "english": "Summit", "nepali": "शिखर" }
+      }
+    },
+    {
+      "id": "sports_040",
+      "english": "Rock Climbing",
+      "nepali": "चट्टान आरोहण",
+      "hints": {
+        "easy": { "english": "Rocks", "nepali": "चट्टान" },
+        "medium": { "english": "Climbing", "nepali": "चढाइ" },
+        "hard": { "english": "Grip", "nepali": "पकड" }
+      }
+    },
+    {
+      "id": "sports_041",
+      "english": "Skateboarding",
+      "nepali": "स्केटबोर्डिङ",
+      "hints": {
+        "easy": { "english": "Board", "nepali": "बोर्ड" },
+        "medium": { "english": "Wheels", "nepali": "पाङ्ग्रा" },
+        "hard": { "english": "Ramp", "nepali": "र्‍याम्प" }
+      }
+    },
+    {
+      "id": "sports_042",
+      "english": "Darts",
+      "nepali": "डार्ट्स",
+      "hints": {
+        "easy": { "english": "Target", "nepali": "लक्ष्य" },
+        "medium": { "english": "Arrow", "nepali": "तीर" },
+        "hard": { "english": "Bullseye", "nepali": "निसानाको केन्द्र" }
+      }
+    },
+    {
+      "id": "sports_044",
+      "english": "Javelin Throw",
+      "nepali": "भाला फ्याँक",
+      "hints": {
+        "easy": { "english": "Spear", "nepali": "भाला" },
+        "medium": { "english": "Athletics", "nepali": "खेलकुद" },
+        "hard": { "english": "Neeraj", "nepali": "नीरज" }
+      }
+    },
+    {
+      "id": "sports_045",
+      "english": "Long Jump",
+      "nepali": "लङ जम्प",
+      "hints": {
+        "easy": { "english": "Sand", "nepali": "बालुवा" },
+        "medium": { "english": "Takeoff", "nepali": "उफ्रने स्थान" },
+        "hard": { "english": "Distance", "nepali": "दूरी" }
+      }
+    },
+    {
+      "id": "sports_046",
+      "english": "High Jump",
+      "nepali": "हाई जम्प",
+      "hints": {
+        "easy": { "english": "Bar", "nepali": "बार" },
+        "medium": { "english": "Height", "nepali": "उचाइ" },
+        "hard": { "english": "Landing", "nepali": "अवतरण" }
+      }
+    },
+    {
+      "id": "sports_047",
+      "english": "Gym",
+      "nepali": "जिम",
+      "hints": {
+        "easy": { "english": "Exercise", "nepali": "व्यायाम" },
+        "medium": { "english": "Dumbbell", "nepali": "डम्बल" },
+        "hard": { "english": "Workout", "nepali": "कसरत" }
+      }
+    },
+    {
+      "id": "sports_048",
+      "english": "Marathon",
+      "nepali": "म्याराथन",
+      "hints": {
+        "easy": { "english": "Running", "nepali": "दौड" },
+        "medium": { "english": "Race", "nepali": "प्रतियोगिता" },
+        "hard": { "english": "Endurance", "nepali": "सहनशक्ति" }
+      }
+    }
+  ]
+}

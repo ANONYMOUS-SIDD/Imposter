@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "professions_001",
+      "english": "Doctor",
+      "nepali": "डाक्टर",
+      "hints": {
+        "easy": { "english": "Hospital", "nepali": "अस्पताल" },
+        "medium": { "english": "Stethoscope", "nepali": "स्टेथोस्कोप" },
+        "hard": { "english": "Prescription", "nepali": "औषधिको पुर्जा" }
+      }
+    },
+    {
+      "id": "professions_002",
+      "english": "Teacher",
+      "nepali": "शिक्षक",
+      "hints": {
+        "easy": { "english": "School", "nepali": "विद्यालय" },
+        "medium": { "english": "Chalk", "nepali": "चक" },
+        "hard": { "english": "Syllabus", "nepali": "पाठ्यक्रम" }
+      }
+    },
+    {
+      "id": "professions_003",
+      "english": "Chef",
+      "nepali": "भान्से",
+      "hints": {
+        "easy": { "english": "Kitchen", "nepali": "भान्सा" },
+        "medium": { "english": "Recipe", "nepali": "पाकविधि" },
+        "hard": { "english": "Apron", "nepali": "एप्रोन" }
+      }
+    },
+    {
+      "id": "professions_004",
+      "english": "Nurse",
+      "nepali": "नर्स",
+      "hints": {
+        "easy": { "english": "Patient", "nepali": "बिरामी" },
+        "medium": { "english": "Injection", "nepali": "सुई" },
+        "hard": { "english": "Bandage", "nepali": "पट्टी" }
+      }
+    },
+    {
+      "id": "professions_005",
+      "english": "Engineer",
+      "nepali": "इन्जिनियर",
+      "hints": {
+        "easy": { "english": "Bridge", "nepali": "पुल" },
+        "medium": { "english": "Blueprint", "nepali": "निर्माण नक्सा" },
+        "hard": { "english": "Structure", "nepali": "संरचना" }
+      }
+    },
+    {
+      "id": "professions_006",
+      "english": "Farmer",
+      "nepali": "किसान",
+      "hints": {
+        "easy": { "english": "Field", "nepali": "खेत" },
+        "medium": { "english": "Tractor", "nepali": "ट्र्याक्टर" },
+        "hard": { "english": "Harvest", "nepali": "बाली भित्र्याउने काम" }
+      }
+    },
+    {
+      "id": "professions_007",
+      "english": "Police Officer",
+      "nepali": "प्रहरी",
+      "hints": {
+        "easy": { "english": "Uniform", "nepali": "पोशाक" },
+        "medium": { "english": "Patrol", "nepali": "गस्ती" },
+        "hard": { "english": "Handcuffs", "nepali": "हत्कडी" }
+      }
+    },
+    {
+      "id": "professions_008",
+      "english": "Firefighter",
+      "nepali": "अग्नि नियन्त्रक",
+      "hints": {
+        "easy": { "english": "Fire", "nepali": "आगो" },
+        "medium": { "english": "Hose", "nepali": "पानीको पाइप" },
+        "hard": { "english": "Extinguisher", "nepali": "आगो निभाउने यन्त्र" }
+      }
+    },
+    {
+      "id": "professions_009",
+      "english": "Driver",
+      "nepali": "चालक",
+      "hints": {
+        "easy": { "english": "Vehicle", "nepali": "सवारीसाधन" },
+        "medium": { "english": "Steering", "nepali": "स्टेयरिङ" },
+        "hard": { "english": "License", "nepali": "चालक अनुमतिपत्र" }
+      }
+    },
+    {
+      "id": "professions_010",
+      "english": "Pilot",
+      "nepali": "विमान चालक",
+      "hints": {
+        "easy": { "english": "Airplane", "nepali": "हवाईजहाज" },
+        "medium": { "english": "Cockpit", "nepali": "चालककक्ष" },
+        "hard": { "english": "Altitude", "nepali": "उचाइ" }
+      }
+    },
+    {
+      "id": "professions_011",
+      "english": "Soldier",
+      "nepali": "सैनिक",
+      "hints": {
+        "easy": { "english": "Army", "nepali": "सेना" },
+        "medium": { "english": "Barracks", "nepali": "सैनिक आवास" },
+        "hard": { "english": "Border", "nepali": "सीमाना" }
+      }
+    },
+    {
+      "id": "professions_012",
+      "english": "Dentist",
+      "nepali": "दन्त चिकित्सक",
+      "hints": {
+        "easy": { "english": "Teeth", "nepali": "दाँत" },
+        "medium": { "english": "Toothbrush", "nepali": "दाँत माझ्ने ब्रस" },
+        "hard": { "english": "Cavity", "nepali": "दाँतको खाल्डो" }
+      }
+    },
+    {
+      "id": "professions_013",
+      "english": "Pharmacist",
+      "nepali": "औषधि व्यवसायी",
+      "hints": {
+        "easy": { "english": "Medicine", "nepali": "औषधि" },
+        "medium": { "english": "Pharmacy", "nepali": "औषधि पसल" },
+        "hard": { "english": "Dosage", "nepali": "औषधिको मात्रा" }
+      }
+    },
+    {
+      "id": "professions_014",
+      "english": "Veterinarian",
+      "nepali": "पशु चिकित्सक",
+      "hints": {
+        "easy": { "english": "Animals", "nepali": "जनावर" },
+        "medium": { "english": "Pet", "nepali": "घरपालुवा जनावर" },
+        "hard": { "english": "Vaccination", "nepali": "खोप" }
+      }
+    },
+    {
+      "id": "professions_015",
+      "english": "Lawyer",
+      "nepali": "वकिल",
+      "hints": {
+        "easy": { "english": "Court", "nepali": "अदालत" },
+        "medium": { "english": "Client", "nepali": "मुद्दाको पक्ष" },
+        "hard": { "english": "Argument", "nepali": "बहस" }
+      }
+    },
+    {
+      "id": "professions_016",
+      "english": "Judge",
+      "nepali": "न्यायाधीश",
+      "hints": {
+        "easy": { "english": "Court", "nepali": "अदालत" },
+        "medium": { "english": "Verdict", "nepali": "फैसला" },
+        "hard": { "english": "Gavel", "nepali": "न्यायाधीशको हथौडा" }
+      }
+    },
+    {
+      "id": "professions_017",
+      "english": "Actor",
+      "nepali": "अभिनेता",
+      "hints": {
+        "easy": { "english": "Movie", "nepali": "चलचित्र" },
+        "medium": { "english": "Dialogue", "nepali": "संवाद" },
+        "hard": { "english": "Audition", "nepali": "अभिनय परीक्षा" }
+      }
+    },
+    {
+      "id": "professions_018",
+      "english": "Singer",
+      "nepali": "गायक",
+      "hints": {
+        "easy": { "english": "Song", "nepali": "गीत" },
+        "medium": { "english": "Microphone", "nepali": "माइक्रोफोन" },
+        "hard": { "english": "Vocalist", "nepali": "स्वर कलाकार" }
+      }
+    },
+    {
+      "id": "professions_019",
+      "english": "Dancer",
+      "nepali": "नर्तक",
+      "hints": {
+        "easy": { "english": "Dance", "nepali": "नृत्य" },
+        "medium": { "english": "Choreography", "nepali": "नृत्य संयोजन" },
+        "hard": { "english": "Rhythm", "nepali": "लय" }
+      }
+    },
+    {
+      "id": "professions_020",
+      "english": "Artist",
+      "nepali": "कलाकार",
+      "hints": {
+        "easy": { "english": "Painting", "nepali": "चित्रकला" },
+        "medium": { "english": "Canvas", "nepali": "चित्र बनाउने कपडा" },
+        "hard": { "english": "Palette", "nepali": "रङ्गदानी" }
+      }
+    },
+    {
+      "id": "professions_021",
+      "english": "Photographer",
+      "nepali": "फोटोग्राफर",
+      "hints": {
+        "easy": { "english": "Camera", "nepali": "क्यामेरा" },
+        "medium": { "english": "Portrait", "nepali": "व्यक्तिचित्र" },
+        "hard": { "english": "Shutter", "nepali": "क्यामेराको शटर" }
+      }
+    },
+    {
+      "id": "professions_022",
+      "english": "Journalist",
+      "nepali": "पत्रकार",
+      "hints": {
+        "easy": { "english": "News", "nepali": "समाचार" },
+        "medium": { "english": "Interview", "nepali": "अन्तर्वार्ता" },
+        "hard": { "english": "Headline", "nepali": "मुख्य समाचार शीर्षक" }
+      }
+    },
+    {
+      "id": "professions_023",
+      "english": "Writer",
+      "nepali": "लेखक",
+      "hints": {
+        "easy": { "english": "Book", "nepali": "पुस्तक" },
+        "medium": { "english": "Story", "nepali": "कथा" },
+        "hard": { "english": "Manuscript", "nepali": "हस्तलिखित पाण्डुलिपि" }
+      }
+    },
+    {
+      "id": "professions_024",
+      "english": "Barber",
+      "nepali": "हजाम",
+      "hints": {
+        "easy": { "english": "Hair", "nepali": "कपाल" },
+        "medium": { "english": "Scissors", "nepali": "कैंची" },
+        "hard": { "english": "Razor", "nepali": "दाह्री काट्ने छुरा" }
+      }
+    },
+    {
+      "id": "professions_025",
+      "english": "Tailor",
+      "nepali": "दर्जी",
+      "hints": {
+        "easy": { "english": "Clothes", "nepali": "लुगा" },
+        "medium": { "english": "Needle", "nepali": "सियो" },
+        "hard": { "english": "Stitch", "nepali": "टाँका" }
+      }
+    },
+    {
+      "id": "professions_026",
+      "english": "Electrician",
+      "nepali": "बिजुली मिस्त्री",
+      "hints": {
+        "easy": { "english": "Electricity", "nepali": "बिजुली" },
+        "medium": { "english": "Wiring", "nepali": "तार जडान" },
+        "hard": { "english": "Circuit", "nepali": "विद्युतीय परिपथ" }
+      }
+    },
+    {
+      "id": "professions_027",
+      "english": "Plumber",
+      "nepali": "प्लम्बर",
+      "hints": {
+        "easy": { "english": "Water", "nepali": "पानी" },
+        "medium": { "english": "Pipe", "nepali": "पाइप" },
+        "hard": { "english": "Leak", "nepali": "चुहावट" }
+      }
+    },
+    {
+      "id": "professions_028",
+      "english": "Carpenter",
+      "nepali": "सिकर्मी",
+      "hints": {
+        "easy": { "english": "Wood", "nepali": "काठ" },
+        "medium": { "english": "Hammer", "nepali": "हथौडा" },
+        "hard": { "english": "Furniture", "nepali": "फर्निचर" }
+      }
+    },
+    {
+      "id": "professions_029",
+      "english": "Mason",
+      "nepali": "डकर्मी",
+      "hints": {
+        "easy": { "english": "Bricks", "nepali": "इँटा" },
+        "medium": { "english": "Cement", "nepali": "सिमेन्ट" },
+        "hard": { "english": "Mortar", "nepali": "मसला" }
+      }
+    },
+    {
+      "id": "professions_030",
+      "english": "Mechanic",
+      "nepali": "मेकानिक",
+      "hints": {
+        "easy": { "english": "Vehicle", "nepali": "सवारीसाधन" },
+        "medium": { "english": "Engine", "nepali": "इन्जिन" },
+        "hard": { "english": "Wrench", "nepali": "पाना" }
+      }
+    },
+    {
+      "id": "professions_031",
+      "english": "Shopkeeper",
+      "nepali": "पसलधनी",
+      "hints": {
+        "easy": { "english": "Shop", "nepali": "पसल" },
+        "medium": { "english": "Customer", "nepali": "ग्राहक" },
+        "hard": { "english": "Inventory", "nepali": "मौज्दात सामान" }
+      }
+    },
+    {
+      "id": "professions_032",
+      "english": "Cashier",
+      "nepali": "क्यासियर",
+      "hints": {
+        "easy": { "english": "Money", "nepali": "पैसा" },
+        "medium": { "english": "Receipt", "nepali": "रसिद" },
+        "hard": { "english": "Checkout", "nepali": "बिल तिर्ने ठाउँ" }
+      }
+    },
+    {
+      "id": "professions_033",
+      "english": "Waiter",
+      "nepali": "वेटर",
+      "hints": {
+        "easy": { "english": "Restaurant", "nepali": "रेस्टुरेन्ट" },
+        "medium": { "english": "Menu", "nepali": "मेनु" },
+        "hard": { "english": "Tray", "nepali": "ट्रे" }
+      }
+    },
+    {
+      "id": "professions_034",
+      "english": "Receptionist",
+      "nepali": "स्वागतकर्मी",
+      "hints": {
+        "easy": { "english": "Hotel", "nepali": "होटल" },
+        "medium": { "english": "Telephone", "nepali": "टेलिफोन" },
+        "hard": { "english": "Appointment", "nepali": "भेट्ने समय" }
+      }
+    },
+    {
+      "id": "professions_035",
+      "english": "Scientist",
+      "nepali": "वैज्ञानिक",
+      "hints": {
+        "easy": { "english": "Experiment", "nepali": "प्रयोग" },
+        "medium": { "english": "Laboratory", "nepali": "प्रयोगशाला" },
+        "hard": { "english": "Hypothesis", "nepali": "परिकल्पना" }
+      }
+    },
+    {
+      "id": "professions_036",
+      "english": "Astronaut",
+      "nepali": "अन्तरिक्षयात्री",
+      "hints": {
+        "easy": { "english": "Space", "nepali": "अन्तरिक्ष" },
+        "medium": { "english": "Moon", "nepali": "चन्द्रमा" },
+        "hard": { "english": "Spacesuit", "nepali": "अन्तरिक्ष पोशाक" }
+      }
+    },
+    {
+      "id": "professions_037",
+      "english": "Architect",
+      "nepali": "वास्तुकार",
+      "hints": {
+        "easy": { "english": "Building", "nepali": "भवन" },
+        "medium": { "english": "Design", "nepali": "डिजाइन" },
+        "hard": { "english": "Blueprint", "nepali": "निर्माण नक्सा" }
+      }
+    },
+    {
+      "id": "professions_038",
+      "english": "Programmer",
+      "nepali": "प्रोग्रामर",
+      "hints": {
+        "easy": { "english": "Computer", "nepali": "कम्प्युटर" },
+        "medium": { "english": "Coding", "nepali": "कोडिङ" },
+        "hard": { "english": "Algorithm", "nepali": "चरणबद्ध विधि" }
+      }
+    },
+    {
+      "id": "professions_039",
+      "english": "Accountant",
+      "nepali": "लेखापाल",
+      "hints": {
+        "easy": { "english": "Numbers", "nepali": "अङ्क" },
+        "medium": { "english": "Calculator", "nepali": "क्याल्कुलेटर" },
+        "hard": { "english": "Ledger", "nepali": "हिसाब किताबको खाता" }
+      }
+    },
+    {
+      "id": "professions_040",
+      "english": "Banker",
+      "nepali": "बैंकर",
+      "hints": {
+        "easy": { "english": "Bank", "nepali": "बैंक" },
+        "medium": { "english": "Loan", "nepali": "ऋण" },
+        "hard": { "english": "Interest", "nepali": "ब्याज" }
+      }
+    },
+    {
+      "id": "professions_041",
+      "english": "Postman",
+      "nepali": "हुलाकी",
+      "hints": {
+        "easy": { "english": "Letter", "nepali": "चिठी" },
+        "medium": { "english": "Mailbox", "nepali": "चिठी राख्ने बाकस" },
+        "hard": { "english": "Stamp", "nepali": "हुलाक टिकट" }
+      }
+    },
+    {
+      "id": "professions_042",
+      "english": "Delivery Rider",
+      "nepali": "डेलिभरी चालक",
+      "hints": {
+        "easy": { "english": "Package", "nepali": "पार्सल" },
+        "medium": { "english": "Motorcycle", "nepali": "मोटरसाइकल" },
+        "hard": { "english": "Doorstep", "nepali": "ढोकाअगाडि" }
+      }
+    },
+    {
+      "id": "professions_043",
+      "english": "Cleaner",
+      "nepali": "सफाइकर्मी",
+      "hints": {
+        "easy": { "english": "Broom", "nepali": "कुचो" },
+        "medium": { "english": "Mop", "nepali": "पोछा" },
+        "hard": { "english": "Detergent", "nepali": "सफाइ गर्ने साबुन" }
+      }
+    },
+    {
+      "id": "professions_044",
+      "english": "Security Guard",
+      "nepali": "सुरक्षा गार्ड",
+      "hints": {
+        "easy": { "english": "Gate", "nepali": "ढोका" },
+        "medium": { "english": "Whistle", "nepali": "सिटी" },
+        "hard": { "english": "CCTV", "nepali": "सीसीटीभी" }
+      }
+    },
+    {
+      "id": "professions_045",
+      "english": "Gardener",
+      "nepali": "माली",
+      "hints": {
+        "easy": { "english": "Garden", "nepali": "बगैँचा" },
+        "medium": { "english": "Flowers", "nepali": "फूल" },
+        "hard": { "english": "Pruning", "nepali": "हाँगा काटछाँट" }
+      }
+    },
+    {
+      "id": "professions_046",
+      "english": "Fisherman",
+      "nepali": "माछा मार्ने व्यक्ति",
+      "hints": {
+        "easy": { "english": "Fish", "nepali": "माछा" },
+        "medium": { "english": "Net", "nepali": "जाल" },
+        "hard": { "english": "Fishing Rod", "nepali": "माछा मार्ने बल्छी" }
+      }
+    },
+    {
+      "id": "professions_047",
+      "english": "Construction Worker",
+      "nepali": "निर्माण मजदुर",
+      "hints": {
+        "easy": { "english": "Building", "nepali": "भवन" },
+        "medium": { "english": "Helmet", "nepali": "हेल्मेट" },
+        "hard": { "english": "Scaffolding", "nepali": "मचान" }
+      }
+    },
+    {
+      "id": "professions_048",
+      "english": "Tour Guide",
+      "nepali": "पर्यटक पथप्रदर्शक",
+      "hints": {
+        "easy": { "english": "Tourists", "nepali": "पर्यटक" },
+        "medium": { "english": "Museum", "nepali": "सङ्ग्रहालय" },
+        "hard": { "english": "Landmark", "nepali": "प्रसिद्ध स्थल" }
+      }
+    },
+    {
+      "id": "professions_049",
+      "english": "Trekking Guide",
+      "nepali": "पदयात्रा पथप्रदर्शक",
+      "hints": {
+        "easy": { "english": "Hiking", "nepali": "पदयात्रा" },
+        "medium": { "english": "Himalayas", "nepali": "हिमालय" },
+        "hard": { "english": "Altitude", "nepali": "उचाइ" }
+      }
+    },
+    {
+      "id": "professions_050",
+      "english": "Mountaineer",
+      "nepali": "पर्वतारोही",
+      "hints": {
+        "easy": { "english": "Mountain", "nepali": "हिमाल" },
+        "medium": { "english": "Everest", "nepali": "सगरमाथा" },
+        "hard": { "english": "Summit", "nepali": "शिखर" }
+      }
+    },
+    {
+      "id": "professions_051",
+      "english": "Coach",
+      "nepali": "प्रशिक्षक",
+      "hints": {
+        "easy": { "english": "Team", "nepali": "टोली" },
+        "medium": { "english": "Training", "nepali": "प्रशिक्षण" },
+        "hard": { "english": "Strategy", "nepali": "रणनीति" }
+      }
+    },
+    {
+      "id": "professions_052",
+      "english": "Footballer",
+      "nepali": "फुटबल खेलाडी",
+      "hints": {
+        "easy": { "english": "Football", "nepali": "फुटबल" },
+        "medium": { "english": "Goal", "nepali": "गोल" },
+        "hard": { "english": "Dribbling", "nepali": "बल छलाउने कला" }
+      }
+    },
+    {
+      "id": "professions_053",
+      "english": "Cricketer",
+      "nepali": "क्रिकेट खेलाडी",
+      "hints": {
+        "easy": { "english": "Cricket", "nepali": "क्रिकेट" },
+        "medium": { "english": "Bat", "nepali": "ब्याट" },
+        "hard": { "english": "Wicket", "nepali": "विकेट" }
+      }
+    },
+    {
+      "id": "professions_054",
+      "english": "Umpire",
+      "nepali": "अम्पायर",
+      "hints": {
+        "easy": { "english": "Cricket", "nepali": "क्रिकेट" },
+        "medium": { "english": "Decision", "nepali": "निर्णय" },
+        "hard": { "english": "LBW", "nepali": "एल्बीडब्ल्यु" }
+      }
+    },
+    {
+      "id": "professions_055",
+      "english": "Referee",
+      "nepali": "रेफ्री",
+      "hints": {
+        "easy": { "english": "Football", "nepali": "फुटबल" },
+        "medium": { "english": "Whistle", "nepali": "सिटी" },
+        "hard": { "english": "Foul", "nepali": "नियम उल्लङ्घन" }
+      }
+    },
+    {
+      "id": "professions_056",
+      "english": "Magician",
+      "nepali": "जादुगर",
+      "hints": {
+        "easy": { "english": "Magic", "nepali": "जादु" },
+        "medium": { "english": "Rabbit", "nepali": "खरायो" },
+        "hard": { "english": "Illusion", "nepali": "भ्रम" }
+      }
+    },
+    {
+      "id": "professions_057",
+      "english": "Comedian",
+      "nepali": "हास्य कलाकार",
+      "hints": {
+        "easy": { "english": "Jokes", "nepali": "ठट्टा" },
+        "medium": { "english": "Laughter", "nepali": "हाँसो" },
+        "hard": { "english": "Punchline", "nepali": "चुट्किलाको अन्तिम वाक्य" }
+      }
+    },
+    {
+      "id": "professions_058",
+      "english": "Priest",
+      "nepali": "पुजारी",
+      "hints": {
+        "easy": { "english": "Temple", "nepali": "मन्दिर" },
+        "medium": { "english": "Ritual", "nepali": "कर्मकाण्ड" },
+        "hard": { "english": "Mantra", "nepali": "मन्त्र" }
+      }
+    },
+    {
+      "id": "professions_059",
+      "english": "Monk",
+      "nepali": "भिक्षु",
+      "hints": {
+        "easy": { "english": "Monastery", "nepali": "गुम्बा" },
+        "medium": { "english": "Meditation", "nepali": "ध्यान" },
+        "hard": { "english": "Robe", "nepali": "चिवर" }
+      }
+    },
+    {
+      "id": "professions_060",
+      "english": "Librarian",
+      "nepali": "पुस्तकालयाध्यक्ष",
+      "hints": {
+        "easy": { "english": "Library", "nepali": "पुस्तकालय" },
+        "medium": { "english": "Bookshelf", "nepali": "पुस्तक राख्ने दराज" },
+        "hard": { "english": "Catalogue", "nepali": "पुस्तक सूची" }
+      }
+    },
+    {
+      "id": "professions_061",
+      "english": "Professor",
+      "nepali": "प्राध्यापक",
+      "hints": {
+        "easy": { "english": "College", "nepali": "कलेज" },
+        "medium": { "english": "Lecture", "nepali": "व्याख्यान" },
+        "hard": { "english": "Thesis", "nepali": "शोधप्रबन्ध" }
+      }
+    },
+    {
+      "id": "professions_062",
+      "english": "Makeup Artist",
+      "nepali": "मेकअप कलाकार",
+      "hints": {
+        "easy": { "english": "Cosmetics", "nepali": "सौन्दर्य प्रसाधन" },
+        "medium": { "english": "Brush", "nepali": "ब्रस" },
+        "hard": { "english": "Foundation", "nepali": "फाउन्डेसन" }
+      }
+    },
+    {
+      "id": "professions_063",
+      "english": "Fashion Designer",
+      "nepali": "फेसन डिजाइनर",
+      "hints": {
+        "easy": { "english": "Clothing", "nepali": "लुगाफाटा" },
+        "medium": { "english": "Runway", "nepali": "फेसन मञ्च" },
+        "hard": { "english": "Sketch", "nepali": "रेखाचित्र" }
+      }
+    },
+    {
+      "id": "professions_064",
+      "english": "Hairdresser",
+      "nepali": "कपाल सजाउने व्यक्ति",
+      "hints": {
+        "easy": { "english": "Salon", "nepali": "सैलुन" },
+        "medium": { "english": "Hairstyle", "nepali": "कपालको शैली" },
+        "hard": { "english": "Blowdryer", "nepali": "हेयर ड्रायर" }
+      }
+    },
+    {
+      "id": "professions_065",
+      "english": "Bus Conductor",
+      "nepali": "बस परिचालक",
+      "hints": {
+        "easy": { "english": "Bus", "nepali": "बस" },
+        "medium": { "english": "Ticket", "nepali": "टिकट" },
+        "hard": { "english": "Fare", "nepali": "भाडा" }
+      }
+    },
+    {
+      "id": "professions_066",
+      "english": "Traffic Police",
+      "nepali": "ट्राफिक प्रहरी",
+      "hints": {
+        "easy": { "english": "Road", "nepali": "सडक" },
+        "medium": { "english": "Signal", "nepali": "ट्राफिक बत्ती" },
+        "hard": { "english": "Crossing", "nepali": "सडक पार गर्ने ठाउँ" }
+      }
+    },
+    {
+      "id": "professions_067",
+      "english": "Blacksmith",
+      "nepali": "आरन व्यवसायी",
+      "hints": {
+        "easy": { "english": "Iron", "nepali": "फलाम" },
+        "medium": { "english": "Hammer", "nepali": "हथौडा" },
+        "hard": { "english": "Anvil", "nepali": "निहाई" }
+      }
+    },
+    {
+      "id": "professions_068",
+      "english": "Potter",
+      "nepali": "कुमाले",
+      "hints": {
+        "easy": { "english": "Clay", "nepali": "माटो" },
+        "medium": { "english": "Pot", "nepali": "भाँडो" },
+        "hard": { "english": "Wheel", "nepali": "चक्र" }
+      }
+    },
+    {
+      "id": "professions_069",
+      "english": "Translator",
+      "nepali": "अनुवादक",
+      "hints": {
+        "easy": { "english": "Language", "nepali": "भाषा" },
+        "medium": { "english": "Dictionary", "nepali": "शब्दकोश" },
+        "hard": { "english": "Subtitle", "nepali": "उपशीर्षक" }
+      }
+    },
+    {
+      "id": "professions_070",
+      "english": "Politician",
+      "nepali": "राजनीतिज्ञ",
+      "hints": {
+        "easy": { "english": "Election", "nepali": "चुनाव" },
+        "medium": { "english": "Government", "nepali": "सरकार" },
+        "hard": { "english": "Parliament", "nepali": "संसद" }
+      }
+    }
+  ]
+}

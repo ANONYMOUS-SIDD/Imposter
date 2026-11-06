@@ -1,0 +1,605 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "objects_061",
+      "english": "Sofa",
+      "nepali": "सोफा",
+      "hints": {
+        "easy": { "english": "Living room", "nepali": "बैठक कोठा" },
+        "medium": { "english": "Relax", "nepali": "आराम" },
+        "hard": { "english": "Cushions", "nepali": "मसनद" }
+      }
+    },
+    {
+      "id": "objects_062",
+      "english": "Cupboard",
+      "nepali": "कपाट",
+      "hints": {
+        "easy": { "english": "Storage", "nepali": "सामान राख्ने ठाउँ" },
+        "medium": { "english": "Shelves", "nepali": "तख्ता" },
+        "hard": { "english": "Hinges", "nepali": "कब्जा" }
+      }
+    },
+    {
+      "id": "objects_063",
+      "english": "Wardrobe",
+      "nepali": "लुगा राख्ने दराज",
+      "hints": {
+        "easy": { "english": "Clothes", "nepali": "लुगा" },
+        "medium": { "english": "Hangers", "nepali": "ह्याङ्गर" },
+        "hard": { "english": "Closet", "nepali": "लुगा राख्ने ठाउँ" }
+      }
+    },
+    {
+      "id": "objects_064",
+      "english": "Shelf",
+      "nepali": "तखता",
+      "hints": {
+        "easy": { "english": "Books", "nepali": "किताब" },
+        "medium": { "english": "Display", "nepali": "सजावट" },
+        "hard": { "english": "Bracket", "nepali": "अड्याउने आधार" }
+      }
+    },
+    {
+      "id": "objects_065",
+      "english": "Drawer",
+      "nepali": "दराज",
+      "hints": {
+        "easy": { "english": "Desk", "nepali": "लेख्ने टेबल" },
+        "medium": { "english": "Pull", "nepali": "तान्नु" },
+        "hard": { "english": "Handle", "nepali": "समात्ने भाग" }
+      }
+    },
+    {
+      "id": "objects_066",
+      "english": "Carpet",
+      "nepali": "गलैँचा",
+      "hints": {
+        "easy": { "english": "Floor", "nepali": "भुइँ" },
+        "medium": { "english": "Pattern", "nepali": "बुट्टा" },
+        "hard": { "english": "Woven", "nepali": "बुनिएको" }
+      }
+    },
+    {
+      "id": "objects_067",
+      "english": "Doormat",
+      "nepali": "पाइदान",
+      "hints": {
+        "easy": { "english": "Entrance", "nepali": "प्रवेशद्वार" },
+        "medium": { "english": "Shoes", "nepali": "जुत्ता" },
+        "hard": { "english": "Footprints", "nepali": "पाइलाका छाप" }
+      }
+    },
+    {
+      "id": "objects_068",
+      "english": "Curtain",
+      "nepali": "पर्दा",
+      "hints": {
+        "easy": { "english": "Window", "nepali": "झ्याल" },
+        "medium": { "english": "Privacy", "nepali": "गोपनीयता" },
+        "hard": { "english": "Rod", "nepali": "डन्डी" }
+      }
+    },
+    {
+      "id": "objects_069",
+      "english": "Bedsheet",
+      "nepali": "तन्ना",
+      "hints": {
+        "easy": { "english": "Bed", "nepali": "ओछ्यान" },
+        "medium": { "english": "Cotton", "nepali": "कपास" },
+        "hard": { "english": "Pillow", "nepali": "सिरानी" }
+      }
+    },
+    {
+      "id": "objects_070",
+      "english": "Hanger",
+      "nepali": "ह्याङ्गर",
+      "hints": {
+        "easy": { "english": "Clothes", "nepali": "लुगा" },
+        "medium": { "english": "Wardrobe", "nepali": "लुगा राख्ने दराज" },
+        "hard": { "english": "Hook", "nepali": "अङ्कुसे" }
+      }
+    },
+    {
+      "id": "objects_071",
+      "english": "Iron",
+      "nepali": "इस्त्री",
+      "hints": {
+        "easy": { "english": "Wrinkles", "nepali": "चाउरी" },
+        "medium": { "english": "Clothes", "nepali": "लुगा" },
+        "hard": { "english": "Steam", "nepali": "बाफ" }
+      }
+    },
+    {
+      "id": "objects_072",
+      "english": "Mosquito Net",
+      "nepali": "झुल",
+      "hints": {
+        "easy": { "english": "Mosquitoes", "nepali": "लामखुट्टे" },
+        "medium": { "english": "Sleeping", "nepali": "सुताइ" },
+        "hard": { "english": "Mesh", "nepali": "जाली" }
+      }
+    },
+    {
+      "id": "objects_073",
+      "english": "Doorbell",
+      "nepali": "ढोकाको घण्टी",
+      "hints": {
+        "easy": { "english": "Visitor", "nepali": "आगन्तुक" },
+        "medium": { "english": "Ding-dong", "nepali": "टिङटङ" },
+        "hard": { "english": "Button", "nepali": "बटन" }
+      }
+    },
+    {
+      "id": "objects_074",
+      "english": "Bell",
+      "nepali": "घण्टी",
+      "hints": {
+        "easy": { "english": "Sound", "nepali": "आवाज" },
+        "medium": { "english": "Temple", "nepali": "मन्दिर" },
+        "hard": { "english": "Ringing", "nepali": "घन्काइ" }
+      }
+    },
+    {
+      "id": "objects_075",
+      "english": "Calendar",
+      "nepali": "पात्रो",
+      "hints": {
+        "easy": { "english": "Dates", "nepali": "मिति" },
+        "medium": { "english": "Months", "nepali": "महिना" },
+        "hard": { "english": "Festivals", "nepali": "चाडपर्व" }
+      }
+    },
+    {
+      "id": "objects_076",
+      "english": "Photo Frame",
+      "nepali": "फोटो फ्रेम",
+      "hints": {
+        "easy": { "english": "Picture", "nepali": "तस्बिर" },
+        "medium": { "english": "Memories", "nepali": "सम्झना" },
+        "hard": { "english": "Wall", "nepali": "भित्ता" }
+      }
+    },
+    {
+      "id": "objects_077",
+      "english": "Vase",
+      "nepali": "फूलदानी",
+      "hints": {
+        "easy": { "english": "Flowers", "nepali": "फूल" },
+        "medium": { "english": "Decoration", "nepali": "सजावट" },
+        "hard": { "english": "Ceramic", "nepali": "माटाका भाँडा" }
+      }
+    },
+    {
+      "id": "objects_078",
+      "english": "Flowerpot",
+      "nepali": "गमला",
+      "hints": {
+        "easy": { "english": "Plant", "nepali": "बिरुवा" },
+        "medium": { "english": "Garden", "nepali": "बगैँचा" },
+        "hard": { "english": "Drainage", "nepali": "पानी निकास" }
+      }
+    },
+    {
+      "id": "objects_079",
+      "english": "Watering Can",
+      "nepali": "पानी हाल्ने भाँडो",
+      "hints": {
+        "easy": { "english": "Plants", "nepali": "बिरुवा" },
+        "medium": { "english": "Garden", "nepali": "बगैँचा" },
+        "hard": { "english": "Sprout", "nepali": "पालुवा" }
+      }
+    },
+    {
+      "id": "objects_080",
+      "english": "Shovel",
+      "nepali": "बेल्चा",
+      "hints": {
+        "easy": { "english": "Digging", "nepali": "खन्नु" },
+        "medium": { "english": "Soil", "nepali": "माटो" },
+        "hard": { "english": "Handle", "nepali": "बिँड" }
+      }
+    },
+    {
+      "id": "objects_081",
+      "english": "Ladder",
+      "nepali": "भर्‍याङ",
+      "hints": {
+        "easy": { "english": "Climbing", "nepali": "चढ्नु" },
+        "medium": { "english": "Rungs", "nepali": "खुट्किला" },
+        "hard": { "english": "Height", "nepali": "उचाइ" }
+      }
+    },
+    {
+      "id": "objects_082",
+      "english": "Measuring Tape",
+      "nepali": "नाप्ने टेप",
+      "hints": {
+        "easy": { "english": "Length", "nepali": "लम्बाइ" },
+        "medium": { "english": "Inches", "nepali": "इन्च" },
+        "hard": { "english": "Retractable", "nepali": "तान्दा निस्कने" }
+      }
+    },
+    {
+      "id": "objects_083",
+      "english": "Toolbox",
+      "nepali": "औजार राख्ने बाकस",
+      "hints": {
+        "easy": { "english": "Tools", "nepali": "औजार" },
+        "medium": { "english": "Repair", "nepali": "मर्मत" },
+        "hard": { "english": "Workshop", "nepali": "कार्यशाला" }
+      }
+    },
+    {
+      "id": "objects_084",
+      "english": "Needle",
+      "nepali": "सियो",
+      "hints": {
+        "easy": { "english": "Sewing", "nepali": "सिलाइ" },
+        "medium": { "english": "Thread", "nepali": "धागो" },
+        "hard": { "english": "Eye", "nepali": "प्वाल" }
+      }
+    },
+    {
+      "id": "objects_085",
+      "english": "Thread",
+      "nepali": "धागो",
+      "hints": {
+        "easy": { "english": "Sewing", "nepali": "सिलाइ" },
+        "medium": { "english": "Needle", "nepali": "सियो" },
+        "hard": { "english": "Spool", "nepali": "रिल" }
+      }
+    },
+    {
+      "id": "objects_086",
+      "english": "Button",
+      "nepali": "टाँक",
+      "hints": {
+        "easy": { "english": "Shirt", "nepali": "सर्ट" },
+        "medium": { "english": "Fasten", "nepali": "कस्नु" },
+        "hard": { "english": "Stitch", "nepali": "टाँका" }
+      }
+    },
+    {
+      "id": "objects_087",
+      "english": "Safety Pin",
+      "nepali": "सेफ्टी पिन",
+      "hints": {
+        "easy": { "english": "Cloth", "nepali": "कपडा" },
+        "medium": { "english": "Fastener", "nepali": "अड्काउने साधन" },
+        "hard": { "english": "Clasp", "nepali": "अड्कनी" }
+      }
+    },
+    {
+      "id": "objects_088",
+      "english": "Nail Clipper",
+      "nepali": "नङ काट्ने औजार",
+      "hints": {
+        "easy": { "english": "Fingers", "nepali": "औँला" },
+        "medium": { "english": "Grooming", "nepali": "सरसफाइ" },
+        "hard": { "english": "Trimming", "nepali": "छाँटकाँट" }
+      }
+    },
+    {
+      "id": "objects_089",
+      "english": "Hair Dryer",
+      "nepali": "कपाल सुकाउने मेसिन",
+      "hints": {
+        "easy": { "english": "Hair", "nepali": "कपाल" },
+        "medium": { "english": "Hot Air", "nepali": "तातो हावा" },
+        "hard": { "english": "Blower", "nepali": "हावा फ्याँक्ने यन्त्र" }
+      }
+    },
+    {
+      "id": "objects_090",
+      "english": "Razor",
+      "nepali": "दाह्री काट्ने ब्लेड",
+      "hints": {
+        "easy": { "english": "Shaving", "nepali": "दाह्री काट्नु" },
+        "medium": { "english": "Blade", "nepali": "धारिलो पाता" },
+        "hard": { "english": "Stubble", "nepali": "दाह्रीका ठुटा" }
+      }
+    },
+    {
+      "id": "objects_091",
+      "english": "Tissue",
+      "nepali": "टिस्यु पेपर",
+      "hints": {
+        "easy": { "english": "Nose", "nepali": "नाक" },
+        "medium": { "english": "Wipe", "nepali": "पुछ्नु" },
+        "hard": { "english": "Disposable", "nepali": "एकपटक प्रयोग हुने" }
+      }
+    },
+    {
+      "id": "objects_092",
+      "english": "Lunchbox",
+      "nepali": "खाजा बाकस",
+      "hints": {
+        "easy": { "english": "School", "nepali": "विद्यालय" },
+        "medium": { "english": "Tiffin", "nepali": "टिफिन" },
+        "hard": { "english": "Compartment", "nepali": "खण्ड" }
+      }
+    },
+    {
+      "id": "objects_093",
+      "english": "Jug",
+      "nepali": "जग",
+      "hints": {
+        "easy": { "english": "Water", "nepali": "पानी" },
+        "medium": { "english": "Pour", "nepali": "खन्याउनु" },
+        "hard": { "english": "Spout", "nepali": "मुख" }
+      }
+    },
+    {
+      "id": "objects_094",
+      "english": "Thermos",
+      "nepali": "थर्मस",
+      "hints": {
+        "easy": { "english": "Tea", "nepali": "चिया" },
+        "medium": { "english": "Travel", "nepali": "यात्रा" },
+        "hard": { "english": "Insulation", "nepali": "ताप जोगाउने" }
+      }
+    },
+    {
+      "id": "objects_095",
+      "english": "Tray",
+      "nepali": "ट्रे",
+      "hints": {
+        "easy": { "english": "Serving", "nepali": "पस्कनु" },
+        "medium": { "english": "Tea", "nepali": "चिया" },
+        "hard": { "english": "Handle", "nepali": "समात्ने भाग" }
+      }
+    },
+    {
+      "id": "objects_096",
+      "english": "Bowl",
+      "nepali": "कचौरा",
+      "hints": {
+        "easy": { "english": "Soup", "nepali": "झोल" },
+        "medium": { "english": "Noodles", "nepali": "चाउचाउ" },
+        "hard": { "english": "Round", "nepali": "गोलो" }
+      }
+    },
+    {
+      "id": "objects_097",
+      "english": "Glass",
+      "nepali": "गिलास",
+      "hints": {
+        "easy": { "english": "Juice", "nepali": "जुस" },
+        "medium": { "english": "Drinking", "nepali": "पिउनु" },
+        "hard": { "english": "Transparent", "nepali": "पारदर्शी" }
+      }
+    },
+    {
+      "id": "objects_098",
+      "english": "Rolling Pin",
+      "nepali": "बेलन",
+      "hints": {
+        "easy": { "english": "Roti", "nepali": "रोटी" },
+        "medium": { "english": "Dough", "nepali": "मुछेको पीठो" },
+        "hard": { "english": "Flatten", "nepali": "च्याप्टो बनाउनु" }
+      }
+    },
+    {
+      "id": "objects_099",
+      "english": "Chopping Board",
+      "nepali": "काट्ने पाटी",
+      "hints": {
+        "easy": { "english": "Vegetables", "nepali": "तरकारी" },
+        "medium": { "english": "Kitchen", "nepali": "भान्सा" },
+        "hard": { "english": "Knife", "nepali": "चक्कु" }
+      }
+    },
+    {
+      "id": "objects_100",
+      "english": "Sieve",
+      "nepali": "चाल्नी",
+      "hints": {
+        "easy": { "english": "Flour", "nepali": "पीठो" },
+        "medium": { "english": "Filtering", "nepali": "छान्नु" },
+        "hard": { "english": "Mesh", "nepali": "जाली" }
+      }
+    },
+    {
+      "id": "objects_101",
+      "english": "Ladle",
+      "nepali": "डाडु",
+      "hints": {
+        "easy": { "english": "Dal", "nepali": "दाल" },
+        "medium": { "english": "Serving", "nepali": "पस्कनु" },
+        "hard": { "english": "Soup", "nepali": "झोल" }
+      }
+    },
+    {
+      "id": "objects_102",
+      "english": "Whisk",
+      "nepali": "फेट्ने उपकरण",
+      "hints": {
+        "easy": { "english": "Eggs", "nepali": "अण्डा" },
+        "medium": { "english": "Batter", "nepali": "घोल" },
+        "hard": { "english": "Beating", "nepali": "फेट्नु" }
+      }
+    },
+    {
+      "id": "objects_103",
+      "english": "Rice Cooker",
+      "nepali": "भात पकाउने कुकर",
+      "hints": {
+        "easy": { "english": "Rice", "nepali": "चामल" },
+        "medium": { "english": "Electricity", "nepali": "बिजुली" },
+        "hard": { "english": "Keep Warm", "nepali": "तातो राख्ने" }
+      }
+    },
+    {
+      "id": "objects_104",
+      "english": "Microwave",
+      "nepali": "माइक्रोवेभ",
+      "hints": {
+        "easy": { "english": "Reheating", "nepali": "फेरि तताउनु" },
+        "medium": { "english": "Popcorn", "nepali": "पपकर्न" },
+        "hard": { "english": "Timer", "nepali": "समय सूचक" }
+      }
+    },
+    {
+      "id": "objects_105",
+      "english": "Blender",
+      "nepali": "ब्लेन्डर",
+      "hints": {
+        "easy": { "english": "Smoothie", "nepali": "फलफूलको पेय" },
+        "medium": { "english": "Fruits", "nepali": "फलफूल" },
+        "hard": { "english": "Motor", "nepali": "मोटर" }
+      }
+    },
+    {
+      "id": "objects_106",
+      "english": "Toaster",
+      "nepali": "ब्रेड सेक्ने मेसिन",
+      "hints": {
+        "easy": { "english": "Bread", "nepali": "पाउरोटी" },
+        "medium": { "english": "Breakfast", "nepali": "बिहानको खाना" },
+        "hard": { "english": "Crispy", "nepali": "कुरकुरे" }
+      }
+    },
+    {
+      "id": "objects_107",
+      "english": "Gas Stove",
+      "nepali": "ग्यास चुलो",
+      "hints": {
+        "easy": { "english": "Cooking", "nepali": "खाना पकाउनु" },
+        "medium": { "english": "Burner", "nepali": "आगो बल्ने भाग" },
+        "hard": { "english": "Cylinder", "nepali": "सिलिन्डर" }
+      }
+    },
+    {
+      "id": "objects_108",
+      "english": "Oven",
+      "nepali": "ओभन",
+      "hints": {
+        "easy": { "english": "Cake", "nepali": "केक" },
+        "medium": { "english": "Baking", "nepali": "बेकिङ" },
+        "hard": { "english": "Preheat", "nepali": "पहिल्यै तताउनु" }
+      }
+    },
+    {
+      "id": "objects_109",
+      "english": "Remote Control",
+      "nepali": "रिमोट",
+      "hints": {
+        "easy": { "english": "Television", "nepali": "टेलिभिजन" },
+        "medium": { "english": "Buttons", "nepali": "बटन" },
+        "hard": { "english": "Infrared", "nepali": "अवरक्त किरण" }
+      }
+    },
+    {
+      "id": "objects_110",
+      "english": "Television",
+      "nepali": "टेलिभिजन",
+      "hints": {
+        "easy": { "english": "Channels", "nepali": "च्यानल" },
+        "medium": { "english": "Screen", "nepali": "पर्दा" },
+        "hard": { "english": "Broadcast", "nepali": "प्रसारण" }
+      }
+    },
+    {
+      "id": "objects_111",
+      "english": "Speaker",
+      "nepali": "स्पिकर",
+      "hints": {
+        "easy": { "english": "Music", "nepali": "सङ्गीत" },
+        "medium": { "english": "Volume", "nepali": "आवाजको स्तर" },
+        "hard": { "english": "Bass", "nepali": "गहिरो ध्वनि" }
+      }
+    },
+    {
+      "id": "objects_112",
+      "english": "Headphones",
+      "nepali": "हेडफोन",
+      "hints": {
+        "easy": { "english": "Listening", "nepali": "सुन्नु" },
+        "medium": { "english": "Music", "nepali": "सङ्गीत" },
+        "hard": { "english": "Ear Cups", "nepali": "कान ढाक्ने भाग" }
+      }
+    },
+    {
+      "id": "objects_113",
+      "english": "Camera",
+      "nepali": "क्यामेरा",
+      "hints": {
+        "easy": { "english": "Photos", "nepali": "तस्बिर" },
+        "medium": { "english": "Lens", "nepali": "लेन्स" },
+        "hard": { "english": "Shutter", "nepali": "शटर" }
+      }
+    },
+    {
+      "id": "objects_114",
+      "english": "Tripod",
+      "nepali": "ट्राइपड",
+      "hints": {
+        "easy": { "english": "Camera", "nepali": "क्यामेरा" },
+        "medium": { "english": "Three Legs", "nepali": "तीन खुट्टा" },
+        "hard": { "english": "Stability", "nepali": "स्थिरता" }
+      }
+    },
+    {
+      "id": "objects_115",
+      "english": "Printer",
+      "nepali": "प्रिन्टर",
+      "hints": {
+        "easy": { "english": "Paper", "nepali": "कागज" },
+        "medium": { "english": "Ink", "nepali": "मसी" },
+        "hard": { "english": "Cartridge", "nepali": "मसी राख्ने भाग" }
+      }
+    },
+    {
+      "id": "objects_116",
+      "english": "Keyboard",
+      "nepali": "किबोर्ड",
+      "hints": {
+        "easy": { "english": "Typing", "nepali": "टाइप गर्नु" },
+        "medium": { "english": "Keys", "nepali": "कुञ्जी" },
+        "hard": { "english": "QWERTY", "nepali": "क्युडब्लुआरटिवाइ" }
+      }
+    },
+    {
+      "id": "objects_117",
+      "english": "Computer Mouse",
+      "nepali": "कम्प्युटर माउस",
+      "hints": {
+        "easy": { "english": "Computer", "nepali": "कम्प्युटर" },
+        "medium": { "english": "Click", "nepali": "क्लिक" },
+        "hard": { "english": "Cursor", "nepali": "कर्सर" }
+      }
+    },
+    {
+      "id": "objects_118",
+      "english": "Monitor",
+      "nepali": "मोनिटर",
+      "hints": {
+        "easy": { "english": "Computer", "nepali": "कम्प्युटर" },
+        "medium": { "english": "Display", "nepali": "दृश्य" },
+        "hard": { "english": "Resolution", "nepali": "दृश्य स्पष्टता" }
+      }
+    },
+    {
+      "id": "objects_119",
+      "english": "Battery",
+      "nepali": "ब्याट्री",
+      "hints": {
+        "easy": { "english": "Power", "nepali": "ऊर्जा" },
+        "medium": { "english": "Charging", "nepali": "चार्ज गर्नु" },
+        "hard": { "english": "Voltage", "nepali": "भोल्टेज" }
+      }
+    },
+    {
+      "id": "objects_120",
+      "english": "Binoculars",
+      "nepali": "दूरबिन",
+      "hints": {
+        "easy": { "english": "Distant", "nepali": "टाढा" },
+        "medium": { "english": "Birdwatching", "nepali": "चरा अवलोकन" },
+        "hard": { "english": "Magnification", "nepali": "ठूलो देखाउने क्षमता" }
+      }
+    }
+  ]
+}

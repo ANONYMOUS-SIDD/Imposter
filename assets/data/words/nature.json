@@ -1,0 +1,595 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "nature_001",
+      "english": "Mountain",
+      "nepali": "पहाड",
+      "hints": {
+        "easy": { "english": "Everest", "nepali": "सगरमाथा" },
+        "medium": { "english": "Climbing", "nepali": "आरोहण" },
+        "hard": { "english": "Summit", "nepali": "शिखर" }
+      }
+    },
+    {
+      "id": "nature_002",
+      "english": "Hill",
+      "nepali": "डाँडा",
+      "hints": {
+        "easy": { "english": "Green", "nepali": "हरियाली" },
+        "medium": { "english": "Slope", "nepali": "भिरालोपन" },
+        "hard": { "english": "Ridge", "nepali": "धार" }
+      }
+    },
+    {
+      "id": "nature_003",
+      "english": "River",
+      "nepali": "नदी",
+      "hints": {
+        "easy": { "english": "Water", "nepali": "पानी" },
+        "medium": { "english": "Current", "nepali": "बहाव" },
+        "hard": { "english": "Tributary", "nepali": "सहायक नदी" }
+      }
+    },
+    {
+      "id": "nature_004",
+      "english": "Forest",
+      "nepali": "जङ्गल",
+      "hints": {
+        "easy": { "english": "Trees", "nepali": "रुखहरू" },
+        "medium": { "english": "Wildlife", "nepali": "वन्यजन्तु" },
+        "hard": { "english": "Canopy", "nepali": "रुखको छत्र" }
+      }
+    },
+    {
+      "id": "nature_005",
+      "english": "Waterfall",
+      "nepali": "झरना",
+      "hints": {
+        "easy": { "english": "Water", "nepali": "पानी" },
+        "medium": { "english": "Cliff", "nepali": "भिर" },
+        "hard": { "english": "Cascade", "nepali": "जलप्रपात" }
+      }
+    },
+    {
+      "id": "nature_006",
+      "english": "Lake",
+      "nepali": "ताल",
+      "hints": {
+        "easy": { "english": "Phewa", "nepali": "फेवा" },
+        "medium": { "english": "Boating", "nepali": "डुङ्गा सयर" },
+        "hard": { "english": "Shore", "nepali": "किनार" }
+      }
+    },
+    {
+      "id": "nature_007",
+      "english": "Ocean",
+      "nepali": "महासागर",
+      "hints": {
+        "easy": { "english": "Sea", "nepali": "समुद्र" },
+        "medium": { "english": "Waves", "nepali": "छाल" },
+        "hard": { "english": "Tide", "nepali": "ज्वारभाटा" }
+      }
+    },
+    {
+      "id": "nature_008",
+      "english": "Beach",
+      "nepali": "समुद्री किनार",
+      "hints": {
+        "easy": { "english": "Sand", "nepali": "बालुवा" },
+        "medium": { "english": "Seashells", "nepali": "समुद्री शङ्ख" },
+        "hard": { "english": "Coast", "nepali": "तट" }
+      }
+    },
+    {
+      "id": "nature_009",
+      "english": "Island",
+      "nepali": "टापु",
+      "hints": {
+        "easy": { "english": "Surrounded", "nepali": "चारैतिर घेरिएको" },
+        "medium": { "english": "Ocean", "nepali": "महासागर" },
+        "hard": { "english": "Shoreline", "nepali": "किनाररेखा" }
+      }
+    },
+    {
+      "id": "nature_010",
+      "english": "Desert",
+      "nepali": "मरुभूमि",
+      "hints": {
+        "easy": { "english": "Sand", "nepali": "बालुवा" },
+        "medium": { "english": "Camel", "nepali": "ऊँट" },
+        "hard": { "english": "Oasis", "nepali": "मरुद्यान" }
+      }
+    },
+    {
+      "id": "nature_011",
+      "english": "Cave",
+      "nepali": "गुफा",
+      "hints": {
+        "easy": { "english": "Dark", "nepali": "अँध्यारो" },
+        "medium": { "english": "Bat", "nepali": "चमेरो" },
+        "hard": { "english": "Underground", "nepali": "भूमिगत" }
+      }
+    },
+    {
+      "id": "nature_012",
+      "english": "Valley",
+      "nepali": "उपत्यका",
+      "hints": {
+        "easy": { "english": "Kathmandu", "nepali": "काठमाडौं" },
+        "medium": { "english": "Between", "nepali": "बीचमा" },
+        "hard": { "english": "Basin", "nepali": "द्रोणी" }
+      }
+    },
+    {
+      "id": "nature_013",
+      "english": "Glacier",
+      "nepali": "हिमनदी",
+      "hints": {
+        "easy": { "english": "Ice", "nepali": "हिउँ" },
+        "medium": { "english": "Himalayas", "nepali": "हिमालय" },
+        "hard": { "english": "Melting", "nepali": "पग्लिने" }
+      }
+    },
+    {
+      "id": "nature_014",
+      "english": "Volcano",
+      "nepali": "ज्वालामुखी",
+      "hints": {
+        "easy": { "english": "Lava", "nepali": "लाभा" },
+        "medium": { "english": "Eruption", "nepali": "विस्फोट" },
+        "hard": { "english": "Crater", "nepali": "मुख" }
+      }
+    },
+    {
+      "id": "nature_015",
+      "english": "Cliff",
+      "nepali": "भिर",
+      "hints": {
+        "easy": { "english": "Steep", "nepali": "भिरालो" },
+        "medium": { "english": "Edge", "nepali": "छेउ" },
+        "hard": { "english": "Drop", "nepali": "ओरालो" }
+      }
+    },
+    {
+      "id": "nature_016",
+      "english": "Meadow",
+      "nepali": "घाँसे मैदान",
+      "hints": {
+        "easy": { "english": "Grass", "nepali": "घाँस" },
+        "medium": { "english": "Flowers", "nepali": "फूलहरू" },
+        "hard": { "english": "Pasture", "nepali": "चरन" }
+      }
+    },
+    {
+      "id": "nature_017",
+      "english": "Tree",
+      "nepali": "रुख",
+      "hints": {
+        "easy": { "english": "Leaves", "nepali": "पात" },
+        "medium": { "english": "Branches", "nepali": "हाँगाहरू" },
+        "hard": { "english": "Trunk", "nepali": "तना" }
+      }
+    },
+    {
+      "id": "nature_018",
+      "english": "Flower",
+      "nepali": "फूल",
+      "hints": {
+        "easy": { "english": "Rose", "nepali": "गुलाब" },
+        "medium": { "english": "Petals", "nepali": "पङ्खुडी" },
+        "hard": { "english": "Blossom", "nepali": "फुल्नु" }
+      }
+    },
+    {
+      "id": "nature_019",
+      "english": "Grass",
+      "nepali": "घाँस",
+      "hints": {
+        "easy": { "english": "Green", "nepali": "हरियो" },
+        "medium": { "english": "Lawn", "nepali": "घाँसे आँगन" },
+        "hard": { "english": "Meadow", "nepali": "घाँसे मैदान" }
+      }
+    },
+    {
+      "id": "nature_020",
+      "english": "Bamboo",
+      "nepali": "बाँस",
+      "hints": {
+        "easy": { "english": "Panda", "nepali": "पाण्डा" },
+        "medium": { "english": "Hollow", "nepali": "खोक्रो" },
+        "hard": { "english": "Shoot", "nepali": "मुना" }
+      }
+    },
+    {
+      "id": "nature_021",
+      "english": "Cactus",
+      "nepali": "क्याक्टस",
+      "hints": {
+        "easy": { "english": "Desert", "nepali": "मरुभूमि" },
+        "medium": { "english": "Spines", "nepali": "काँडा" },
+        "hard": { "english": "Succulent", "nepali": "रसिलो बिरुवा" }
+      }
+    },
+    {
+      "id": "nature_022",
+      "english": "Mushroom",
+      "nepali": "च्याउ",
+      "hints": {
+        "easy": { "english": "Umbrella", "nepali": "छाता" },
+        "medium": { "english": "Forest", "nepali": "जङ्गल" },
+        "hard": { "english": "Fungus", "nepali": "ढुसी" }
+      }
+    },
+    {
+      "id": "nature_023",
+      "english": "Cloud",
+      "nepali": "बादल",
+      "hints": {
+        "easy": { "english": "Sky", "nepali": "आकाश" },
+        "medium": { "english": "Rain", "nepali": "वर्षा" },
+        "hard": { "english": "Floating", "nepali": "तैरिने" }
+      }
+    },
+    {
+      "id": "nature_024",
+      "english": "Rain",
+      "nepali": "वर्षा",
+      "hints": {
+        "easy": { "english": "Umbrella", "nepali": "छाता" },
+        "medium": { "english": "Monsoon", "nepali": "मनसुन" },
+        "hard": { "english": "Drizzle", "nepali": "सिमसिमे पानी" }
+      }
+    },
+    {
+      "id": "nature_025",
+      "english": "Snow",
+      "nepali": "हिउँ",
+      "hints": {
+        "easy": { "english": "White", "nepali": "सेतो" },
+        "medium": { "english": "Snowman", "nepali": "हिउँमानव" },
+        "hard": { "english": "Flakes", "nepali": "हिउँका कण" }
+      }
+    },
+    {
+      "id": "nature_026",
+      "english": "Wind",
+      "nepali": "हावा",
+      "hints": {
+        "easy": { "english": "Breeze", "nepali": "मन्द हावा" },
+        "medium": { "english": "Kite", "nepali": "चङ्गा" },
+        "hard": { "english": "Gust", "nepali": "हावाको झोक्का" }
+      }
+    },
+    {
+      "id": "nature_027",
+      "english": "Sun",
+      "nepali": "सूर्य",
+      "hints": {
+        "easy": { "english": "Day", "nepali": "दिन" },
+        "medium": { "english": "Heat", "nepali": "ताप" },
+        "hard": { "english": "Sunrise", "nepali": "सूर्योदय" }
+      }
+    },
+    {
+      "id": "nature_028",
+      "english": "Moon",
+      "nepali": "चन्द्रमा",
+      "hints": {
+        "easy": { "english": "Night", "nepali": "रात" },
+        "medium": { "english": "Crescent", "nepali": "अर्धचन्द्र" },
+        "hard": { "english": "Lunar", "nepali": "चन्द्रसम्बन्धी" }
+      }
+    },
+    {
+      "id": "nature_029",
+      "english": "Star",
+      "nepali": "तारा",
+      "hints": {
+        "easy": { "english": "Twinkle", "nepali": "टिलपिल" },
+        "medium": { "english": "Night", "nepali": "रात" },
+        "hard": { "english": "Galaxy", "nepali": "आकाशगङ्गा" }
+      }
+    },
+    {
+      "id": "nature_030",
+      "english": "Planet",
+      "nepali": "ग्रह",
+      "hints": {
+        "easy": { "english": "Earth", "nepali": "पृथ्वी" },
+        "medium": { "english": "Orbit", "nepali": "कक्षा" },
+        "hard": { "english": "Jupiter", "nepali": "बृहस्पति" }
+      }
+    },
+    {
+      "id": "nature_031",
+      "english": "Rainbow",
+      "nepali": "इन्द्रेणी",
+      "hints": {
+        "easy": { "english": "Colors", "nepali": "रङहरू" },
+        "medium": { "english": "Rain", "nepali": "वर्षा" },
+        "hard": { "english": "Arc", "nepali": "चाप" }
+      }
+    },
+    {
+      "id": "nature_032",
+      "english": "Lightning",
+      "nepali": "चट्याङ",
+      "hints": {
+        "easy": { "english": "Thunder", "nepali": "गर्जन" },
+        "medium": { "english": "Flash", "nepali": "चमक" },
+        "hard": { "english": "Electricity", "nepali": "विद्युत्" }
+      }
+    },
+    {
+      "id": "nature_033",
+      "english": "Thunder",
+      "nepali": "गर्जन",
+      "hints": {
+        "easy": { "english": "Storm", "nepali": "आँधीबेहरी" },
+        "medium": { "english": "Loud", "nepali": "चर्को" },
+        "hard": { "english": "Rumble", "nepali": "गडगडाहट" }
+      }
+    },
+    {
+      "id": "nature_034",
+      "english": "Fog",
+      "nepali": "कुहिरो",
+      "hints": {
+        "easy": { "english": "Morning", "nepali": "बिहान" },
+        "medium": { "english": "Visibility", "nepali": "दृश्यता" },
+        "hard": { "english": "Mist", "nepali": "तुवाँलो" }
+      }
+    },
+    {
+      "id": "nature_036",
+      "english": "Ice",
+      "nepali": "बरफ",
+      "hints": {
+        "easy": { "english": "Cold", "nepali": "चिसो" },
+        "medium": { "english": "Freezer", "nepali": "फ्रिजर" },
+        "hard": { "english": "Frozen", "nepali": "जमेको" }
+      }
+    },
+    {
+      "id": "nature_037",
+      "english": "Fire",
+      "nepali": "आगो",
+      "hints": {
+        "easy": { "english": "Flame", "nepali": "ज्वाला" },
+        "medium": { "english": "Smoke", "nepali": "धुवाँ" },
+        "hard": { "english": "Ember", "nepali": "अङ्गार" }
+      }
+    },
+    {
+      "id": "nature_038",
+      "english": "Smoke",
+      "nepali": "धुवाँ",
+      "hints": {
+        "easy": { "english": "Fire", "nepali": "आगो" },
+        "medium": { "english": "Chimney", "nepali": "धुवाँदानी" },
+        "hard": { "english": "Ash", "nepali": "खरानी" }
+      }
+    },
+    {
+      "id": "nature_039",
+      "english": "Stone",
+      "nepali": "ढुङ्गा",
+      "hints": {
+        "easy": { "english": "Hard", "nepali": "कडा" },
+        "medium": { "english": "Pebble", "nepali": "गिट्टी" },
+        "hard": { "english": "Gravel", "nepali": "रोडा" }
+      }
+    },
+    {
+      "id": "nature_040",
+      "english": "Sand",
+      "nepali": "बालुवा",
+      "hints": {
+        "easy": { "english": "Beach", "nepali": "समुद्री किनार" },
+        "medium": { "english": "Desert", "nepali": "मरुभूमि" },
+        "hard": { "english": "Grains", "nepali": "कणहरू" }
+      }
+    },
+    {
+      "id": "nature_041",
+      "english": "Soil",
+      "nepali": "माटो",
+      "hints": {
+        "easy": { "english": "Plants", "nepali": "बिरुवाहरू" },
+        "medium": { "english": "Farming", "nepali": "खेतीपाती" },
+        "hard": { "english": "Fertile", "nepali": "उर्वर" }
+      }
+    },
+    {
+      "id": "nature_042",
+      "english": "Leaf",
+      "nepali": "पात",
+      "hints": {
+        "easy": { "english": "Green", "nepali": "हरियो" },
+        "medium": { "english": "Autumn", "nepali": "शरद ऋतु" },
+        "hard": { "english": "Veins", "nepali": "नसाहरू" }
+      }
+    },
+    {
+      "id": "nature_043",
+      "english": "Root",
+      "nepali": "जरा",
+      "hints": {
+        "easy": { "english": "Underground", "nepali": "भूमिगत" },
+        "medium": { "english": "Soil", "nepali": "माटो" },
+        "hard": { "english": "Anchor", "nepali": "आधार" }
+      }
+    },
+    {
+      "id": "nature_044",
+      "english": "Branch",
+      "nepali": "हाँगा",
+      "hints": {
+        "easy": { "english": "Tree", "nepali": "रुख" },
+        "medium": { "english": "Birds", "nepali": "चराहरू" },
+        "hard": { "english": "Twig", "nepali": "सानो हाँगा" }
+      }
+    },
+    {
+      "id": "nature_045",
+      "english": "Seed",
+      "nepali": "बीउ",
+      "hints": {
+        "easy": { "english": "Plant", "nepali": "बिरुवा" },
+        "medium": { "english": "Germination", "nepali": "अङ्कुरण" },
+        "hard": { "english": "Sprout", "nepali": "टुसा" }
+      }
+    },
+    {
+      "id": "nature_046",
+      "english": "Fruit",
+      "nepali": "फल",
+      "hints": {
+        "easy": { "english": "Apple", "nepali": "स्याउ" },
+        "medium": { "english": "Sweet", "nepali": "गुलियो" },
+        "hard": { "english": "Harvest", "nepali": "बाली भित्र्याउने" }
+      }
+    },
+    {
+      "id": "nature_047",
+      "english": "Vine",
+      "nepali": "लहरा",
+      "hints": {
+        "easy": { "english": "Climbing", "nepali": "चढ्ने" },
+        "medium": { "english": "Grapes", "nepali": "अङ्गुर" },
+        "hard": { "english": "Tendril", "nepali": "अङ्कुसे लहरा" }
+      }
+    },
+    {
+      "id": "nature_048",
+      "english": "Thorn",
+      "nepali": "काँडा",
+      "hints": {
+        "easy": { "english": "Rose", "nepali": "गुलाब" },
+        "medium": { "english": "Prick", "nepali": "घोच्नु" },
+        "hard": { "english": "Bramble", "nepali": "काँडेदार झाडी" }
+      }
+    },
+    {
+      "id": "nature_049",
+      "english": "Bush",
+      "nepali": "झाडी",
+      "hints": {
+        "easy": { "english": "Garden", "nepali": "बगैँचा" },
+        "medium": { "english": "Hedge", "nepali": "बार" },
+        "hard": { "english": "Shrub", "nepali": "सानो काठे बिरुवा" }
+      }
+    },
+    {
+      "id": "nature_050",
+      "english": "Palm Tree",
+      "nepali": "ताडको रुख",
+      "hints": {
+        "easy": { "english": "Tropical", "nepali": "उष्णकटिबन्धीय" },
+        "medium": { "english": "Coconut", "nepali": "नरिवल" },
+        "hard": { "english": "Fronds", "nepali": "लामा पातहरू" }
+      }
+    },
+    {
+      "id": "nature_051",
+      "english": "Season",
+      "nepali": "ऋतु",
+      "hints": {
+        "easy": { "english": "Weather", "nepali": "मौसम" },
+        "medium": { "english": "Calendar", "nepali": "पात्रो" },
+        "hard": { "english": "Cycle", "nepali": "चक्र" }
+      }
+    },
+    {
+      "id": "nature_052",
+      "english": "Spring",
+      "nepali": "वसन्त ऋतु",
+      "hints": {
+        "easy": { "english": "Flowers", "nepali": "फूलहरू" },
+        "medium": { "english": "Blossom", "nepali": "फुल्नु" },
+        "hard": { "english": "Thaw", "nepali": "हिउँ पग्लनु" }
+      }
+    },
+    {
+      "id": "nature_053",
+      "english": "Summer",
+      "nepali": "गर्मी",
+      "hints": {
+        "easy": { "english": "Heat", "nepali": "ताप" },
+        "medium": { "english": "Mango", "nepali": "आँप" },
+        "hard": { "english": "Solstice", "nepali": "अयनान्त" }
+      }
+    },
+    {
+      "id": "nature_054",
+      "english": "Autumn",
+      "nepali": "शरद ऋतु",
+      "hints": {
+        "easy": { "english": "Falling", "nepali": "झर्ने" },
+        "medium": { "english": "Leaves", "nepali": "पातहरू" },
+        "hard": { "english": "Harvest", "nepali": "बाली भित्र्याउने" }
+      }
+    },
+    {
+      "id": "nature_055",
+      "english": "Winter",
+      "nepali": "जाडो",
+      "hints": {
+        "easy": { "english": "Cold", "nepali": "चिसो" },
+        "medium": { "english": "Blanket", "nepali": "कम्बल" },
+        "hard": { "english": "Frost", "nepali": "तुषारो" }
+      }
+    },
+    {
+      "id": "nature_056",
+      "english": "Dew",
+      "nepali": "शीत",
+      "hints": {
+        "easy": { "english": "Morning", "nepali": "बिहान" },
+        "medium": { "english": "Grass", "nepali": "घाँस" },
+        "hard": { "english": "Droplets", "nepali": "थोपाहरू" }
+      }
+    },
+    {
+      "id": "nature_057",
+      "english": "Eclipse",
+      "nepali": "ग्रहण",
+      "hints": {
+        "easy": { "english": "Sun", "nepali": "सूर्य" },
+        "medium": { "english": "Moon", "nepali": "चन्द्रमा" },
+        "hard": { "english": "Shadow", "nepali": "छाया" }
+      }
+    },
+    {
+      "id": "nature_058",
+      "english": "Comet",
+      "nepali": "पुच्छ्रेतारा",
+      "hints": {
+        "easy": { "english": "Space", "nepali": "अन्तरिक्ष" },
+        "medium": { "english": "Tail", "nepali": "पुच्छर" },
+        "hard": { "english": "Halley", "nepali": "हेली" }
+      }
+    },
+    {
+      "id": "nature_059",
+      "english": "Galaxy",
+      "nepali": "आकाशगङ्गा",
+      "hints": {
+        "easy": { "english": "Stars", "nepali": "ताराहरू" },
+        "medium": { "english": "Milky Way", "nepali": "दुग्धमेखला" },
+        "hard": { "english": "Spiral", "nepali": "घुमाउरो" }
+      }
+    },
+    {
+      "id": "nature_060",
+      "english": "Earth",
+      "nepali": "पृथ्वी",
+      "hints": {
+        "easy": { "english": "Home", "nepali": "घर" },
+        "medium": { "english": "Blue", "nepali": "नीलो" },
+        "hard": { "english": "Orbit", "nepali": "कक्षा" }
+      }
+    }
+  ]
+}

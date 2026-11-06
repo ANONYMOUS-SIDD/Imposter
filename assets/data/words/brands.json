@@ -1,0 +1,1065 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "brands_001",
+      "english": "Apple",
+      "nepali": "एप्पल",
+      "hints": {
+        "easy": {"english": "iPhone", "nepali": "आइफोन"},
+        "medium": {"english": "Siri", "nepali": "सिरी"},
+        "hard": {"english": "MacBook", "nepali": "म्याकबुक"}
+      }
+    },
+    {
+      "id": "brands_002",
+      "english": "Samsung",
+      "nepali": "स्यामसङ",
+      "hints": {
+        "easy": {"english": "Galaxy", "nepali": "ग्यालेक्सी"},
+        "medium": {"english": "Fold", "nepali": "फोल्ड"},
+        "hard": {"english": "Bixby", "nepali": "बिक्सबी"}
+      }
+    },
+    {
+      "id": "brands_003",
+      "english": "Google",
+      "nepali": "गुगल",
+      "hints": {
+        "easy": {"english": "Search", "nepali": "खोज"},
+        "medium": {"english": "Chrome", "nepali": "क्रोम"},
+        "hard": {"english": "Android", "nepali": "एन्ड्रोइड"}
+      }
+    },
+    {
+      "id": "brands_004",
+      "english": "Microsoft",
+      "nepali": "माइक्रोसफ्ट",
+      "hints": {
+        "easy": {"english": "Windows", "nepali": "विन्डोज"},
+        "medium": {"english": "Excel", "nepali": "एक्सेल"},
+        "hard": {"english": "Xbox", "nepali": "एक्सबक्स"}
+      }
+    },
+    {
+      "id": "brands_005",
+      "english": "Sony",
+      "nepali": "सोनी",
+      "hints": {
+        "easy": {"english": "PlayStation", "nepali": "प्लेस्टेसन"},
+        "medium": {"english": "Walkman", "nepali": "वाकम्यान"},
+        "hard": {"english": "Bravia", "nepali": "ब्राभिया"}
+      }
+    },
+    {
+      "id": "brands_006",
+      "english": "LG",
+      "nepali": "एलजी",
+      "hints": {
+        "easy": {"english": "Television", "nepali": "टेलिभिजन"},
+        "medium": {"english": "Washing", "nepali": "धुलाई"},
+        "hard": {"english": "ThinQ", "nepali": "थिनक्यु"}
+      }
+    },
+    {
+      "id": "brands_007",
+      "english": "Xiaomi",
+      "nepali": "साओमी",
+      "hints": {
+        "easy": {"english": "Redmi", "nepali": "रेडमी"},
+        "medium": {"english": "Poco", "nepali": "पोको"},
+        "hard": {"english": "Mi", "nepali": "एमआई"}
+      }
+    },
+    {
+      "id": "brands_008",
+      "english": "Oppo",
+      "nepali": "ओप्पो",
+      "hints": {
+        "easy": {"english": "Reno", "nepali": "रेनो"},
+        "medium": {"english": "Selfie", "nepali": "सेल्फी"},
+        "hard": {"english": "ColorOS", "nepali": "कलरओएस"}
+      }
+    },
+    {
+      "id": "brands_009",
+      "english": "Vivo",
+      "nepali": "भिभो",
+      "hints": {
+        "easy": {"english": "Y-series", "nepali": "वाई सिरिज"},
+        "medium": {"english": "Selfie", "nepali": "सेल्फी"},
+        "hard": {"english": "Funtouch", "nepali": "फनटच"}
+      }
+    },
+    {
+      "id": "brands_010",
+      "english": "OnePlus",
+      "nepali": "वनप्लस",
+      "hints": {
+        "easy": {"english": "Nord", "nepali": "नर्ड"},
+        "medium": {"english": "Oxygen", "nepali": "अक्सिजन"},
+        "hard": {"english": "Alert", "nepali": "अलर्ट"}
+      }
+    },
+    {
+      "id": "brands_011",
+      "english": "Huawei",
+      "nepali": "हुवावे",
+      "hints": {
+        "easy": {"english": "Phone", "nepali": "फोन"},
+        "medium": {"english": "Harmony", "nepali": "हार्मोनी"},
+        "hard": {"english": "Kirin", "nepali": "किरिन"}
+      }
+    },
+    {
+      "id": "brands_012",
+      "english": "Dell",
+      "nepali": "डेल",
+      "hints": {
+        "easy": {"english": "Laptop", "nepali": "ल्यापटप"},
+        "medium": {"english": "Alienware", "nepali": "एलियनवेयर"},
+        "hard": {"english": "XPS", "nepali": "एक्सपीएस"}
+      }
+    },
+    {
+      "id": "brands_013",
+      "english": "HP",
+      "nepali": "एचपी",
+      "hints": {
+        "easy": {"english": "Printer", "nepali": "प्रिन्टर"},
+        "medium": {"english": "Pavilion", "nepali": "प्याभिलियन"},
+        "hard": {"english": "Omen", "nepali": "ओमेन"}
+      }
+    },
+    {
+      "id": "brands_014",
+      "english": "Lenovo",
+      "nepali": "लेनोभो",
+      "hints": {
+        "easy": {"english": "ThinkPad", "nepali": "थिङ्कप्याड"},
+        "medium": {"english": "Legion", "nepali": "लिजियन"},
+        "hard": {"english": "Yoga", "nepali": "योग"}
+      }
+    },
+    {
+      "id": "brands_015",
+      "english": "Intel",
+      "nepali": "इन्टेल",
+      "hints": {
+        "easy": {"english": "Processor", "nepali": "प्रोसेसर"},
+        "medium": {"english": "Pentium", "nepali": "पेन्टियम"},
+        "hard": {"english": "Inside", "nepali": "भित्र"}
+      }
+    },
+    {
+      "id": "brands_016",
+      "english": "Nike",
+      "nepali": "नाइकी",
+      "hints": {
+        "easy": {"english": "Swoosh", "nepali": "स्वुश"},
+        "medium": {"english": "Jordan", "nepali": "जोर्डन"},
+        "hard": {"english": "Athlete", "nepali": "खेलाडी"}
+      }
+    },
+    {
+      "id": "brands_017",
+      "english": "Adidas",
+      "nepali": "एडिडास",
+      "hints": {
+        "easy": {"english": "Stripes", "nepali": "धर्का"},
+        "medium": {"english": "Predator", "nepali": "प्रिडेटर"},
+        "hard": {"english": "Trefoil", "nepali": "ट्रिफोइल"}
+      }
+    },
+    {
+      "id": "brands_018",
+      "english": "Puma",
+      "nepali": "प्युमा",
+      "hints": {
+        "easy": {"english": "Cat", "nepali": "बिरालो"},
+        "medium": {"english": "Suede", "nepali": "स्वेड"},
+        "hard": {"english": "Jump", "nepali": "उफ्राइ"}
+      }
+    },
+    {
+      "id": "brands_019",
+      "english": "Reebok",
+      "nepali": "रिबोक",
+      "hints": {
+        "easy": {"english": "Fitness", "nepali": "व्यायाम"},
+        "medium": {"english": "Pump", "nepali": "पम्प"},
+        "hard": {"english": "Workout", "nepali": "कसरत"}
+      }
+    },
+    {
+      "id": "brands_020",
+      "english": "New Balance",
+      "nepali": "न्यु ब्यालेन्स",
+      "hints": {
+        "easy": {"english": "Sneakers", "nepali": "जुत्ता"},
+        "medium": {"english": "Running", "nepali": "दौड"},
+        "hard": {"english": "990", "nepali": "९९०"}
+      }
+    },
+    {
+      "id": "brands_021",
+      "english": "Converse",
+      "nepali": "कन्भर्स",
+      "hints": {
+        "easy": {"english": "Chuck", "nepali": "चक"},
+        "medium": {"english": "Canvas", "nepali": "क्यानभास"},
+        "hard": {"english": "Star", "nepali": "तारा"}
+      }
+    },
+    {
+      "id": "brands_022",
+      "english": "Vans",
+      "nepali": "भ्यान्स",
+      "hints": {
+        "easy": {"english": "Skateboard", "nepali": "स्केटबोर्ड"},
+        "medium": {"english": "Slip-on", "nepali": "स्लिपअन"},
+        "hard": {"english": "Checkerboard", "nepali": "चेकर्बोर्ड"}
+      }
+    },
+    {
+      "id": "brands_023",
+      "english": "Gucci",
+      "nepali": "गुच्ची",
+      "hints": {
+        "easy": {"english": "Luxury", "nepali": "महँगो"},
+        "medium": {"english": "Bamboo", "nepali": "बाँस"},
+        "hard": {"english": "Marmont", "nepali": "मार्मोन्ट"}
+      }
+    },
+    {
+      "id": "brands_024",
+      "english": "Louis Vuitton",
+      "nepali": "लुई भिटन",
+      "hints": {
+        "easy": {"english": "Handbag", "nepali": "हातेझोला"},
+        "medium": {"english": "Monogram", "nepali": "चिन्ह"},
+        "hard": {"english": "Damier", "nepali": "डामियर"}
+      }
+    },
+    {
+      "id": "brands_025",
+      "english": "Chanel",
+      "nepali": "च्यानल",
+      "hints": {
+        "easy": {"english": "Perfume", "nepali": "अत्तर"},
+        "medium": {"english": "Coco", "nepali": "कोको"},
+        "hard": {"english": "Camellia", "nepali": "क्यामेलिया"}
+      }
+    },
+    {
+      "id": "brands_026",
+      "english": "Zara",
+      "nepali": "जारा",
+      "hints": {
+        "easy": {"english": "Fashion", "nepali": "फेसन"},
+        "medium": {"english": "Spain", "nepali": "स्पेन"},
+        "hard": {"english": "Inditex", "nepali": "इन्डिटेक्स"}
+      }
+    },
+    {
+      "id": "brands_027",
+      "english": "H&M",
+      "nepali": "एच एन्ड एम",
+      "hints": {
+        "easy": {"english": "Clothes", "nepali": "लुगा"},
+        "medium": {"english": "Sweden", "nepali": "स्विडेन"},
+        "hard": {"english": "Mauritz", "nepali": "माउरिट्ज"}
+      }
+    },
+    {
+      "id": "brands_028",
+      "english": "Levi's",
+      "nepali": "लेभाइस",
+      "hints": {
+        "easy": {"english": "Jeans", "nepali": "जिन्स"},
+        "medium": {"english": "Denim", "nepali": "डेनिम"},
+        "hard": {"english": "501", "nepali": "५०१"}
+      }
+    },
+    {
+      "id": "brands_029",
+      "english": "Uniqlo",
+      "nepali": "युनिक्लो",
+      "hints": {
+        "easy": {"english": "Japan", "nepali": "जापान"},
+        "medium": {"english": "Heattech", "nepali": "हिटटेक"},
+        "hard": {"english": "AIRism", "nepali": "एयरिज्म"}
+      }
+    },
+    {
+      "id": "brands_030",
+      "english": "Rolex",
+      "nepali": "रोलेक्स",
+      "hints": {
+        "easy": {"english": "Watch", "nepali": "घडी"},
+        "medium": {"english": "Oyster", "nepali": "अयस्टर"},
+        "hard": {"english": "Daytona", "nepali": "डेटोना"}
+      }
+    },
+    {
+      "id": "brands_031",
+      "english": "Coca-Cola",
+      "nepali": "कोका-कोला",
+      "hints": {
+        "easy": {"english": "Santa", "nepali": "सान्टा"},
+        "medium": {"english": "Fizz", "nepali": "फिँज"},
+        "hard": {"english": "Polar", "nepali": "ध्रुवीय"}
+      }
+    },
+    {
+      "id": "brands_032",
+      "english": "Pepsi",
+      "nepali": "पेप्सी",
+      "hints": {
+        "easy": {"english": "Cola", "nepali": "कोला"},
+        "medium": {"english": "Blue", "nepali": "नीलो"},
+        "hard": {"english": "Max", "nepali": "म्याक्स"}
+      }
+    },
+    {
+      "id": "brands_033",
+      "english": "Fanta",
+      "nepali": "फ्यान्टा",
+      "hints": {
+        "easy": {"english": "Orange", "nepali": "सुन्तला"},
+        "medium": {"english": "Fizz", "nepali": "फिँज"},
+        "hard": {"english": "Grape", "nepali": "अङ्गुर"}
+      }
+    },
+    {
+      "id": "brands_034",
+      "english": "Sprite",
+      "nepali": "स्प्राइट",
+      "hints": {
+        "easy": {"english": "Lemon", "nepali": "कागती"},
+        "medium": {"english": "Clear", "nepali": "पारदर्शी"},
+        "hard": {"english": "Lime", "nepali": "निबुवा"}
+      }
+    },
+    {
+      "id": "brands_035",
+      "english": "Mountain Dew",
+      "nepali": "माउन्टेन ड्यु",
+      "hints": {
+        "easy": {"english": "Green", "nepali": "हरियो"},
+        "medium": {"english": "Baja", "nepali": "बाजा"},
+        "hard": {"english": "Voltage", "nepali": "भोल्टेज"}
+      }
+    },
+    {
+      "id": "brands_036",
+      "english": "Red Bull",
+      "nepali": "रेड बुल",
+      "hints": {
+        "easy": {"english": "Wings", "nepali": "पखेटा"},
+        "medium": {"english": "Energy", "nepali": "ऊर्जा"},
+        "hard": {"english": "Formula", "nepali": "फर्मुला"}
+      }
+    },
+    {
+      "id": "brands_037",
+      "english": "Nescafé",
+      "nepali": "नेस्काफे",
+      "hints": {
+        "easy": {"english": "Coffee", "nepali": "कफी"},
+        "medium": {"english": "Instant", "nepali": "तुरुन्त"},
+        "hard": {"english": "Dolce", "nepali": "डोल्चे"}
+      }
+    },
+    {
+      "id": "brands_038",
+      "english": "Starbucks",
+      "nepali": "स्टारबक्स",
+      "hints": {
+        "easy": {"english": "Cafe", "nepali": "क्याफे"},
+        "medium": {"english": "Frappuccino", "nepali": "फ्रापुचिनो"},
+        "hard": {"english": "Siren", "nepali": "जलपरी"}
+      }
+    },
+    {
+      "id": "brands_039",
+      "english": "KFC",
+      "nepali": "केएफसी",
+      "hints": {
+        "easy": {"english": "Chicken", "nepali": "कुखुरा"},
+        "medium": {"english": "Colonel", "nepali": "कर्नेल"},
+        "hard": {"english": "Bucket", "nepali": "बाल्टी"}
+      }
+    },
+    {
+      "id": "brands_040",
+      "english": "McDonald's",
+      "nepali": "म्याकडोनाल्ड्स",
+      "hints": {
+        "easy": {"english": "Burger", "nepali": "बर्गर"},
+        "medium": {"english": "Ronald", "nepali": "रोनाल्ड"},
+        "hard": {"english": "Clown", "nepali": "जोकर"}
+      }
+    },
+    {
+      "id": "brands_041",
+      "english": "Pizza Hut",
+      "nepali": "पिज्जा हट",
+      "hints": {
+        "easy": {"english": "Pizza", "nepali": "पिज्जा"},
+        "medium": {"english": "Pan", "nepali": "प्यान"},
+        "hard": {"english": "Hut", "nepali": "झुपडी"}
+      }
+    },
+    {
+      "id": "brands_042",
+      "english": "Domino's",
+      "nepali": "डोमिनोज",
+      "hints": {
+        "easy": {"english": "Pizza", "nepali": "पिज्जा"},
+        "medium": {"english": "Delivery", "nepali": "डेलिभरी"},
+        "hard": {"english": "Tiles", "nepali": "टायल"}
+      }
+    },
+    {
+      "id": "brands_043",
+      "english": "Subway",
+      "nepali": "सबवे",
+      "hints": {
+        "easy": {"english": "Sandwich", "nepali": "स्यान्डविच"},
+        "medium": {"english": "Footlong", "nepali": "फुटलङ"},
+        "hard": {"english": "Yellow", "nepali": "पहेंलो"}
+      }
+    },
+    {
+      "id": "brands_044",
+      "english": "Oreo",
+      "nepali": "ओरियो",
+      "hints": {
+        "easy": {"english": "Cookie", "nepali": "कुकी"},
+        "medium": {"english": "Dunk", "nepali": "डुबाइ"},
+        "hard": {"english": "Twist", "nepali": "मोड"}
+      }
+    },
+    {
+      "id": "brands_045",
+      "english": "KitKat",
+      "nepali": "किटक्याट",
+      "hints": {
+        "easy": {"english": "Chocolate", "nepali": "चकलेट"},
+        "medium": {"english": "Break", "nepali": "विश्राम"},
+        "hard": {"english": "Fingers", "nepali": "औँलाहरू"}
+      }
+    },
+    {
+      "id": "brands_046",
+      "english": "Snickers",
+      "nepali": "स्निकर्स",
+      "hints": {
+        "easy": {"english": "Peanuts", "nepali": "बदाम"},
+        "medium": {"english": "Nougat", "nepali": "नुगाट"},
+        "hard": {"english": "Hunger", "nepali": "भोक"}
+      }
+    },
+    {
+      "id": "brands_047",
+      "english": "Dairy Milk",
+      "nepali": "डेरी मिल्क",
+      "hints": {
+        "easy": {"english": "Cadbury", "nepali": "क्याडबरी"},
+        "medium": {"english": "Purple", "nepali": "बैजनी"},
+        "hard": {"english": "Silk", "nepali": "सिल्क"}
+      }
+    },
+    {
+      "id": "brands_048",
+      "english": "Nestlé",
+      "nepali": "नेस्ले",
+      "hints": {
+        "easy": {"english": "Milo", "nepali": "माइलो"},
+        "medium": {"english": "Nido", "nepali": "निडो"},
+        "hard": {"english": "KitKat", "nepali": "किटक्याट"}
+      }
+    },
+    {
+      "id": "brands_049",
+      "english": "Maggi",
+      "nepali": "म्यागी",
+      "hints": {
+        "easy": {"english": "Noodles", "nepali": "चाउचाउ"},
+        "medium": {"english": "Masala", "nepali": "मसला"},
+        "hard": {"english": "Yellow", "nepali": "पहेंलो"}
+      }
+    },
+    {
+      "id": "brands_050",
+      "english": "Lay's",
+      "nepali": "लेज",
+      "hints": {
+        "easy": {"english": "Chips", "nepali": "चिप्स"},
+        "medium": {"english": "Potato", "nepali": "आलु"},
+        "hard": {"english": "Wavy", "nepali": "लहरदार"}
+      }
+    },
+    {
+      "id": "brands_051",
+      "english": "Toyota",
+      "nepali": "टोयोटा",
+      "hints": {
+        "easy": {"english": "Corolla", "nepali": "कोरोला"},
+        "medium": {"english": "Hilux", "nepali": "हाइलक्स"},
+        "hard": {"english": "Prius", "nepali": "प्रियस"}
+      }
+    },
+    {
+      "id": "brands_052",
+      "english": "Honda",
+      "nepali": "होन्डा",
+      "hints": {
+        "easy": {"english": "Civic", "nepali": "सिभिक"},
+        "medium": {"english": "Activa", "nepali": "एक्टिभा"},
+        "hard": {"english": "VTEC", "nepali": "भीटेक"}
+      }
+    },
+    {
+      "id": "brands_053",
+      "english": "Hyundai",
+      "nepali": "हुन्डाई",
+      "hints": {
+        "easy": {"english": "Creta", "nepali": "क्रेटा"},
+        "medium": {"english": "Tucson", "nepali": "टक्सन"},
+        "hard": {"english": "Ioniq", "nepali": "आयोनिक"}
+      }
+    },
+    {
+      "id": "brands_054",
+      "english": "Kia",
+      "nepali": "किया",
+      "hints": {
+        "easy": {"english": "Seltos", "nepali": "सेल्टोस"},
+        "medium": {"english": "Sonet", "nepali": "सोनेट"},
+        "hard": {"english": "Carnival", "nepali": "कार्निभल"}
+      }
+    },
+    {
+      "id": "brands_055",
+      "english": "Suzuki",
+      "nepali": "सुजुकी",
+      "hints": {
+        "easy": {"english": "Swift", "nepali": "स्विफ्ट"},
+        "medium": {"english": "Alto", "nepali": "अल्टो"},
+        "hard": {"english": "Jimny", "nepali": "जिम्नी"}
+      }
+    },
+    {
+      "id": "brands_056",
+      "english": "BMW",
+      "nepali": "बीएमडब्ल्यु",
+      "hints": {
+        "easy": {"english": "Luxury", "nepali": "महँगो"},
+        "medium": {"english": "Motorcycle", "nepali": "मोटरसाइकल"},
+        "hard": {"english": "M3", "nepali": "एमथ्री"}
+      }
+    },
+    {
+      "id": "brands_057",
+      "english": "Mercedes-Benz",
+      "nepali": "मर्सिडिज बेन्ज",
+      "hints": {
+        "easy": {"english": "Benz", "nepali": "बेन्ज"},
+        "medium": {"english": "AMG", "nepali": "एएमजी"},
+        "hard": {"english": "Maybach", "nepali": "मेब्याक"}
+      }
+    },
+    {
+      "id": "brands_058",
+      "english": "Audi",
+      "nepali": "अडी",
+      "hints": {
+        "easy": {"english": "Rings", "nepali": "घेरा"},
+        "medium": {"english": "Quattro", "nepali": "क्वाट्रो"},
+        "hard": {"english": "German", "nepali": "जर्मन"}
+      }
+    },
+    {
+      "id": "brands_059",
+      "english": "Tesla",
+      "nepali": "टेस्ला",
+      "hints": {
+        "easy": {"english": "Electric", "nepali": "विद्युतीय"},
+        "medium": {"english": "Autopilot", "nepali": "अटोपाइलट"},
+        "hard": {"english": "Cybertruck", "nepali": "साइबरट्रक"}
+      }
+    },
+    {
+      "id": "brands_060",
+      "english": "Ferrari",
+      "nepali": "फेरारी",
+      "hints": {
+        "easy": {"english": "Racing", "nepali": "दौड"},
+        "medium": {"english": "Maranello", "nepali": "मारानेलो"},
+        "hard": {"english": "Horse", "nepali": "घोडा"}
+      }
+    },
+    {
+      "id": "brands_061",
+      "english": "Lamborghini",
+      "nepali": "ल्याम्बोर्गिनी",
+      "hints": {
+        "easy": {"english": "Bull", "nepali": "साँढे"},
+        "medium": {"english": "Aventador", "nepali": "अभेन्टाडोर"},
+        "hard": {"english": "Huracan", "nepali": "हुराकान"}
+      }
+    },
+    {
+      "id": "brands_062",
+      "english": "Yamaha",
+      "nepali": "यामाहा",
+      "hints": {
+        "easy": {"english": "R15", "nepali": "आर१५"},
+        "medium": {"english": "MT", "nepali": "एमटी"},
+        "hard": {"english": "Rev", "nepali": "रेभ"}
+      }
+    },
+    {
+      "id": "brands_063",
+      "english": "Bajaj",
+      "nepali": "बजाज",
+      "hints": {
+        "easy": {"english": "Pulsar", "nepali": "पल्सर"},
+        "medium": {"english": "Chetak", "nepali": "चेतक"},
+        "hard": {"english": "Dominar", "nepali": "डोमिनार"}
+      }
+    },
+    {
+      "id": "brands_064",
+      "english": "TVS",
+      "nepali": "टीभीएस",
+      "hints": {
+        "easy": {"english": "Apache", "nepali": "अपाचे"},
+        "medium": {"english": "Ntorq", "nepali": "एनटर्क"},
+        "hard": {"english": "Raider", "nepali": "रेडर"}
+      }
+    },
+    {
+      "id": "brands_065",
+      "english": "Royal Enfield",
+      "nepali": "रोयल इन्फिल्ड",
+      "hints": {
+        "easy": {"english": "Bullet", "nepali": "बुलेट"},
+        "medium": {"english": "Himalayan", "nepali": "हिमालयन"},
+        "hard": {"english": "Thump", "nepali": "धड्कन"}
+      }
+    },
+    {
+      "id": "brands_066",
+      "english": "Colgate",
+      "nepali": "कोलगेट",
+      "hints": {
+        "easy": {"english": "Toothpaste", "nepali": "दन्तमञ्जन"},
+        "medium": {"english": "Smile", "nepali": "मुस्कान"},
+        "hard": {"english": "MaxFresh", "nepali": "म्याक्सफ्रेस"}
+      }
+    },
+    {
+      "id": "brands_067",
+      "english": "Closeup",
+      "nepali": "क्लोजअप",
+      "hints": {
+        "easy": {"english": "Toothpaste", "nepali": "दन्तमञ्जन"},
+        "medium": {"english": "Gel", "nepali": "जेल"},
+        "hard": {"english": "Red", "nepali": "रातो"}
+      }
+    },
+    {
+      "id": "brands_068",
+      "english": "Sensodyne",
+      "nepali": "सेन्सोडाइन",
+      "hints": {
+        "easy": {"english": "Teeth", "nepali": "दाँत"},
+        "medium": {"english": "Sensitivity", "nepali": "संवेदनशीलता"},
+        "hard": {"english": "Cold", "nepali": "चिसो"}
+      }
+    },
+    {
+      "id": "brands_069",
+      "english": "Dove",
+      "nepali": "डभ",
+      "hints": {
+        "easy": {"english": "Soap", "nepali": "साबुन"},
+        "medium": {"english": "Moisture", "nepali": "चिस्यान"},
+        "hard": {"english": "Beauty", "nepali": "सुन्दरता"}
+      }
+    },
+    {
+      "id": "brands_070",
+      "english": "Lux",
+      "nepali": "लक्स",
+      "hints": {
+        "easy": {"english": "Soap", "nepali": "साबुन"},
+        "medium": {"english": "Jasmine", "nepali": "चमेली"},
+        "hard": {"english": "Orchid", "nepali": "सुनाखरी"}
+      }
+    },
+    {
+      "id": "brands_071",
+      "english": "Nivea",
+      "nepali": "निभिया",
+      "hints": {
+        "easy": {"english": "Cream", "nepali": "क्रिम"},
+        "medium": {"english": "Blue", "nepali": "नीलो"},
+        "hard": {"english": "Labello", "nepali": "लाबेलो"}
+      }
+    },
+    {
+      "id": "brands_072",
+      "english": "Vaseline",
+      "nepali": "भ्यासलिन",
+      "hints": {
+        "easy": {"english": "Jelly", "nepali": "जेली"},
+        "medium": {"english": "Petroleum", "nepali": "पेट्रोलियम"},
+        "hard": {"english": "Cracked", "nepali": "फाटेको"}
+      }
+    },
+    {
+      "id": "brands_073",
+      "english": "Sunsilk",
+      "nepali": "सनसिल्क",
+      "hints": {
+        "easy": {"english": "Shampoo", "nepali": "स्याम्पु"},
+        "medium": {"english": "Silky", "nepali": "रेशमी"},
+        "hard": {"english": "Hair", "nepali": "कपाल"}
+      }
+    },
+    {
+      "id": "brands_074",
+      "english": "Head & Shoulders",
+      "nepali": "हेड एन्ड सोल्डर्स",
+      "hints": {
+        "easy": {"english": "Dandruff", "nepali": "चायाँ"},
+        "medium": {"english": "Shampoo", "nepali": "स्याम्पु"},
+        "hard": {"english": "Flakes", "nepali": "चायाँ"}
+      }
+    },
+    {
+      "id": "brands_075",
+      "english": "Pantene",
+      "nepali": "प्यान्टिन",
+      "hints": {
+        "easy": {"english": "Hair", "nepali": "कपाल"},
+        "medium": {"english": "Shampoo", "nepali": "स्याम्पु"},
+        "hard": {"english": "Keratin", "nepali": "केराटिन"}
+      }
+    },
+    {
+      "id": "brands_076",
+      "english": "Dettol",
+      "nepali": "डेटोल",
+      "hints": {
+        "easy": {"english": "Antiseptic", "nepali": "कीटाणुनाशक"},
+        "medium": {"english": "Wound", "nepali": "घाउ"},
+        "hard": {"english": "Green", "nepali": "हरियो"}
+      }
+    },
+    {
+      "id": "brands_077",
+      "english": "Lifebuoy",
+      "nepali": "लाइफबोय",
+      "hints": {
+        "easy": {"english": "Handwash", "nepali": "हातधुने"},
+        "medium": {"english": "Germs", "nepali": "कीटाणु"},
+        "hard": {"english": "Red", "nepali": "रातो"}
+      }
+    },
+    {
+      "id": "brands_078",
+      "english": "Ariel",
+      "nepali": "एरियल",
+      "hints": {
+        "easy": {"english": "Detergent", "nepali": "लुगा धुने साबुन"},
+        "medium": {"english": "Laundry", "nepali": "लुगा धुने"},
+        "hard": {"english": "Pods", "nepali": "पड्स"}
+      }
+    },
+    {
+      "id": "brands_079",
+      "english": "Surf Excel",
+      "nepali": "सर्फ एक्सेल",
+      "hints": {
+        "easy": {"english": "Washing", "nepali": "धुलाई"},
+        "medium": {"english": "Stains", "nepali": "दाग"},
+        "hard": {"english": "Daag", "nepali": "दाग"}
+      }
+    },
+    {
+      "id": "brands_080",
+      "english": "Philips",
+      "nepali": "फिलिप्स",
+      "hints": {
+        "easy": {"english": "Bulb", "nepali": "बल्ब"},
+        "medium": {"english": "Shaver", "nepali": "दाह्री काट्ने"},
+        "hard": {"english": "Hue", "nepali": "ह्यु"}
+      }
+    },
+    {
+      "id": "brands_081",
+      "english": "Netflix",
+      "nepali": "नेटफ्लिक्स",
+      "hints": {
+        "easy": {"english": "Movies", "nepali": "चलचित्र"},
+        "medium": {"english": "Binge", "nepali": "लगातार"},
+        "hard": {"english": "Tudum", "nepali": "टुडुम"}
+      }
+    },
+    {
+      "id": "brands_082",
+      "english": "YouTube",
+      "nepali": "युट्युब",
+      "hints": {
+        "easy": {"english": "Videos", "nepali": "भिडियो"},
+        "medium": {"english": "Shorts", "nepali": "सर्ट्स"},
+        "hard": {"english": "Subscribe", "nepali": "सदस्यता"}
+      }
+    },
+    {
+      "id": "brands_083",
+      "english": "Instagram",
+      "nepali": "इन्स्टाग्राम",
+      "hints": {
+        "easy": {"english": "Photos", "nepali": "तस्बिर"},
+        "medium": {"english": "Reels", "nepali": "रिल्स"},
+        "hard": {"english": "Filter", "nepali": "फिल्टर"}
+      }
+    },
+    {
+      "id": "brands_084",
+      "english": "Facebook",
+      "nepali": "फेसबुक",
+      "hints": {
+        "easy": {"english": "Friends", "nepali": "साथीहरू"},
+        "medium": {"english": "Timeline", "nepali": "टाइमलाइन"},
+        "hard": {"english": "Poke", "nepali": "पोक"}
+      }
+    },
+    {
+      "id": "brands_085",
+      "english": "TikTok",
+      "nepali": "टिकटक",
+      "hints": {
+        "easy": {"english": "Dance", "nepali": "नाच"},
+        "medium": {"english": "Duet", "nepali": "डुएट"},
+        "hard": {"english": "ByteDance", "nepali": "बाइटडान्स"}
+      }
+    },
+    {
+      "id": "brands_086",
+      "english": "WhatsApp",
+      "nepali": "ह्वाट्सएप",
+      "hints": {
+        "easy": {"english": "Messaging", "nepali": "सन्देश"},
+        "medium": {"english": "Green", "nepali": "हरियो"},
+        "hard": {"english": "Blue-tick", "nepali": "निलो टिक"}
+      }
+    },
+    {
+      "id": "brands_087",
+      "english": "Spotify",
+      "nepali": "स्पोटिफाइ",
+      "hints": {
+        "easy": {"english": "Music", "nepali": "सङ्गीत"},
+        "medium": {"english": "Playlist", "nepali": "गीतसूची"},
+        "hard": {"english": "Wrapped", "nepali": "र्‍याप्ड"}
+      }
+    },
+    {
+      "id": "brands_088",
+      "english": "PlayStation",
+      "nepali": "प्लेस्टेसन",
+      "hints": {
+        "easy": {"english": "Gaming", "nepali": "गेमिङ"},
+        "medium": {"english": "Controller", "nepali": "कन्ट्रोलर"},
+        "hard": {"english": "Kratos", "nepali": "क्राटोस"}
+      }
+    },
+    {
+      "id": "brands_089",
+      "english": "Nintendo",
+      "nepali": "निन्टेन्डो",
+      "hints": {
+        "easy": {"english": "Mario", "nepali": "मारियो"},
+        "medium": {"english": "Zelda", "nepali": "जेल्डा"},
+        "hard": {"english": "Switch", "nepali": "स्विच"}
+      }
+    },
+    {
+      "id": "brands_090",
+      "english": "Lego",
+      "nepali": "लेगो",
+      "hints": {
+        "easy": {"english": "Bricks", "nepali": "इँटा"},
+        "medium": {"english": "Building", "nepali": "निर्माण"},
+        "hard": {"english": "Minifigure", "nepali": "मिनिफिगर"}
+      }
+    },
+    {
+      "id": "brands_091",
+      "english": "Barbie",
+      "nepali": "बार्बी",
+      "hints": {
+        "easy": {"english": "Doll", "nepali": "गुडिया"},
+        "medium": {"english": "Ken", "nepali": "केन"},
+        "hard": {"english": "Dreamhouse", "nepali": "ड्रिमहाउस"}
+      }
+    },
+    {
+      "id": "brands_092",
+      "english": "Hot Wheels",
+      "nepali": "हट ह्विल्स",
+      "hints": {
+        "easy": {"english": "Toycar", "nepali": "खेलौना गाडी"},
+        "medium": {"english": "Racing", "nepali": "दौड"},
+        "hard": {"english": "Loop", "nepali": "लुप"}
+      }
+    },
+    {
+      "id": "brands_093",
+      "english": "Disney",
+      "nepali": "डिज्नी",
+      "hints": {
+        "easy": {"english": "Mickey", "nepali": "मिक्की"},
+        "medium": {"english": "Princess", "nepali": "राजकुमारी"},
+        "hard": {"english": "Cinderella", "nepali": "सिन्ड्रेला"}
+      }
+    },
+    {
+      "id": "brands_094",
+      "english": "Marvel",
+      "nepali": "मार्भल",
+      "hints": {
+        "easy": {"english": "Avengers", "nepali": "एभेन्जर्स"},
+        "medium": {"english": "Ironman", "nepali": "आइरनम्यान"},
+        "hard": {"english": "Thanos", "nepali": "थानोस"}
+      }
+    },
+    {
+      "id": "brands_095",
+      "english": "DC",
+      "nepali": "डीसी",
+      "hints": {
+        "easy": {"english": "Batman", "nepali": "ब्याटम्यान"},
+        "medium": {"english": "Gotham", "nepali": "गोथम"},
+        "hard": {"english": "Kryptonite", "nepali": "क्रिप्टोनाइट"}
+      }
+    },
+    {
+      "id": "brands_096",
+      "english": "IKEA",
+      "nepali": "आइकिया",
+      "hints": {
+        "easy": {"english": "Furniture", "nepali": "फर्निचर"},
+        "medium": {"english": "Assembly", "nepali": "जडान"},
+        "hard": {"english": "Meatballs", "nepali": "मिटबल्स"}
+      }
+    },
+    {
+      "id": "brands_097",
+      "english": "Canon",
+      "nepali": "क्यानन",
+      "hints": {
+        "easy": {"english": "Camera", "nepali": "क्यामेरा"},
+        "medium": {"english": "EOS", "nepali": "ईओएस"},
+        "hard": {"english": "Pixma", "nepali": "पिक्स्मा"}
+      }
+    },
+    {
+      "id": "brands_098",
+      "english": "Nikon",
+      "nepali": "निकोन",
+      "hints": {
+        "easy": {"english": "Photography", "nepali": "फोटोग्राफी"},
+        "medium": {"english": "Lens", "nepali": "लेन्स"},
+        "hard": {"english": "Nikkor", "nepali": "निकोर्न"}
+      }
+    },
+    {
+      "id": "brands_099",
+      "english": "GoPro",
+      "nepali": "गोप्रो",
+      "hints": {
+        "easy": {"english": "Action", "nepali": "एक्सन"},
+        "medium": {"english": "Helmet", "nepali": "हेल्मेट"},
+        "hard": {"english": "Hero", "nepali": "हिरो"}
+      }
+    },
+    {
+      "id": "brands_100",
+      "english": "CG",
+      "nepali": "सीजी",
+      "hints": {
+        "easy": {"english": "Chaudhary", "nepali": "चौधरी"},
+        "medium": {"english": "Nepal", "nepali": "नेपाल"},
+        "hard": {"english": "CGNet", "nepali": "सीजीनेट"}
+      }
+    },
+    {
+      "id": "brands_101",
+      "english": "Wai Wai",
+      "nepali": "वाई वाई",
+      "hints": {
+        "easy": {"english": "Noodles", "nepali": "चाउचाउ"},
+        "medium": {"english": "Crunchy", "nepali": "कुरकुरे"},
+        "hard": {"english": "Seasoning", "nepali": "मसला"}
+      }
+    },
+    {
+      "id": "brands_102",
+      "english": "Goldstar",
+      "nepali": "गोल्डस्टार",
+      "hints": {
+        "easy": {"english": "Shoes", "nepali": "जुत्ता"},
+        "medium": {"english": "Nepali", "nepali": "नेपाली"},
+        "hard": {"english": "G10", "nepali": "जी१०"}
+      }
+    },
+    {
+      "id": "brands_103",
+      "english": "Yeti Airlines",
+      "nepali": "यती एयरलाइन्स",
+      "hints": {
+        "easy": {"english": "Flight", "nepali": "उडान"},
+        "medium": {"english": "Lukla", "nepali": "लुक्ला"},
+        "hard": {"english": "Mountain", "nepali": "पहाड"}
+      }
+    },
+    {
+      "id": "brands_104",
+      "english": "Buddha Air",
+      "nepali": "बुद्ध एयर",
+      "hints": {
+        "easy": {"english": "Flight", "nepali": "उडान"},
+        "medium": {"english": "ATR", "nepali": "एटीआर"},
+        "hard": {"english": "Buddha", "nepali": "बुद्ध"}
+      }
+    },
+    {
+      "id": "brands_105",
+      "english": "Khalti",
+      "nepali": "खल्ती",
+      "hints": {
+        "easy": {"english": "Wallet", "nepali": "वालेट"},
+        "medium": {"english": "Tickets", "nepali": "टिकट"},
+        "hard": {"english": "Cashback", "nepali": "क्यासब्याक"}
+      }
+    },
+    {
+      "id": "brands_106",
+      "english": "eSewa",
+      "nepali": "ईसेवा",
+      "hints": {
+        "easy": {"english": "Payment", "nepali": "भुक्तानी"},
+        "medium": {"english": "Topup", "nepali": "टपअप"},
+        "hard": {"english": "Remittance", "nepali": "रेमिट्यान्स"}
+      }
+    }
+  ]
+}
